@@ -44,7 +44,7 @@ if $0 == __FILE__
       end
     end
     data = {
-      bibid: row["LIMEBIB"],
+      id: row["LIMEBIB"],
       vol: row["VOL"],
       isbn: isbns,
       gsmd: row["G/SMD"],
@@ -53,7 +53,7 @@ if $0 == __FILE__
       title_lang: row["TTLL"],
       text_lang: row["TXTL"],
       reproduction: row["REPRO"],
-      identifiers: identifiers,
+      identifier: identifiers,
       title: row["TR"],
       publisher: row["PUB"],
       phys: row["PHYS"],
@@ -62,7 +62,7 @@ if $0 == __FILE__
       note: row["NOTE"],
       ptbl: row["PTBL"],
       author: row["AL"],
-      classifications: classifications,
+      classification: classifications,
 #SH
 #LIMEHL
 #VOL
