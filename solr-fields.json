@@ -1,0 +1,91 @@
+{
+  "add-field": [
+  { "name": "default",
+    "type": "text_ja"
+  },
+  { "name": "bibid",
+    "type": "string"
+  },
+  { "name": "vol",
+    "type": "string"
+  },
+  { "name": "isbn",
+    "type": "string",
+    "multiValued": true
+  },
+  { "name": "gsmd",
+    "type": "string"
+  },
+  { "name": "year",
+    "type": "string"
+  },
+  { "name": "country",
+    "type": "string"
+  },
+  { "name": "title_lang",
+    "type": "string"
+  },
+  { "name": "text_lang",
+    "type": "string"
+  },
+  { "name": "reproduction",
+    "type": "string"
+  },
+  { "name": "identifier",
+    "type": "string",
+    "multiValued": true
+  },
+  { "name": "title",
+    "type": "text_ja"
+  },
+  { "name": "publisher",
+    "type": "text_ja"
+  },
+  { "name": "phys",
+    "type": "text_ja"
+  },
+  { "name": "variant_title",
+    "type": "text_ja"
+  },
+  { "name": "sub_work",
+    "type": "text_ja"
+  },
+  { "name": "note",
+    "type": "text_ja"
+  },
+  { "name": "ptbl",
+    "type": "text_ja"
+  },
+  { "name": "author",
+    "type": "text_ja"
+  },
+  { "name": "classification",
+    "type": "string",
+    "multiValued": true
+  }
+  ],
+  "add-copy-field": [
+  { "source": "title",
+    "dest": "default"
+  },
+  { "source": "publisher",
+    "dest": "default"
+  },
+  { "source": "author",
+    "dest": "default"
+  },
+  { "source": "sub_work",
+    "dest": "default"
+  },
+  { "source": "ptbl",
+    "dest": "default"
+  },
+  { "source": "note",
+    "dest": "default"
+  },
+  { "source": "identifier",
+    "dest": "default"
+  }
+  ] 
+  }
+}
