@@ -1,0 +1,16 @@
+{
+  "delete-copy-field": {
+   "source": "title", "dest": "default" },
+  "delete-copy-field": {
+    "source": "publisher", "dest": "default" },
+  "delete-copy-field": {
+    "source": "author", "dest": "default" },
+  "delete-copy-field": {
+    "source": "sub_work", "dest": "default" },
+  "delete-copy-field": {
+    "source": "ptbl", "dest": "default" },
+  "delete-copy-field": {
+    "source": "note", "dest": "default" },
+  "delete-copy-field": {
+    "source": "identifier", "dest": "default" }
+}

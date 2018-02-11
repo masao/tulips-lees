@@ -1,0 +1,24 @@
+{
+  "delete-field": [
+  { "name": "default" },
+  { "name": "bibid" },
+  { "name": "vol" },
+  { "name": "isbn" },
+  { "name": "gsmd" },
+  { "name": "year" },
+  { "name": "country" },
+  { "name": "title_lang" },
+  { "name": "text_lang" },
+  { "name": "reproduction" },
+  { "name": "identifier" },
+  { "name": "title" },
+  { "name": "publisher" },
+  { "name": "phys" },
+  { "name": "variant_title" },
+  { "name": "sub_work" },
+  { "name": "note" },
+  { "name": "ptbl" },
+  { "name": "author" },
+  { "name": "classification" }
+  ]
+}
