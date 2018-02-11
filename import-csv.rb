@@ -2,11 +2,25 @@
 
 require "csv"
 require "lisbn"
+require "rsolr"
+
+class String
+  def omit_invalid_chars
+    self.gsub(/[\x00-\x08\x0b-\x1f]/, "")
+  end
+end
 
 if $0 == __FILE__
+  solr = RSolr.connect(url: "http://localhost:8983/solr/tulips")
   csv = CSV.new(ARGF, headers: true, row_sep: "\r\n")
+  count = 0
   csv.each do |row|
     # LIMEBIB,VOL,ISBN,G/SMD,YEAR,CNTRY,TTLL,TXTL,REPRO,OTHN,TR,PUB,PHYS,VT,CW,NOTE,PTBL,AL,CLS,SH,LIMEHL,VOL,CLN,資料ID,受入区分,貸出区分,受入日
+    row.each do |k, v|
+      if v
+        row[k] = v.omit_invalid_chars
+      end
+    end
     isbns = []
     if row["ISBN"]
       isbn = Lisbn.new(row["ISBN"])
@@ -25,6 +39,8 @@ if $0 == __FILE__
         case key
         when "JLA", "TRC"
           key = :trc
+        when nil
+          key = nil
         else
           key = key.downcase.to_sym
         end
@@ -73,5 +89,9 @@ if $0 == __FILE__
 #受入日
     }
     p data
+    solr.add(data)
+    count += 1
+    solr.commit if count % 10000 == 0
   end
+  solr.commit
 end
