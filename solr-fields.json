@@ -1,7 +1,8 @@
 {
   "add-field": [
   { "name": "default",
-    "type": "text_ja"
+    "type": "text_ja",
+    "multiValued": true
   },
   { "name": "bibid",
     "type": "string"
