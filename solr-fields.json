@@ -78,15 +78,12 @@
   { "source": "sub_work",
     "dest": "default"
   },
+  { "source": "variant_title",
+    "dest": "default"
+  },
   { "source": "ptbl",
     "dest": "default"
   },
-  { "source": "note",
-    "dest": "default"
-  },
-  { "source": "identifier",
-    "dest": "default"
-  }
   ] 
   }
 }
