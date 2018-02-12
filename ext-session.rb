@@ -8,7 +8,7 @@ SESSION_EXPIRE = 60 * 60
 if $0 == __FILE__
   include AccessLog
   sessions = {}
-  count = 0
+  count = Hash.new(0)
   ARGF.each do |line|
     log = parse_line(line)
     if log[:valid]
@@ -19,9 +19,10 @@ if $0 == __FILE__
         if time - last_time > SESSION_EXPIRE
           #p [ time, last_time ]
           if sessions[key].find{|e| e[:path] =~ /bibid=\d+/o or e[:path] =~ /(ncid|isbn|issn)=\w+/o }
+            count[:session] += 1
             sessions[key].each do |e|
               puts [ key.hash, e.to_json ].join("\t")
-              count += 1
+              count[:log] += 1
             end
           end
           sessions.delete key
@@ -33,11 +34,12 @@ if $0 == __FILE__
   end
   sessions.keys.each do |key|
     if sessions[key].find{|e| e[:path] =~ /bibid=\d+/o or e[:path] =~ /(ncid|isbn|issn)=\w+/o }
+      count[:session] += 1
       sessions[key].each do |e|
         puts [ key.hash, e.to_json ].join("\t")
-        count += 1
+        count[:log] += 1
       end
     end
   end
-  STDERR.puts "#{count} sessions."
+  STDERR.puts count.inspect
 end
