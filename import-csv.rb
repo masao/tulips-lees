@@ -21,6 +21,12 @@ if $0 == __FILE__
         row[k] = v.omit_invalid_chars
       end
     end
+    #p row
+    if row["貸出区分"] == "オンライン" and row["CLN"] == "eBook"
+      #row["G/SMD"] == "機械可読データファイル -- リモートファイル"
+      puts "skip:" + row.inspect
+      next
+    end
     isbns = []
     if row["ISBN"]
       isbn = Lisbn.new(row["ISBN"])
@@ -79,16 +85,15 @@ if $0 == __FILE__
       ptbl: row["PTBL"],
       author: row["AL"],
       classification: classifications,
+      item_id: row["資料ID"],
+      call_number: row["CLN"],
+      acquisition_genre: row["貸出区分"],
+      circulation_type: row["貸出区分"],
+      date: row["受入日"],
 #SH
 #LIMEHL
-#VOL
-#CLN
-#資料ID
-#受入区分
-#貸出区分
-#受入日
     }
-    p data
+    #p data
     solr.add(data)
     count += 1
     solr.commit if count % 10000 == 0

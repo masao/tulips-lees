@@ -19,6 +19,8 @@
   { "name": "note" },
   { "name": "ptbl" },
   { "name": "author" },
-  { "name": "classification" }
+  { "name": "classification" },
+  { "name": "call_number" },
+  { "name": "item_id" }
   ]
 }

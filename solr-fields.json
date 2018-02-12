@@ -60,6 +60,21 @@
   { "name": "author",
     "type": "text_ja"
   },
+  { "name": "call_number",
+    "type": "string"
+  },
+  { "name": "item_id",
+    "type": "string"
+  },
+  { "name": "acquisition_genre",
+    "type": "string"
+  },
+  { "name": "circulation_type",
+    "type": "string"
+  },
+  { "name": "date",
+    "type": "string"
+  },
   { "name": "classification",
     "type": "string",
     "multiValued": true

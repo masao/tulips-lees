@@ -417,15 +417,20 @@
   <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
   <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
   <field name="_version_" type="plong" indexed="false" stored="false"/>
+  <field name="acquisition_genre" type="string"/>
   <field name="author" type="text_ja"/>
   <field name="bibid" type="string"/>
+  <field name="call_number" type="string"/>
+  <field name="circulation_type" type="string"/>
   <field name="classification" type="string" multiValued="true"/>
   <field name="country" type="string"/>
+  <field name="date" type="string"/>
   <field name="default" type="text_ja" multiValued="true"/>
   <field name="gsmd" type="string"/>
   <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
   <field name="identifier" type="string" multiValued="true"/>
   <field name="isbn" type="string" multiValued="true"/>
+  <field name="item_id" type="string"/>
   <field name="note" type="text_ja"/>
   <field name="phys" type="text_ja"/>
   <field name="ptbl" type="text_ja"/>

@@ -10,7 +10,5 @@
   "delete-copy-field": {
     "source": "ptbl", "dest": "default" },
   "delete-copy-field": {
-    "source": "note", "dest": "default" },
-  "delete-copy-field": {
-    "source": "identifier", "dest": "default" }
+    "source": "variant_title", "dest": "default" }
 }
