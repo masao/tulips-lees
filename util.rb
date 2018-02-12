@@ -5,7 +5,7 @@ require "uri"
 require "device_detector"
 
 module AccessLog
-  SUFFIX_REGEXP = /\.(css|jpe?g|png|gif|ico|js|mso|xml|rss|rdf)\z/o
+  SUFFIX_REGEXP = /\.(css|jpe?g|png|gif|ico|js|mso|xml|rss|rdf)\z/io
   PATH_REGEXP = /\A\/(favicon.ico|robots.txt|proxy.pac)\z/o
   # TULIPS_PATH_REGEXP = /\A(\/|\/lib\/)\z/o
   ACCESS_LOG_REGEXP = /\A([0-9\.]+) (\S+) (\S+) \[([^\]]+)\] "([^"]+)" ([0-9]+) ([\-0-9]+) "([^"]*)" "([^"]*)"\z/o
