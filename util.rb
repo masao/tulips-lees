@@ -9,6 +9,8 @@ module AccessLog
   TULIPS_PATH_REGEXP = /\A(\/|\/lib\/)\z/o
   ACCESS_LOG_REGEXP = /\A([0-9\.]+) (\S+) (\S+) \[([^\]]+)\] "([^"]+)" ([0-9]+) ([\-0-9]+) "([^"]*)" "([^"]*)"\z/o
   REQUEST_REGEXP = /\A(\S+) (.*) HTTP\/(0\.9|1\.0|1\.1|2\.0)\z/o
+  # additional ones...
+  ADDITIONAL_BOT_LIST = [ "Hatena Antenna", "Feedeen", "Shrook", "libcheck", "WordPress", "FeedFetcher", "Jakarta Commons-HttpClient" ]
   def parse_line(line)
     result = {}
     if ACCESS_LOG_REGEXP =~ line.chomp

@@ -12,7 +12,7 @@ if $0 == __FILE__
     log = parse_line(line)
     if log[:valid]
       client = DeviceDetector.new(log[:agent])
-      if client.bot?
+      if client.bot? or log[:agent] =~ Regexp.union(ADDITIONAL_BOT_LIST)
         count[:bot] += 1
         next
       end
