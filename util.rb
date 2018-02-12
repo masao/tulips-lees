@@ -6,12 +6,12 @@ require "device_detector"
 
 module AccessLog
   SUFFIX_REGEXP = /\.(css|jpe?g|png|gif|ico|js|mso|xml|rss|rdf)\z/o
-  PATH_REGEXP = /\A\/(favicon.ico|robots.txt)\z/o
+  PATH_REGEXP = /\A\/(favicon.ico|robots.txt|proxy.pac)\z/o
   # TULIPS_PATH_REGEXP = /\A(\/|\/lib\/)\z/o
   ACCESS_LOG_REGEXP = /\A([0-9\.]+) (\S+) (\S+) \[([^\]]+)\] "([^"]+)" ([0-9]+) ([\-0-9]+) "([^"]*)" "([^"]*)"\z/o
   REQUEST_REGEXP = /\A(\S+) (.*) HTTP\/(0\.9|1\.0|1\.1|2\.0)\z/o
   # additional ones...
-  ADDITIONAL_BOT_LIST = [ "Hatena Antenna", "Feedeen", "Shrook", "libcheck", "WordPress", "FeedFetcher", "Jakarta Commons-HttpClient", "internal dummy connection" ]
+  ADDITIONAL_BOT_LIST = [ "Hatena Antenna", "Feedeen", "Shrook", "libcheck", "WordPress", "FeedFetcher", "Jakarta Commons-HttpClient", "internal dummy connection", "Wget" ]
   def parse_line(line)
     result = {}
     if ACCESS_LOG_REGEXP =~ line.chomp
