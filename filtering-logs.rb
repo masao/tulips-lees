@@ -18,7 +18,7 @@ if $0 == __FILE__
       end
       begin
         uri = URI.parse(log[:path])
-        if uri.path =~ PATH_REGEXP or uri.path =~ SUFFIX_REGEXP or uri.path =~ TULIPS_PATH_REGEXP
+        if uri.path =~ PATH_REGEXP or uri.path =~ SUFFIX_REGEXP # or uri.path =~ TULIPS_PATH_REGEXP
           #p path
           count[:request] += 1
           next
