@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require "time"
 require "uri"
 require "device_detector"
 
@@ -35,5 +36,10 @@ module AccessLog
       protocol:protocol,
       valid: valid,
     }
+  end
+  def parse_time(str)
+    date, hour, min, sec, = str.split(/:/)
+    date = Date._parse(date)
+    Time.new(date[:year], date[:mon], date[:mday], hour, min, sec)
   end
 end
