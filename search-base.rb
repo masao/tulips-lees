@@ -18,6 +18,7 @@ if $0 == __FILE__
       qf: "title^10.0 default^1.0",
       rows: 1000,
       fl: "*,score",
+      sort: "score desc, date desc",
     }
     response = solr.get("select", params: params)
     docs = response["response"]["docs"]
