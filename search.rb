@@ -23,6 +23,6 @@ if $0 == __FILE__
     else
       usage = 0
     end
-    puts [ doc["id"], usage, doc["score"], doc["title"], doc["author"] ].join("\t")
+    puts [ doc["id"], usage, doc["score"], doc["title"], doc["author"], doc["date"] ].join("\t")
   end
 end
