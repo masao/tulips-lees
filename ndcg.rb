@@ -32,6 +32,22 @@ class NDCG
   def ndcg(ranking, ideal_ranking)
     dcg(ranking) / dcg(ideal_ranking)
   end
+  def precision_at(ranking, cutoff = 10, mapping = [:L2, :L3])
+    #p :precision_at
+    count = compute(ranking) do |relevance_level, rank|
+      #p [ relevance_level, rank ]
+      #p mapping.include?(relevance_level)
+      if rank > cutoff
+        0
+      elsif mapping.include? relevance_level
+        1
+      else
+        0
+      end
+    end
+    #p count
+    count / 10.0
+  end
 end
 
 if $0 == __FILE__
@@ -54,6 +70,6 @@ if $0 == __FILE__
   STDERR.puts ndcg.dcg(ideal_ranking)
   ARGV.each do |file|
     ranking = open(file){|io| io.readlines }.map{|l| l.chomp.split(/\t/).first }
-    puts [ file, ndcg.gains( ranking ), ndcg.dcg( ranking ), ndcg.ndcg(ranking, ideal_ranking) ].join("\t")
+    puts [ file, ndcg.gains( ranking ), ndcg.dcg( ranking ), ndcg.ndcg(ranking, ideal_ranking), ndcg.precision_at(ranking, 10) ].join("\t")
   end
 end
