@@ -16,6 +16,10 @@ if $0 == __FILE__
     end
     log = parse_line(line)
     if log[:valid]
+      if ADDITIONAL_BOT_LIST.include? log[:ip_addr]
+        count[:bot] += 1
+        next
+      end
       client = DeviceDetector.new(log[:agent])
       if client.bot? or log[:agent] =~ Regexp.union(ADDITIONAL_BOT_LIST)
         count[:bot] += 1
@@ -23,7 +27,7 @@ if $0 == __FILE__
       end
       begin
         uri = URI.parse(log[:path])
-        uri.path = uri.path.sub(/;jsessionid=\w+\z/o)
+        uri.path = uri.path.to_s.sub(/;jsessionid=\w+\z/o, "")
         if uri.path =~ PATH_REGEXP or uri.path =~ SUFFIX_REGEXP # or uri.path =~ TULIPS_PATH_REGEXP
           #p path
           count[:request] += 1

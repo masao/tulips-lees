@@ -12,6 +12,7 @@ module AccessLog
   REQUEST_REGEXP = /\A(\S+) (.*) HTTP\/(0\.9|1\.0|1\.1|2\.0)\z/o
   # additional ones...
   ADDITIONAL_BOT_LIST = [ "Hatena Antenna", "Feedeen", "Shrook", "libcheck", "WordPress", "FeedFetcher", "Jakarta Commons-HttpClient", "internal dummy connection", "Wget" ]
+  ADDITIONAL_IP_LIST = %w( 70.42.131.170 52.192.242.88 )
   def parse_line(line)
     result = {}
     if ACCESS_LOG_REGEXP =~ line.chomp
