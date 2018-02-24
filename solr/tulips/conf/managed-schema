@@ -435,6 +435,7 @@
   <field name="phys" type="text_ja"/>
   <field name="ptbl" type="text_ja"/>
   <field name="publisher" type="text_ja"/>
+  <field name="query" type="text_ja" multiValued="true"/>
   <field name="reproduction" type="string"/>
   <field name="sub_work" type="text_ja"/>
   <field name="text_lang" type="string"/>

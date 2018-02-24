@@ -78,6 +78,10 @@
   { "name": "classification",
     "type": "string",
     "multiValued": true
+  },
+  { "name": "query",
+    "type": "text_ja",
+    "multiValued": true
   }
   ],
   "add-copy-field": [
