@@ -4,4 +4,6 @@ sessions
 session-ids
 usage.db
 query.db
+*.old
+*.backup
 *.gz
