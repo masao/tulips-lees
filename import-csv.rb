@@ -3,6 +3,7 @@
 require "csv"
 require "lisbn"
 require "rsolr"
+require "leveldb"
 
 class String
   def omit_invalid_chars
@@ -12,6 +13,7 @@ end
 
 if $0 == __FILE__
   solr = RSolr.connect(url: "http://localhost:8983/solr/tulips")
+  db = LevelDB::DB.new("query.db")
   csv = CSV.new(ARGF, headers: true, row_sep: "\r\n")
   count = 0
   csv.each do |row|
@@ -59,11 +61,27 @@ if $0 == __FILE__
       row["CLS"].split(/\//).each do |classification|
         if classification.include? ":"
           key, val, = classification.split(/:/)
-          key = key.downcase.to_sym
+          case key
+          when /\ANDC/io, "CAL"
+            key = :ndc
+          when /\ADC/io
+            key = :dc
+          when /\ANDLC/io
+            key = :ndlc
+          else
+            STDERR.puts "skip: Classification #{key}"
+          end
           classifications[key] ||= []
           classifications[key] << val
         end
       end
+    end
+    queries = db.get(row["LIMEBIB"])
+    if queries
+      STDERR.puts [row["LIMEBIB"], queries].inspect
+      queries = queries.split(/\t/)
+    else
+      queries = []
     end
     data = {
       id: row["LIMEBIB"],
@@ -84,14 +102,16 @@ if $0 == __FILE__
       note: row["NOTE"],
       ptbl: row["PTBL"],
       author: row["AL"],
-      classification: classifications,
+      ndc: classifications[:ndc].to_a.uniq,
+      dc: classifications[:dc].to_a.uniq,
+      ndlc: classifications[:ndlc].to_a.uniq,
       item_id: row["資料ID"],
       call_number: row["CLN"],
       acquisition_genre: row["貸出区分"],
       circulation_type: row["貸出区分"],
       date: row["受入日"],
-#SH
-#LIMEHL
+      subject: row["SH"].to_s.split(/\//),
+      query: queries,
     }
     #p data
     solr.add(data)

@@ -75,8 +75,20 @@
   { "name": "date",
     "type": "string"
   },
-  { "name": "classification",
+  { "name": "ndc",
     "type": "string",
+    "multiValued": true
+  },
+  { "name": "ndlc",
+    "type": "string",
+    "multiValued": true
+  },
+  { "name": "dc",
+    "type": "string",
+    "multiValued": true
+  },
+  { "name": "subject",
+    "type": "text_ja",
     "multiValued": true
   },
   { "name": "query",
@@ -101,6 +113,9 @@
     "dest": "default"
   },
   { "source": "ptbl",
+    "dest": "default"
+  },
+  { "source": "subject",
     "dest": "default"
   },
   ] 

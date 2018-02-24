@@ -425,12 +425,15 @@
   <field name="classification" type="string" multiValued="true"/>
   <field name="country" type="string"/>
   <field name="date" type="string"/>
+  <field name="dc" type="string" multiValued="true"/>
   <field name="default" type="text_ja" multiValued="true"/>
   <field name="gsmd" type="string"/>
   <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
   <field name="identifier" type="string" multiValued="true"/>
   <field name="isbn" type="string" multiValued="true"/>
   <field name="item_id" type="string"/>
+  <field name="ndc" type="string" multiValued="true"/>
+  <field name="ndlc" type="string" multiValued="true"/>
   <field name="note" type="text_ja"/>
   <field name="phys" type="text_ja"/>
   <field name="ptbl" type="text_ja"/>
@@ -438,6 +441,7 @@
   <field name="query" type="text_ja" multiValued="true"/>
   <field name="reproduction" type="string"/>
   <field name="sub_work" type="text_ja"/>
+  <field name="subject" type="text_ja" multiValued="true"/>
   <field name="text_lang" type="string"/>
   <field name="title" type="text_ja"/>
   <field name="title_lang" type="string"/>
@@ -510,6 +514,7 @@
   <copyField source="ptbl" dest="default"/>
   <copyField source="publisher" dest="default"/>
   <copyField source="sub_work" dest="default"/>
+  <copyField source="subject" dest="default"/>
   <copyField source="title" dest="default"/>
   <copyField source="variant_title" dest="default"/>
 </schema>
