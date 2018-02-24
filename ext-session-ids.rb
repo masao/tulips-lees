@@ -13,7 +13,10 @@ if $0 == __FILE__
     end
     queries = extract_queries(log)
     queries.each do |query|
-      puts [key, "query: #{query}"].join("\t") if not query.strip.empty?
+      if not query.strip.empty?
+        query = query.gsub(/\s+/o, " ").strip
+        puts [key, "query: #{query}"].join("\t")
+      end
     end
     #p log["path"]
     if log["path"] =~ /bibid=(\d+)/o
