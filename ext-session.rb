@@ -27,7 +27,7 @@ if $0 == __FILE__
           if access_to_bibliography?(sessions[key])
             count[:session] += 1
             sessions[key].each do |e|
-              puts [ key.hash, e.to_json ].join("\t")
+              puts [ [key, time].hash, e.to_json ].join("\t")
               count[:log] += 1
             end
           end
@@ -43,7 +43,7 @@ if $0 == __FILE__
             if access_to_bibliography?(v)
               count[:session] += 1
               v.each do |e|
-                puts [ k.hash, e.to_json ].join("\t")
+                puts [ [k, time].hash, e.to_json ].join("\t")
                 count[:log] += 1
               end
             end
@@ -57,7 +57,7 @@ if $0 == __FILE__
     if access_to_bibliography?(sessions[key])
       count[:session] += 1
       sessions[key].each do |e|
-        puts [ key.hash, e.to_json ].join("\t")
+        puts [ [key, time].hash, e.to_json ].join("\t")
         count[:log] += 1
       end
     end
