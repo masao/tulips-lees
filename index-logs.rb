@@ -49,5 +49,5 @@ ARGV.each do |f|
     end
   end
   import_db(bib_hash, "usage.db")
-  import_db(query_hash, "query.db")
+  import_db(query_hash_r, "query.db")
 end
