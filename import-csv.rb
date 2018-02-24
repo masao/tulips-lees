@@ -68,8 +68,10 @@ if $0 == __FILE__
             key = :dc
           when /\ANDLC/io
             key = :ndlc
+          when /\ALCC/io
+            key = :lcc
           else
-            STDERR.puts "skip: Classification #{key}"
+            STDERR.puts "skip: Classification #{key} (#{row["LIMEBIB"]})"
           end
           classifications[key] ||= []
           classifications[key] << val
@@ -78,7 +80,7 @@ if $0 == __FILE__
     end
     queries = db.get(row["LIMEBIB"])
     if queries
-      STDERR.puts [row["LIMEBIB"], queries].inspect
+      #STDERR.puts [row["LIMEBIB"], queries].inspect
       queries = queries.split(/\t/)
     else
       queries = []
@@ -105,13 +107,14 @@ if $0 == __FILE__
       ndc: classifications[:ndc].to_a.uniq,
       dc: classifications[:dc].to_a.uniq,
       ndlc: classifications[:ndlc].to_a.uniq,
+      lcc: classifications[:lcc].to_a.uniq,
       item_id: row["資料ID"],
       call_number: row["CLN"],
       acquisition_genre: row["貸出区分"],
       circulation_type: row["貸出区分"],
       date: row["受入日"],
       subject: row["SH"].to_s.split(/\//),
-      query: queries,
+      query: queries.map{|s| s.omit_invalid_chars },
     }
     #p data
     solr.add(data)

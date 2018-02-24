@@ -432,6 +432,7 @@
   <field name="identifier" type="string" multiValued="true"/>
   <field name="isbn" type="string" multiValued="true"/>
   <field name="item_id" type="string"/>
+  <field name="lcc" type="string" multiValued="true"/>
   <field name="ndc" type="string" multiValued="true"/>
   <field name="ndlc" type="string" multiValued="true"/>
   <field name="note" type="text_ja"/>

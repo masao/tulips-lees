@@ -87,6 +87,10 @@
     "type": "string",
     "multiValued": true
   },
+  { "name": "lcc",
+    "type": "string",
+    "multiValued": true
+  },
   { "name": "subject",
     "type": "text_ja",
     "multiValued": true
