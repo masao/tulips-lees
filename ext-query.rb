@@ -28,7 +28,7 @@ REFERER_PATTERNS = [
         if path.query
           params = URI.decode_www_form(path.query)
           params.each do |k, v|
-            if pattern[:query] === k
+            if pattern[:query] === k and not v.strip.empty?
               #p [ data[:path], data[:referer] ]
               queries << v
             end
