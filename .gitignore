@@ -3,4 +3,5 @@ filtered_logs
 sessions
 session-ids
 usage.db
+query.db
 *.gz
