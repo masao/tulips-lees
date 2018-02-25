@@ -23,6 +23,7 @@ module AccessLog
     "Wget",
     "DTS Agent",
     "SiteSucker",
+    "Riddler",
   ]
   ADDITIONAL_IP_LIST = %w( 70.42.131.170 52.192.242.88 )
   def parse_line(line)
