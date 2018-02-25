@@ -43,18 +43,18 @@ if $0 == __FILE__
         elsif identifier =~ /\A\((.*?)\)(.*)\z/
           key = $1
           val = $2
-        end
-        case key
-        when "JLA", "TRC"
-          key = :trc
-        when nil
-          key = nil
         else
-          key = key.downcase.to_sym
+          next
         end
+        key = key.downcase.to_sym
         identifiers[key] ||= []
         identifiers[key] << val
       end
+    end
+    if identifiers.empty?
+      identifiers = nil
+    else
+      identifiers_s = identifiers.to_json
     end
     classifications = {}
     if row["CLS"]
@@ -95,7 +95,7 @@ if $0 == __FILE__
       title_lang: row["TTLL"],
       text_lang: row["TXTL"],
       reproduction: row["REPRO"],
-      identifier: identifiers,
+      identifier: identifiers_s,
       title: row["TR"],
       publisher: row["PUB"],
       phys: row["PHYS"],
@@ -119,7 +119,10 @@ if $0 == __FILE__
     #p data
     solr.add(data)
     count += 1
-    solr.commit if count % 10000 == 0
+    if count % 10000 == 0
+      print count, "..."
+      solr.commit
+    end
   end
   solr.commit
 end
