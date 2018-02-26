@@ -15,7 +15,8 @@ if $0 == __FILE__
   db = LevelDB::DB.new("usage.db")
   ARGV.each do |res_file|
     usage = {}
-    filename = File.join(File.dirname(res_file), "usage#{ "%d" % (ratio*10) }.res")
+    basename = File.basename(res_file, ".res")
+    filename = File.join(File.dirname(res_file), "#{basename}+usage#{ "%d" % (ratio*10) }.res")
     STDERR.puts "filename: #{filename}"
     list = []
     open(res_file).each do |line|
