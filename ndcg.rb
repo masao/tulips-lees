@@ -19,18 +19,26 @@ class NDCG
     end
     measure
   end
-  def gains(ranking)
+  def gains(ranking, cutoff = 100)
     compute(ranking) do |relevance_level, rank|
-      @level[relevance_level]
+      if rank > cutoff
+        0
+      else
+        @level[relevance_level]
+      end
     end
   end
-  def dcg(ranking)
+  def dcg(ranking, cutoff = 100)
     compute(ranking) do |relevance_level, rank|
-      @level[relevance_level] / Math.log2(1+rank)
+      if rank > cutoff
+        0
+      else
+        @level[relevance_level] / Math.log2(1+rank)
+      end
     end
   end
-  def ndcg(ranking, ideal_ranking)
-    dcg(ranking) / dcg(ideal_ranking)
+  def ndcg(ranking, ideal_ranking, cutoff = 100)
+    dcg(ranking, cutoff) / dcg(ideal_ranking, cutoff)
   end
   def precision_at(ranking, cutoff = 10, mapping = [:L2, :L3])
     #p :precision_at
