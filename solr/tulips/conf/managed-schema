@@ -446,6 +446,7 @@
   <field name="text_lang" type="string"/>
   <field name="title" type="text_ja"/>
   <field name="title_lang" type="string"/>
+  <field name="title_sort" type="string"/>
   <field name="variant_title" type="text_ja"/>
   <field name="vol" type="string"/>
   <field name="year" type="string"/>
@@ -517,5 +518,6 @@
   <copyField source="sub_work" dest="default"/>
   <copyField source="subject" dest="default"/>
   <copyField source="title" dest="default"/>
+  <copyField source="title" dest="title_sort"/>
   <copyField source="variant_title" dest="default"/>
 </schema>

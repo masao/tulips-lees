@@ -39,6 +39,9 @@
   { "name": "title",
     "type": "text_ja"
   },
+  { "name": "title_sort",
+    "type": "string"
+  },
   { "name": "publisher",
     "type": "text_ja"
   },
@@ -121,6 +124,9 @@
   },
   { "source": "subject",
     "dest": "default"
+  },
+  { "source": "title",
+    "dest": "title_sort"
   },
   ] 
   }
