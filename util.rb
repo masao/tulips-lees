@@ -25,6 +25,7 @@ module AccessLog
     "SiteSucker",
     "Riddler",
     "ndl-japan-warp",
+    "Wget",
   ]
   ADDITIONAL_IP_LIST = %w( 70.42.131.170 52.192.242.88 )
   def parse_line(line)
