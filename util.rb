@@ -8,7 +8,7 @@ module AccessLog
   SUFFIX_REGEXP = /\.(css|jpe?g|png|gif|ico|js|mso|xml|rss|rdf)\z/io
   PATH_REGEXP = /\A\/(favicon.ico|robots.txt|proxy.pac)\z/o
   # TULIPS_PATH_REGEXP = /\A(\/|\/lib\/)\z/o
-  ACCESS_LOG_REGEXP = /\A([0-9\.]+) (\S+) (\S+) \[([^\]]+)\] "([^"]+)" ([0-9]+) ([\-0-9]+) "([^"]*)" "([^"]*)"\z/o
+  ACCESS_LOG_REGEXP = /\A([0-9\.]+) (\S+) (\S+) \[([^\]]+)\] "([^"]+)" ([0-9]+) ([\-0-9]+) "([^"]*)" "([^"]*)"\z/ou
   REQUEST_REGEXP = /\A(\S+) (.*) HTTP\/(0\.9|1\.0|1\.1|2\.0)\z/o
   # additional ones...
   ADDITIONAL_BOT_LIST = [
