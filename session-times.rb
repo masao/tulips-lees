@@ -6,19 +6,23 @@ require "descriptive_statistics"
 require_relative "util.rb"
 include AccessLog
 
-first_time = last_time = last_id = nil
+last_id = nil
+times = []
 ARGF.each do |line|
   num, str, = line.chomp.split(/\t/)
   #p [num, str]
   obj = JSON.load(str)
-  if last_id == num
-    last_time = parse_time(obj["time"])
-    next
-  else
-    puts [ last_id, last_time - first_time ].join("\t") if first_time
-    first_time = parse_time(obj["time"])
-    last_time = parse_time(obj["time"])
+  if times.empty? or last_id == num
+    times << parse_time(obj["time"])
     last_id = num
+  else
+    times = times.sort
+    period = times.last - times.first
+    puts [ last_id, period ].join("\t")
+    last_id = num
+    times = []
   end
 end
-puts [ last_id, last_time - first_time ].join("\t")
+times = times.sort
+period = times.last - times.first
+puts [ last_id, period ].join("\t")
