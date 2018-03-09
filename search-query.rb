@@ -11,7 +11,7 @@ if $0 == __FILE__
     topic_id, query, = line.chomp.split(/\t/)
     topic_dir = File.join(BASEDIR, topic_id)
     FileUtils.mkdir(topic_dir) if not File.exist? topic_dir
-    [ 1, 2, 5, 10, 20 ].each do |weight|
+    [ 1, 2, 5, 10, 20, 50, 100 ].each do |weight|
       filename = File.join(topic_dir, "#{RUN}#{ "%02d" % weight }.res")
       params = {
         q: query,
