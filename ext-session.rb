@@ -1,14 +1,40 @@
 #!/usr/bin/env ruby
 
 require "json"
+require 'digest/md5'
 require_relative "util.rb"
 
-SESSION_EXPIRE = 60 * 60
+SESSION_EXPIRE = 30 * 60
 
+BOT_MINIMUM_SIZE = 200
+BOT_INTERVAL = 5.0 # 4 accesses per minute
+
+def bot_session?(logs)
+  if logs.size > BOT_MINIMUM_SIZE
+    first_time = parse_time(logs.first[:time])
+    last_time = parse_time(logs.last[:time])
+    duration = last_time - first_time
+    if duration / logs.size < BOT_INTERVAL
+      STDERR.puts [ "skip:", logs.size, duration, duration / logs.size ].join("\t")
+      true
+    else
+      false
+    end
+  else
+    false
+  end
+end
 def access_to_bibliography?(logs)
   logs.find{|e|
     e[:path] =~ /bibid=\d+/o or e[:path] =~ /(ncid|isbn|issn)=\w+/o
   }
+end
+
+def output(key, logs)
+  last_time = parse_time(logs.last[:time])
+  logs.each do |e|
+    puts [ Digest::MD5.hexdigest([key, last_time].join), e.to_json ].join("\t")
+  end
 end
 
 if $0 == __FILE__
@@ -23,13 +49,10 @@ if $0 == __FILE__
       if sessions[key]
         last_time = parse_time(sessions[key].last[:time])
         if time - last_time > SESSION_EXPIRE
-          #p [ time, last_time ]
-          if access_to_bibliography?(sessions[key])
+          if access_to_bibliography?(sessions[key]) and not bot_session?(sessions[key])
+            output(key, sessions[key])
             count[:session] += 1
-            sessions[key].each do |e|
-              puts [ [key, time].hash, e.to_json ].join("\t")
-              count[:log] += 1
-            end
+            count[:log] += sessions[key].size
           end
           sessions.delete key
         end
@@ -40,12 +63,10 @@ if $0 == __FILE__
         sessions.each do |k, v|
           last_time = parse_time(v.last[:time])
           if time - last_time > SESSION_EXPIRE
-            if access_to_bibliography?(v)
+            if access_to_bibliography?(v) and not bot_session?(v)
+              output(k, v)
               count[:session] += 1
-              v.each do |e|
-                puts [ [k, time].hash, e.to_json ].join("\t")
-                count[:log] += 1
-              end
+              count[:log] += v.size
             end
             sessions.delete k
           end
@@ -53,13 +74,11 @@ if $0 == __FILE__
       end
     end
   end
-  sessions.keys.each do |key|
-    if access_to_bibliography?(sessions[key])
+  sessions.each do |k, v|
+    if access_to_bibliography?(v) and not bot_session?(v)
+      output(k, v)
       count[:session] += 1
-      sessions[key].each do |e|
-        puts [ key.hash, e.to_json ].join("\t")
-        count[:log] += 1
-      end
+      count[:log] += v.size
     end
   end
   STDERR.puts count.inspect
