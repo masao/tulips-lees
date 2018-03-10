@@ -14,6 +14,7 @@ REFERER_PATTERNS = [
   { host: /yahoo\.(co\.\w\w|com)\z/o, query: "p", encoding: "ei" },
   { host: /bing\.com\z/o, query: "q" },
   { host: "tsukuba.summon.serialssolutions.com", query: "q" },
+  { host: "tsukuba.summon.serialssolutions.com", query: "s.q" },
   { host: "jn2xs2wb8u.search.serialssolutions.com", query: "rft.atitle" },
   { host: "jn2xs2wb8u.search.serialssolutions.com", query: "C" },
 ]
