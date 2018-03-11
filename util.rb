@@ -26,8 +26,9 @@ module AccessLog
     "Riddler",
     "ndl-japan-warp",
     "Wget",
+    "Grasshopper",
   ]
-  ADDITIONAL_IP_LIST = %w( 70.42.131.170 52.192.242.88 )
+  ADDITIONAL_IP_LIST = %w( 70.42.131.170 52.192.242.88 160.16.62.108 )
   def parse_line(line)
     result = {}
     if ACCESS_LOG_REGEXP =~ line.chomp
