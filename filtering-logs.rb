@@ -24,7 +24,7 @@ if $0 == __FILE__
         count[:other] += 1
         next
       end
-      if ADDITIONAL_BOT_LIST.include? log[:ip_addr]
+      if ADDITIONAL_IP_LIST.include? log[:ip_addr]
         count[:bot] += 1
         next
       end
