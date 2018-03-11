@@ -16,6 +16,10 @@ if $0 == __FILE__
     end
     log = parse_line(line)
     if log[:valid]
+      if log[:method] == "HEAD"
+        count[:request] += 1
+        next
+      end
       if log[:status] == "206"
         count[:other] += 1
         next
