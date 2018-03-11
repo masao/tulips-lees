@@ -27,6 +27,7 @@ module AccessLog
     "ndl-japan-warp",
     "Wget",
     "Grasshopper",
+    "Fetcher",
   ]
   ADDITIONAL_IP_LIST = %w( 70.42.131.170 52.192.242.88 160.16.62.108 )
   def parse_line(line)
