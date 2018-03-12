@@ -87,3 +87,14 @@ class NCID2BIBID
     end
   end
 end
+
+def extract_bibids(data)
+  bibids = []
+  if data["path"] =~ /bibid=(\d+)/o
+    bibids << $1.dup
+  end
+  if data["path"] =~ /ncid=(\w+)/o
+    bibids << @ncid2bibid.to_bibid($1)
+  end
+  bibids.compact
+end

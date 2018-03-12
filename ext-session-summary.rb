@@ -2,6 +2,7 @@
 
 require "json"
 require_relative "ext-query.rb"
+require_relative "util.rb"
 
 def output(key, hash)
   #p [ key, hash ]
@@ -14,6 +15,7 @@ if $0 == __FILE__
   include AccessLog::Query
   prev_id = nil
   hash = {}
+  @ncid2bibid = NCID2BIBID.new
   ARGF.each do |line|
     key, json = line.chomp.split(/\t/)
     if prev_id and prev_id != key
@@ -32,10 +34,10 @@ if $0 == __FILE__
         hash[:query] << query
       end
     end
-    #p log["path"]
-    if log["path"] =~ /bibid=(\d+)/o
+    bibids = extract_bibids(log)
+    bibids.each do |bibid|
       hash[:bib] ||= []
-      hash[:bib] << $1.dup
+      hash[:bib] << bibid
     end
     hash[:request] ||= 0
     hash[:request] += 1
