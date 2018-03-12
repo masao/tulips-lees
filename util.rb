@@ -70,14 +70,7 @@ class NCID2BIBID
     @dbname = dbname
     @db = LevelDB::DB.new(dbname)
     uaname = [self.class, "-", "tulips-lees"].join(" ")
-    p uaname
     @http = Net::HTTP::Persistent.new(name: uaname)
-  end
-  def [](key)
-    @db[key]
-  end
-  def []=(key, value)
-    @db[key] = value
   end
   def to_bibid(ncid)
     if @db[ncid]
