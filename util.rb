@@ -3,6 +3,8 @@
 require "time"
 require "uri"
 require "device_detector"
+require "leveldb"
+require "net/http/persistent"
 
 module AccessLog
   SUFFIX_REGEXP = /\.(css|jpe?g|png|gif|ico|js|mso|xml|rss|rdf)\z/io
@@ -59,5 +61,36 @@ module AccessLog
     date, hour, min, sec, = str.split(/:/)
     date = Date._parse(date)
     Time.new(date[:year], date[:mon], date[:mday], hour, min, sec)
+  end
+end
+
+class NCID2BIBID
+  REGEXP = /bibid=(\d+)/o
+  def initialize(dbname = "ncid2bibid.db")
+    @dbname = dbname
+    @db = LevelDB::DB.new(dbname)
+    uaname = [self.class, "-", "tulips-lees"].join(" ")
+    p uaname
+    @http = Net::HTTP::Persistent.new(name: uaname)
+  end
+  def [](key)
+    @db[key]
+  end
+  def []=(key, value)
+    @db[key] = value
+  end
+  def to_bibid(ncid)
+    if @db[ncid]
+      @db[ncid]
+    else
+      uri = URI.parse("http://www.tulips.tsukuba.ac.jp/mylimedio/search/search.do?target=local&mode=comp&ncid=#{ncid}")
+      response = @http.request uri
+      if REGEXP.match(response.body)
+        bibid = $1.dup
+        @db[ncid] = bibid
+      else
+        nil
+      end
+    end
   end
 end
