@@ -2,8 +2,10 @@ access_logs
 filtered_logs
 sessions
 session-ids
+session-summary
 usage.db
 query.db
+ncid2bibid.db
 *.old
 *.backup
 *.gz
