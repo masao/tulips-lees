@@ -68,28 +68,37 @@ class NCID2BIBID
   REGEXP = /bibid=(\d+)/o
   HTTP_SLEEP_INTERVAL = 2000
   HTTP_SLEEP_PERIOD = 120
+  HTTP_PERIOD = 0.5
   def initialize(dbname = "ncid2bibid.db")
     @dbname = dbname
     @db = LevelDB::DB.new(dbname)
     uaname = [self.class, "-", "tulips-lees"].join(" ")
     @http = Net::HTTP::Persistent.new(name: uaname)
     @http_count = 0
+    @http_last_time = Time.now
   end
   def to_bibid(ncid)
     bibid = nil
     if @db[ncid]
       bibid = @db[ncid]
     else
+      uri = URI.parse("http://www.tulips.tsukuba.ac.jp/mylimedio/search/search.do?target=local&mode=comp&ncid=#{ncid}")
       if @http_count > 0 and @http_count % HTTP_SLEEP_INTERVAL == 0
+        @http.finish(@http.connection_for uri)
         sleep HTTP_SLEEP_PERIOD
       end
+      duration = Time.now - @http_last_time
+      if duration < HTTP_PERIOD
+        STDERR.puts ["sleeping", ncid, duration, Time.now, @http_last_time].inspect
+        sleep( HTTP_PERIOD - duration )
+      end
       @http_count += 1
-      uri = URI.parse("http://www.tulips.tsukuba.ac.jp/mylimedio/search/search.do?target=local&mode=comp&ncid=#{ncid}")
       response = @http.request uri
       if REGEXP.match(response.body)
         bibid = $1.dup
         @db[ncid] = bibid
       end
+      @http_last_time = Time.now
     end
     bibid
   end
