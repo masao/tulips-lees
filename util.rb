@@ -76,11 +76,13 @@ class NCID2BIBID
     @http = Net::HTTP::Persistent.new(name: uaname)
     @http_count = 0
     @http_last_time = Time.now
+    @non_existent = []
   end
   def to_bibid(ncid)
     bibid = nil
     if @db[ncid]
       bibid = @db[ncid]
+    elsif @non_existent.include? ncid
     else
       uri = URI.parse("http://www.tulips.tsukuba.ac.jp/mylimedio/search/search.do?target=local&mode=comp&ncid=#{ncid}")
       if @http_count > 0 and @http_count % HTTP_SLEEP_INTERVAL == 0
@@ -89,7 +91,7 @@ class NCID2BIBID
       end
       duration = Time.now - @http_last_time
       if duration < HTTP_PERIOD
-        STDERR.puts ["sleeping", ncid, duration, Time.now, @http_last_time].inspect
+        #STDERR.puts ["sleeping", ncid, duration, Time.now, @http_last_time].inspect
         sleep( HTTP_PERIOD - duration )
       end
       @http_count += 1
@@ -97,6 +99,8 @@ class NCID2BIBID
       if REGEXP.match(response.body)
         bibid = $1.dup
         @db[ncid] = bibid
+      else
+        @non_existent << ncid
       end
       @http_last_time = Time.now
     end
