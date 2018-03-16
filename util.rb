@@ -69,19 +69,22 @@ class NCID2BIBID
   HTTP_SLEEP_INTERVAL = 2000
   HTTP_SLEEP_PERIOD = 120
   HTTP_PERIOD = 0.5
-  def initialize(dbname = "ncid2bibid.db")
+  def initialize(dbname: "ncid2bibid.db", name: nil, check_remote: true)
     @dbname = dbname
     @db = LevelDB::DB.new(dbname)
-    uaname = [self.class, "-", "tulips-lees"].join(" ")
+    uaname = name
+    uaname = [self.class, "-", "tulips-lees"].join(" ") unless uaname
     @http = Net::HTTP::Persistent.new(name: uaname)
     @http_count = 0
     @http_last_time = Time.now
     @non_existent = []
+    @check_remote = check_remote
   end
   def to_bibid(ncid)
     bibid = nil
     if @db[ncid]
       bibid = @db[ncid]
+    elsif not @check_remote
     elsif @non_existent.include? ncid
     else
       uri = URI.parse("http://www.tulips.tsukuba.ac.jp/mylimedio/search/search.do?target=local&mode=comp&ncid=#{ncid}")

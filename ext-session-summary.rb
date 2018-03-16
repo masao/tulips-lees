@@ -15,7 +15,7 @@ if $0 == __FILE__
   include AccessLog::Query
   prev_id = nil
   hash = {}
-  @ncid2bibid = NCID2BIBID.new
+  @ncid2bibid = NCID2BIBID.new(check_remote: false)
   ARGF.each do |line|
     key, json = line.chomp.split(/\t/)
     if prev_id and prev_id != key
