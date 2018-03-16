@@ -114,9 +114,10 @@ if $0 == __FILE__
       circulation_type: row["貸出区分"],
       date: row["受入日"],
       subject: row["SH"].to_s.split(/\//),
-      query: queries.map{|s| s.omit_invalid_chars },
+      query: queries.map{|s|
+        s.omit_invalid_chars.force_encoding("UTF-8")
+      },
     }
-    #p data
     solr.add(data)
     count += 1
     if count % 10000 == 0
