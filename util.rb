@@ -86,7 +86,9 @@ class NCID2BIBID
     else
       uri = URI.parse("http://www.tulips.tsukuba.ac.jp/mylimedio/search/search.do?target=local&mode=comp&ncid=#{ncid}")
       if @http_count > 0 and @http_count % HTTP_SLEEP_INTERVAL == 0
-        @http.finish(@http.connection_for uri)
+        @http.connection_for uri do |connection|
+          @http.finish(connection)
+        end
         sleep HTTP_SLEEP_PERIOD
       end
       duration = Time.now - @http_last_time
