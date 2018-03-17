@@ -65,6 +65,7 @@ if $0 == __FILE__
   xlsx.default_sheet = sheet if sheet
   qrels = {}
   xlsx.each_row_streaming(offset: 1, pad_cells: true) do |row|
+    next if row[0].nil?
     docid = row[0].to_s
     relevance_level = row[4].value
     qrels[docid] = relevance_level
@@ -76,7 +77,9 @@ if $0 == __FILE__
   STDERR.puts ndcg.dcg(ideal_ranking)
   ARGV.each do |file|
     ranking = open(file){|io| io.readlines }.map{|l| l.chomp.split(/\t/).first }
-    puts [ file, ndcg.gains( ranking ), ndcg.dcg( ranking ), ndcg.ndcg(ranking, ideal_ranking),
+    puts [ file, ndcg.gains( ranking ), ndcg.dcg( ranking ),
+           ndcg.ndcg(ranking, ideal_ranking),
+           ndcg.ndcg(ranking, ideal_ranking, 10),
            ndcg.precision_at(ranking, 10),
            ndcg.precision_at(ranking, 20),
     ].join("\t")
