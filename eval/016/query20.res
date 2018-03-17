@@ -1,1000 +1,1000 @@
-687399	245.33383	The intent of the critic	by Edmund Wilson ... [et al.]/edited, with an introduction, by Donald A. Stauffer	1997/02/06
-565828	243.88892	Carbohydrates	edited by P.M. Collins/principal contributor, V.R.N. Munasinghe	1989/01/17
-629882	242.70032	ASM metals reference book	editor, Michael Bauccio/acquisitions/editorial, Veronica Flint/technical editor, Sunniva Collins	1995/09/22
-1608215	234.89325	Principles and practice of clinical research	edited by John I. Gallin, Frederick P. Ognibene	2014/09/18
-530080	227.03523	Apologia Ecclesiae Anglicanae	Authore Ioanne Iuello, olim Episcopo Sarisburiensi	1984/02/08
-1667733	221.12544	Landforms of the world with Google Earth : understanding our environment	Anja M. Scheffers, Simon M. May, Dieter H. Kelletat	2015/12/17
-529375	220.65926	W. H. Auden, the critical heritage	edited by John Haffenden	1984/02/16
-501361	220.65926	W. H. Auden : the life of a poet	Charles Osborne	1983/11/29
-501360	220.65926	W. H. Auden collected poems	ed. by Edward Mendelson	1977/02/24
-409486	220.65926	Collected longer poems	W. H. Auden	
-602102	220.29547	Landslides and their control	by Quido Zaruba and Vojtech Mencl	1992/05/19
-1136636	219.12903	アメリカ環境法	ロジャー・W・フィンドレー, ダニエル・A・ファーバー著/稲田仁士訳/石黒一憲, アメリカ・ビジネス法研究グループ企画監修	
-1426857	218.65532	Earth : an introduction to physical geology	Edward J. Tarbuck, Frederick K. Lutgens/illustrated by Dennis Tasa	2011/12/01
-619802	216.24336	Understanding earth	Frank Press, Raymond Siever	1994/02/16
-832848	215.93205	The advanced theory of statistics	Maurice G. Kendall	
-1212129	215.2817	政策評価入門 : 結果重視の業績測定	ハリー・P・ハトリー著/上野宏, 上野真城子訳	2004/08/27
-330693	214.63914	アメリカ環境法	ロジャー・W. フィンドレー, ダニエル・A. ファーバー [著]/稲田仁士訳	1994/03/22
-408939	211.37595	Clavis Circeroniana : sive indices rerum et verborum philologico-critici in opera Ciceronis		1979/01/18
-229279	209.74576	An English and Japanese and Japanese and English vocabulary	W.H.Medhurst[原著]	1985/12/09
-1626889	207.86368	Landslide hazards, risks, and disasters	volume editor, Tim Davies/series editor John F. Shroder	2015/01/21
-941440	207.6943	Sekai no tabi	Hirai-Masao, Kitta-Hirokuni, Okano-Atunobu [著]	2002/10/25
-660617	206.74062	Iconografia greca	di Ennio Quirino Visconti/recata in italiana favella dal Giovanni Labus/di Ennio Quirino Visconti	1996/08/07
-594348	206.74062	Hieronymi Mercurialis De arte gymnastica libri sex, : in quibus exercitationum omnium vetustarum genera, loca, modi, facultates, & quidquid denique ad corporis humani exercitationes pertinet, diligenter explicatur		1989/01/13
-432248	206.74062	The ruins of Palmyra, otherwise Tedmor, in the desart	Robert Wood	1980/02/26
-1211651	206.74062	竹生嶋圖		1977/03/31
-1215246	206.74062	陝西全圖		1977/03/31
-623447	206.67914	China: its state and prospects, : with especial reference to the spread of the gospel: containing allusions to the antiquity, extent, population, civilization, literature, and religion of the Chinese	by W.H. Medhurst	1994/11/02
-248306	206.13428	禹貢論山川地理圖	程大昌[撰]	1987/10/08
-585069	205.67175	Max Weber : selections in translation	edited by W. G. Runciman/translated by E. Matthews	1990/07/02
-1394342	205.27744	Organic synthesis : the disconnection approach	Stuart Warren and Paul Wyatt	2011/01/20
-980451	202.65454	Mineralogy and geochemistry of the massive sulphide ores from central Peru and Turkey : implication for ambient environment and genesis	Marlar Myo Myint	2001/09/14
-965337	202.65454	以文會筆記抄	三宅米吉評註	2001/06/21
-929245	202.65454	高等小學修身訓 : 生徒用	大和田建樹著	1988/11/10
-660989	202.65454	Anfangsgründe der chinesischen Grammatik	von Stephan Endlicher	1977/03/31
-1215347	202.65454	和蘭本草書和解		1977/03/31
-1356072	202.58742	The Canterbury tales	Geoffrey Chaucer/retold by Joanna Strange	2017/01/26
-800076	202.58742	Album : six cents illustrations d'après les documents accompagnées de légendes et d'un exposé historique	Marcel Poëte/Marcel Poëte	2015/10/06
-850775	202.58742	Les caractères originaux de l'histoire rurale française	Marc Bloch	2014/12/18
-1631621	202.58742	Aftermath : a supplement to the Golden bough	by Sir James George Frazer	2014/11/18
-1487901	202.58742	Amorphization and characteristics of shapes of comminuted particles formed in comminution process that accompanied fault movement：an approach by comminution experiments	Kana Ozawa	2013/11/11
-1487951	202.58742	Spatiotemporal structure of the groundwater-river interaction at mountain-plain transitional landscapes	Yaping Liu	2013/11/11
-1487956	202.58742	Roles of signal-input domain of a histidine kinase, hik33, in Synechocystis sp. PCC 6803	Yohei Shimura	2013/11/11
-1488382	202.58742	Studies on novel roles of mammalian mitochondrial genomes	Hirotake Imanishi	2013/11/11
-1488390	202.58742	Effective methods for In Vitro immunization and electrofusion for establishment of functional monoclonal antibodies	Mieko Kato	2013/11/11
-1488395	202.58742	Studies on mice carrying exogenously-introduced mitochondrial DNA with a ROS-generating mutation	Osamu Hashizume	2013/11/11
-1488403	202.58742	Regulation of telomere length in pigs	Dang Nguyen Quang Thanh	2013/11/11
-1480077	202.58742	Studies on organic dyes for dye-sensitized solar cells with high open-circuit voltage	Shingo Kajiyama	2013/08/09
-1480136	202.58742	Universal transitivity of some prehomogeneous vector spaces	Inhyun Ryu	2013/08/09
-1480188	202.58742	A classification of prehomogeneous vector spaces associated with exceptional Dynkin quivers by tilting modules	Yukimi Ishii	2013/08/09
-1480218	202.58742	Finite density QCD in the heavy quark region	Hana Saito	2013/08/09
-1480275	202.58742	Study on coherent phonon generation based on time-dependent density functional theory	Yasushi Shinohara	2013/08/09
-815429	202.58742	De l'esprit des loix	Montesquieu/texte établi et présenté par Jean Brethe de la Gressaye	2013/07/18
-1455973	202.58742	高齢者の携帯電話リテラシーに影響する要因の分析 : 実利用経験と社会的サポートの質の重要性	橋爪絢子 [著]	2012/10/22
-1457605	202.58742	Hydrogeochemical and numerical simulation approaches to reveal mechanisms regulating groundwater quality in the coastal aquifer of Odawara region, Japan	Henda Jelassi	2012/10/22
-1457646	202.58742	Studies on embryogenesis of two volvocine algae, Gonium pectorale and Platydorina caudata (Chlorophyceae, Chlorophyta)	Hitoshi Iida	2012/10/22
-1457681	202.58742	Studies on the effects of flowering-time genes to yield-related traits in rice	Naokuni Endo	2012/10/22
-1457683	202.58742	Roles of lipid raft in the regulation of sperm motility in the ascidian Ciona intestinalis	Lihong Zhu	2012/10/22
-1457707	202.58742	Assessment of forest management effects on infiltration process in forest plantations	Marino Hiraoka	2012/10/22
-1457785	202.58742	Mid-Pliocene greenhouse climate simulated by atmospheric general circulation model : comparison with paleoclimate proxy data	Youichi Kamae	2012/10/22
-1457799	202.58742	Effects of vegetation succession on forest water balance at single-tree and forest-stand scales	Atsushi Hayashi	2012/10/22
-1457805	202.58742	Secchi depth prediction by modeling approaches in optically complex waters	Meylin Mirtha Terrel	2012/10/22
-1457820	202.58742	Embryological studies on Occasjapyx japonicus (Enderlein) (Hexapoda: Diplura, Dicellurata)	Kaoru Sekiya	2012/10/22
-1457874	202.58742	Phylogeography of toxic cyanobacterium Cylindrospermopsis raciborskii	Saghar Zarenezhad	2012/10/22
-1457884	202.58742	Molecular mechanism of high-CO[2]-inducible responses in the unicellular green alga Chlamydomonas reinhardtii	Masato Baba	2012/10/22
-1457894	202.58742	Studies on photoperiodic compensation of chlorophyll amount and a/b ratio controlled by circadian clock proteins in Arabidopsis thaliana	Kana Miyata	2012/10/22
-1458078	202.58742	Molecular genetic analysis of the Drosophila UNC-51/ATG1 kinase in axonal and dendritic development	Hiroaki Mochizuki	2012/10/22
-1458084	202.58742	Evaluation of three-dimensional hydrogeological structure and groundwater resources in Japan	Masaru Koshigai	2012/10/22
-1436223	202.58742	Studies on syntheses of gem-difluorovinylic compounds and their applications	Ken Oh	2012/04/09
-1436154	202.58742	Strategic synthesis of nanoparticle catalysts for hydrogen energy systems	Ryota Sato	2012/04/09
-1436155	202.58742	Steady state responses of biochemical reaction networks	Nishimura Tatsunori	2012/04/09
-1436162	202.58742	First-principle study of atomic and electronic structures of 3C-SiC(111)/Si(110) interfaces	Eric K.K. Abavare	2012/04/09
-1436168	202.58742	On a classification of reductive prehomogeneous vector spaces of some type	Yoshiteru Kurosawa	2012/04/09
-1436175	202.58742	Study of interstellar ammonia and star formation in the Orion Molecular Clouds	Mitsutoshi Ogino	2012/04/09
-1436176	202.58742	Search for the Standard Model Higgs boson in H → WW → lvjj channel in 1.96-TeV proton-antiproton collisions	Yuji Sudo	2012/04/09
-1436177	202.58742	Measurement of the spin correlation in the top quark pair production using the dilepton events in 1.96-TeV proton-antiproton collisions	Kenichi Takemasa	2012/04/09
-1436178	202.58742	Computational analyses of electronic structures in catalytic reactions of biological macromolecules	Jiyoung Kang	2012/04/09
-1436180	202.58742	Synthetic studies of cytotoxic polyketides and an antifeeding terpene	Yohsuke Satoh	2012/04/09
-1436182	202.58742	Reactivity of a silicon-silicon triply bonded compound, a disilyne, toward small organic molecules containing oxygen, nitrogen, and boron atoms	Katsuhiko Takeuchi	2012/04/09
-1436184	202.58742	Studies on the chemistry of a silicon containing allene and related compounds : synthesis, structure and properties	Hiroaki Tanaka	2012/04/09
-1436186	202.58742	Studies on a novel digermene : synthesis, structure and unusual reactivity	Kiera McNeice	2012/04/09
-1436187	202.58742	Synthesis and structure-activity relationships of glaziovianin A, an antitumor isoflavone	Akiyuki Ikedo	2012/04/09
-1436188	202.58742	Studies on synthesis, derivatization and characterization of endohedral metallofullerences	Hiroki Kurihara	2012/04/09
-1436190	202.58742	Synthesis and optical properties regulation of novel dipyrrins and their complexes	Naoya Sakamoto	2012/04/09
-1436191	202.58742	Theoretical study of multi-electron wave packet dynamics in nano-structures	Yukihiro Takada	2012/04/09
-1436193	202.58742	Syntheses and physical properties of cyanide bridged multi-nuclear metal complexes with redox active ligands	Kiyotaka Mitsumoto	2012/04/09
-788917	202.58742	印刷発注マニュアル	沢田和雄著	2011/12/12
-892967	202.58742	アメリカ農民と第三政党	A.ロチェスター [著]/山岡亮一, 東井正美訳	2011/12/12
-794720	202.58742	The art and architecture of the ancient Orient	Henri Frankfort	2011/10/17
-1424132	202.58742	Studies on genetic and molecular interactions between mutations in suppressors of early flowering 3 and flowering time regulation in Arabidopsis thaliana	Rim Nefissi	2011/10/13
-1424137	202.58742	Studies for generation of mitochondrial disease model mice by introduction of mtDNA from different rodent species	Makiko Kobayashi	2011/10/13
-1424139	202.58742	Analysis of reaction mechanism of hammerhead ribozyme	Yasuomi Takagi	2011/10/13
-1424146	202.58742	Studies on the tumor-suppressing activity of bevacizumab, a monoclonal antibody against human vascular endothelial growth factor	Mieko Yanagisawa	2011/10/13
-1424160	202.58742	Monitoring water quality in turbid inland lakes by remote sensing : algorithm development and validations	Wei Yang	2011/10/13
-1424165	202.58742	Dynamics of marine humic-like fluorescent dissolved organic matter in western North Pacific and their biogeochemical roles	Yuko Omori	2011/10/13
-1424350	202.58742	Evaluation and intercomparison of the skill for regional climate models over Japan	Noriko Ishizaki	2011/10/13
-1424353	202.58742	Functional analysis of Tex protein on the regulation of toxin gene expression in Clostridium perfringens	Kimihiro Abe	2011/10/13
-1424354	202.58742	Studies on the functions of sugar monophosphatases in the development of Arbidopsis	Yuko Sato	2011/10/13
-1424357	202.58742	Studies on physiological effects and molecular mechanisms of adipocyte differentiation by catechin	Hyojung Kim	2011/10/13
-1423856	202.58742	The mechanism of soil degradation in unmanaged Japanese cypress plantations	Yoshifumi Wakiyama	2011/10/13
-1423857	202.58742	Studies on molecular mechanisms of transcription factor FoxO in apoptosis and proliferation of mouse 3T3-L1 adipocyte	Takayuki Kojima	2011/10/13
-1423876	202.58742	Studies on pathogenicity of lactate overproduced by mitochondrial respiration defects	Emi Ogasawara	2011/10/13
-1423878	202.58742	Evolutionary biology of female-limited color polymorphism in the damselfly, Ischnura senegalensis	Yuma Takahashi	2011/10/13
-1423883	202.58742	Gene therapy of mitochondrial diseases using a mouse model : quantity control of mitochondrial DNA results in quality control of mitochondrial function	Satoshi Nishiyama	2011/10/13
-1423887	202.58742	Detection of glacier surface conditions using Landsat and ERS-1/2 data and their implications to glacier variations : Northern Patagonia Icefield, Chile	Gonzalo Barcaza	2011/10/13
-1423918	202.58742	Study on biomass utilization and its impact on water environment in the Huai Luang Basin, Udonthani Province, Northeast Thailand	Chomyong Chaiubon	2011/10/13
-1423928	202.58742	Spatio-temporal behaviour of residents after the 2004 Chuetsu Earthquake : a case study of Kawaguchi town, Japan	Matteo Gismondi	2011/10/13
-1423932	202.58742	Spatial modeling of deforestation and land suitability assessment in the Tam Dao National Park region, Vietnam	Duong Dang Khoi	2011/10/13
-1423936	202.58742	Geographical characteristics of telemedicine networks in Korea and Japan	Sookyung Park	2011/10/13
-1423944	202.58742	Evolution of the molluscan bodyplan brought by the alteration of early developmental process	Yoshihisa Kurita	2011/10/13
-1423954	202.58742	Taxonomy and phylogeny of the Raphidophyceae (Heterokontophyta)	Haruyo Nakayama-Yamaguchi	2011/10/13
-1423959	202.58742	Evo-devo researches on Hemichordates : insights into the evolutionary origin of the Chordate body plan	Norio Miyamoto	2011/10/13
-1423966	202.58742	Taxonomic studies on several new non-photosynthetic protists	Akinori Yabuki	2011/10/13
-1423969	202.58742	Functional analysis of a small RNA and novel regulatory proteins on toxin gene expression in Clostridium perfringens	Nozomu Obana	2011/10/13
-1423976	202.58742	Molecular characterization and functional analysis of a novel calcium binding protein calaxin from sperm flagella in the ascidian Ciona intestinalis	Katsutoshi Mizuno	2011/10/13
-1423979	202.58742	Studies on mice with a pathogenic mitochondrial DNA mutation derived from carcinoma cells	Mutsumi Yokota	2011/10/13
-1424038	202.58742	Sexual selection on Multiple ornaments in the Barn Swallow Hirundo rustica gutturalis	Masaru Hasegawa	2011/10/13
-1424040	202.58742	Evaluation of sediment transfer in the small mountainous catchment, S. Korea	Jin Kwan Kim	2011/10/13
-1324013	202.58742	重修政和經史證類備用本草	(宋) 唐愼微撰/[(宋)寇宗奭衍義]/[(金)張存惠重修]	2011/09/27
-697454	202.58742	アメリカ構造言語学と英語教育/近代英語の語順の発達	C.C.フリーズ著/安井稔訳注	2011/09/27
-711543	202.58742	Phonemics : a technique for reducing languages to writing	by Kenneth L. Pike	2011/09/15
-742853	202.58742	シェイクスピア筆蹟の研究	大塚高信著	2011/09/15
-737255	202.58742	The American secondary school in action	Philip W. Perdew	2011/07/01
-1399826	202.58742	On applications of prehomogeneous vector spaces	Norimichi Maki	2011/04/20
-1399827	202.58742	A symbolic-numeric study of extended hensel construction	Takaki Kubo	2011/04/20
-1400003	202.58742	Development of the transportable telescope for submillimeter-wave astronomy in Antarctica	Shun Ishii	2011/04/20
-1400024	202.58742	Canonical-basis time-dependent Hartree-Fock-Bogoliubov theory and linear-response calculation for light to heavy nuclei	Shuichiro Ebata	2011/04/20
-1400159	202.58742	Synthesis of heteroatom compounds through activation of small molecules by heterogeneous catalysts	Takahiro Kiyosu	2011/04/20
-1400163	202.58742	Studies on regioselective functionalization and solid-state properties of endohedral metallofullerenes	Satoru Sato	2011/04/20
-1400165	202.58742	Heterostructural control of metal chalcogenide nanoparticles	Masaki Saruyama	2011/04/20
-1400169	202.58742	Computational study on antigen-binding mechanism for high-affinity antibody	Hiroaki Fukunishi	2011/04/20
-1379456	202.58742	動画像を対象にした画像検索性能の改善に関する研究	村林昇 [著]	2010/08/26
-1379459	202.58742	早期学習情報を用いた小売流通業における商品推奨システムに関する研究	髙橋雅和 [著]	2010/08/26
-1380186	202.58742	リハビリテーション医療に係わる用語の分析 : 終末期医療に係わる印象語に焦点を当てて	櫻井卓郎 [著]	2010/08/26
-1350159	202.58742	無線マルチホップネットワークにおける通信品質向上に関する研究	柳生智彦 [著]	2010/08/10
-1350312	202.58742	ブロードバンドコンテンツ流通プラットフォームに関する研究	藤田昌克 [著]	2010/08/10
-1378897	202.58742	Genetic and biochemical analyses of unc-51 kinase in axonal transport in Drosophila	Hirofumi Toda	2010/08/10
-1378914	202.58742	Experimental study on early diagenetic processes of marine phyto- and zooplanktonic lipid materials.	Kazuya Yoshimura	2010/08/10
-1378933	202.58742	Studies on molecular mechanisms of adipocyte differentiation mediated by forkhead transcription factor FoxO1	Keisuke Munekata	2010/08/10
-1378949	202.58742	Bacterial production of humic-like fluorescent dissolved organic matter and its importance in marine carbon cycle	Koichi Shimotori	2010/08/10
-1378956	202.58742	The sustainability of pork production areas owing to branding strategy in Japan	Yasuhiko Tanno	2010/08/10
-1378959	202.58742	Dynamics of rock slope deformation before and after an alpine rockslide	Ryoko Nishii	2010/08/10
-1378961	202.58742	Online micro-spatial analysis based on GIS estimated building population : a case of Tsukuba City	Ko Ko Lwin	2010/08/10
-1378963	202.58742	Infiltration and soil water movement underneath Japanese red pine and oak trees	Muhamad Askari	2010/08/10
-1378967	202.58742	Polymorphic relation between cavansite and pentagonite : genetic implications of hydronium ion in cavansite	Naoya Ishida	2010/08/10
-1378968	202.58742	Paleosol profile and depositional systems of mesozoic terrestrial basins in SW Japan and NE Thailand	Yu Horiuchi	2010/08/10
-1378970	202.58742	Mineralogical and chemical study of sulfide minerals in selected Japanese ultramafic rocks : their implication for generation, evolution, and alteration	Kazuyasu Shindo	2010/08/10
-1378974	202.58742	Geology, whole-rock geochemistry, mineralogy and stable isotopes (O, H and S) of sericitic and advanced argillic alteration zones, Oyu Tolgoi porphyry Cu-Au deposits, Mongolia	Bat-Erdene Khashgerel	2010/08/10
-1378988	202.58742	Studies on the chromatophore of a testate amoeba, Paulinella chromatophora : its origin and integration with the host cell	Takuro Nakayama	2010/08/10
-1378991	202.58742	Characterizations of dominant negative mutant actins to elucidate the mechanism of myosin motility	Taro Noguchi	2010/08/10
-1378998	202.58742	Molecular mechanism of signal perception by a phosphate-deficient sensor, SphS, in the cyanobacterium Synechocystis sp. PCC 6803	Satoshi Kimura	2010/08/10
-1379035	202.58742	Analysis of oligosaccharide specificity of galactose-binding lectins and cell discrimination with glycan signature on differentiated stem cells	Yoko Itakura	2010/08/10
-1379046	202.58742	A study on stream water temperature change in Japanese forested watersheds	Luki Subehi	2010/08/10
-1379129	202.58742	Study on the regulatory mechanism of biosynthesis and the function of coccolith polysaccharides in a coccolithophorid, Emiliania huxleyi (haptophycea)	Keisuke Kayano	2010/08/10
-1379180	202.58742	Studies on the effects on DNA methylation for the expression of embryogenesis-related genes in carrot and Arabidopsis thaliana	Tomiko Shibukawa	2010/08/10
-1379182	202.58742	Studies on repression mechanism of embryonic properties by polycomb complex in Arabidopsis thaliana	Naohito Hariganeya	2010/08/10
-1379185	202.58742	Impact of basin-scale air-sea interaction between the Pacific and Indian Ocean on the seasonally asymmetric transition process of ENSO	Masamichi Ohba	2010/08/10
-1379186	202.58742	Morning precipitation peak over the strait of Malacca	Mikiko Fujita	2010/08/10
-1379187	202.58742	Water vapor transportation into the Tibetan plateau and formation processes of mesoscale convective systems during monsoon season	Shiori Sugimoto	2010/08/10
-1379191	202.58742	Distribution and structural diversity of cilia in tadpole larvae of the ascidian Ciona intestinalis	Alu Konno	2010/08/10
-1379192	202.58742	Studies on the structure and function of hemolysin-like protein in the cyanobacterium Synechocystis sp. PCC6803	Tetsushi Sakiyama	2010/08/10
-1373569	202.58742	Total synthesis and cytotoxicity of haterumalides NA and B and their artificial analogs	Mitsuru Ueda	2010/06/07
-1373574	202.58742	Theoretical investigation into atomic and electronic structures of sapphire surfaces	Takahiro Kurita	2010/06/07
-1373575	202.58742	Studies on oxygen atom transfer from active oxygen species to hydrocarbons catalyzed by metalloporphyrin	Masayuki Haranaka	2010/06/07
-1373588	202.58742	Systematic study of azimuthal anisotropy for charged hadron in relativistic nucleus-nucleus collisions at RHIC-PHENIX	Maya Shimomura	2010/06/07
-1373618	202.58742	Expansivity on dynamical systems	Chikara Fujita	2010/06/07
-1373621	202.58742	Universal enveloping algebras of low dimensional lie algebras, bernoulli numbers and U[q](sl[2])	Shunsuke Murata	2010/06/07
-1373625	202.58742	Effective methodologies in statistical inference with low sample size data	Kazuyoshi Yata	2010/06/07
-1373631	202.58742	Symbolic-numeric algorithms for univariate polynomials	Akira Terui	2010/06/07
-1373635	202.58742	The structure of a slim disk outflow explored by three-dimensional radiation transfer	Chizuru Akizuki	2010/06/07
-1373636	202.58742	Wilson chiral perturbation theory for twisted mass lattice QCD	Ueda Satoru	2010/06/07
-1373639	202.58742	Real-time calculations for photo-induced phenomena in molecules based on time-dependent density functional theory	Yosuke Kawashita	2010/06/07
-1373644	202.58742	Feedback effects of first supernovae on the subsequent population III star formation	Masaru Sakuma	2010/06/07
-1373649	202.58742	The effect of partial redistribution on the escape of Lyman alpha photons from subgalactic clouds	Daisuke Sato	2010/06/07
-1373657	202.58742	Search for the standard model higgs boson in the WH→lvbˉb channel in 1.96-TeV proton-antiproton collisions	Yoshikazu Nagai	2010/06/07
-1373659	202.58742	Theoretical studies of functional mechanisms of biological macromolecules	Yohsuke hagiwara	2010/06/07
-1373668	202.58742	Pion form factor from 2+1 dynamical flavor lattice QCD	Nguyen Hoang Oanh	2010/06/07
-1373671	202.58742	Study of the water-vapor maser disk at the active galactic nucleus of IC 1481	Koichi Mamyoda	2010/06/07
-1373676	202.58742	Energy dependence of nucleon-nucleon potentials from lattice QCD	Keiko Murano	2010/06/07
-1373681	202.58742	Development of new caged compounds and fluorescent dyes useful for cell biology	Naoko Senda	2010/06/07
-1373684	202.58742	Syntheses and characterizations of active fullerene derivatives	Yuta Takano	2010/06/07
-1373690	202.58742	Study on internal and external perturbation to chemical patterns in reaction-diffusion systems	Jahan Rumana Akther	2010/06/07
-1373695	202.58742	Study of electronic properties of semiconductor heterostructures by a dilution-refrigerator based near-field optical microscope in magnetic field	Hironori Ito	2010/06/07
-1373700	202.58742	On the implementation of quantum information processing with linear optics	Yuta Okubo	2010/06/07
-1373701	202.58742	Photochemical study on the photooxidation of organochalcogenides	Takeshi Hyugano	2010/06/07
-1373704	202.58742	Optical investigations of modulation of the transport properties of superconductor/semiconductor junction and quantum interference effect in semiconductor two-dimensional system	Kohei Tsumura	2010/06/07
-1363637	202.58742	Alissa	C.J. Moore	2010/01/27
-1364275	202.58742	The Canterville ghost and other stories	Oscar Wilde/retold by Stephen Colbourn	2010/01/27
-1363289	202.58742	Buffy the vampire slayer : I robot, you Jane	based on the teleplay Ashley Gable, Thomas A. Swyden	2010/01/22
-1357461	202.58742	The Brontë story	Tim Vicary/series editor, Jennifer Bassett	2009/11/13
-1362400	202.58742	British life	Anne Collins	2009/11/12
-1349778	202.58742	Studies on behavioral alterations induced by mitochondrial dysfunction	Daisuke Tanaka	2009/08/25
-1349787	202.58742	Novel function of mitochondrial DNA: its involvement in metastasis and innate immune response	Kaori Ishikawa	2009/08/25
-1349792	202.58742	The development of a novel class agent targeting human immunodeficiency virus type 1 Vpr	Tatsunori Suzuki	2009/08/25
-1349813	202.58742	Study on the pathway of photosynthetic carbon assimilation in the coccolithophorid Emiliania huxleyi (Haptophyta)	Yoshinori Tsuji	2009/08/25
-1349815	202.58742	Neuronal microarchitecture of synchronized waves in developing cerebral cortex	Shigehiro Namiki	2009/08/25
-1349830	202.58742	Characterization of murine hematopoietic stem cells under various stress conditions	Shinichi Noda	2009/08/25
-1349831	202.58742	Anatomical and functional imaging of the pheromone processing system in the male silkmoth brain	Ryota Fukushima	2009/08/25
-1349835	202.58742	Studies on physiological mechanisms of long-chain fatty acids	Makoto Horikawa	2009/08/25
-1349838	202.58742	Evaluation of water-soluble fullerene vesicle as a radical scavenger of angiotensin II induced oxidative stress	Rui Maeda-Mamiya	2009/08/25
-1349844	202.58742	Development of yeast expression system for protein crystallography	Toshihiko Kitajima	2009/08/25
-1350258	202.58742	A geographical study on the role of female farmers in restructuring the space of agricultural production : a case study of bok-choy producers in Toyoda Town, Shizuoka prefecture	Azusa Iguchi	2009/08/25
-1350268	202.58742	The spatial changes of global network based on the international air passenger flows, 1992-2004	Ho-Sang Lee	2009/08/25
-1350274	202.58742	Taxonomy and phylogeny of the class dacrymycetes (basidiomycota) and a discussion on the evolution of wood-decaying basidiomycetes	Takashi Shirouzu	2009/08/25
-1350286	202.58742	Identification and characterization of a selenoprotein EhSEP1, thioredoxin reductase, in Emiliania huxleyi	Hiroya Araie	2009/08/25
-1350287	202.58742	Study on physiological effect and molecular mechanism of osteoclast and osteoblast differentiation by prostaglandin F[2α] and (-)-epigallocatechin gallate	Masayoshi Kamon	2009/08/25
-1350290	202.58742	Adjustment of inter-firm relationship among the intra-metropolitan small- and medium-sized manufacturers during the decline period ： a case study of Ota City, Tokyo	Misako Maruyama	2009/08/25
-1350292	202.58742	Characteristics of agritourism regions in Japan ： the case study of cherry-growing areas	Takuya Hayashi	2009/08/25
-1350294	202.58742	Spatial process of urbanization in Kathmandu Valley, Nepal	Rajesh Bahadur Thapa	2009/08/25
-1350298	202.58742	Laboratory experiments on bacterial weathering of granite and its constituent minerals	Wonsuh Song	2009/08/25
-1350300	202.58742	Stratigraphy and geological significance of the green tuff : example studies of the Oga Peninsula and  Sado Island	Yudai Sato	2009/08/25
-1350333	202.58742	Surface renewal analysis of turbulent transfers in the unstable roughness sublayer over a forest canopy	Hiroki Iwata	2009/08/25
-1350335	202.58742	Molecular phylogeny and evolution of the Haptoglossa species, nematode parasitic peronosporomycetes	Masateru Hakariya	2009/08/25
-1350336	202.58742	Early stage deformation in accretionary prisms : comparative study between Miura-Boso and Nankai prisms	Yoko Michiguchi	2009/08/25
-1350343	202.58742	Petrology, geochemistry and geochronology of basement rocks in Bangladesh	Ismail Hossain	2009/08/25
-1350345	202.58742	Studies on the involvement of cytokinins in antiproliferation and the induction of programmed cell death of tobacco BY-2 cells	Noriko Suda	2009/08/25
-1350348	202.58742	Study on protective effects of ethylene and salicylic acid against ozone exposure in Arabidopsis thaliana	Seiji Yoshida	2009/08/25
-1350351	202.58742	Shared loci correspondence analysis : a new method for full-sib reconstruction with genetic polymorphic data	Nozomu Kokuvo	2009/08/25
-1350352	202.58742	A theoretical and experimental study of pioneer-follower dilemma game	Yasunori Ohtsuka	2009/08/25
-1350354	202.58742	A theoretical study on population persistence originated from individual variability	Yasufumi Nakamichi	2009/08/25
-1350357	202.58742	Vegetation and CO[2] fluxes along soil water gradient in an alpine meadow on the Qinghai-Tibetan Plateau	Pengcheng Zhang	2009/08/25
-1350457	202.58742	Analyses of the regulation of coccolith production by environmental factors and a protein associated with coccolith production by a coccolithophorid, Emiliania huxleyi	Manami Satoh	2009/08/25
-1350462	202.58742	Identification and functional analysis of non-coding RNAs in Bacillus subtilis	Shinichi Saito	2009/08/25
-1347194	202.58742	Dewetting self-assembly of silver nanoparticles into two-dimensional hierarchic structure	Nobuhiko Suematsu	2009/07/17
-1347198	202.58742	Novel proteomic analysis methods using ion peak intensity of tandem mass spectrometry	Mitsuhiro Kanazawa	2009/07/17
-1347200	202.58742	Theoretical study on the electronic structure of the vacancies in compressively strained Ge	Kentaro Takai	2009/07/17
-1347204	202.58742	Study of the top quark production mechanism in 1.96-TeV proton-antiproton collisions	Naoki Kimura	2009/07/17
-1347209	202.58742	Calorimetric studies for standardization and their application to ionic liquids [C[n]mim][Tf[2]N]	Yoshitaka Shimizu	2009/07/17
-1347684	202.58742	2n周期軌道のトポロジー及び階層構造とその物理系への応用	本池巧 [著]	2009/07/17
-1347772	202.58742	Classification of reductive prehomogeneous vector spaces of some type	Masaya Ouchi	2009/07/17
-1347774	202.58742	A study on computer algebra	Takeshi Osoekawa	2009/07/17
-1347775	202.58742	Topology of box complexes of graphs	Akira Kamibeppu	2009/07/17
-1347908	202.58742	Differential geometric study of strongly pseudo-convex manifolds	Takanari Saotome	2009/07/17
-1347913	202.58742	A generalization of Chebyshev polynomials and nonrooted posets	Masaya Tomie	2009/07/17
-1347918	202.58742	Dimension and special metrics	Masahiro Matsumoto	2009/07/17
-1347926	202.58742	Quantum transport properties through a quantum dot with two-fold orbital degeneracy and orbital asymmetry in electron-electron interactions	Haruka Oguchi	2009/07/17
-1347932	202.58742	Study of higher spin gauge theory using matrix models	Takashi Saitou	2009/07/17
-1347940	202.58742	Measurement of the single top quark production cross section in 1.96-TeV proton-antiproton collisions	Koji Nakamura	2009/07/17
-1347949	202.58742	Development of a wideband software spectrometer and a study of the ammonia absorption line of the galaxy NGC 3079	Hagiwara Kenzaburo	2009/07/17
-1347970	202.58742	Azimuthal anisotropy measurement of neutral pion and direct photon in [√[ｓ]ＮＮ]=200 GeV Au+Au collisions at RHIC-PHENIX	Kentaro Miki	2009/07/17
-1347981	202.58742	Theoretical study on compound chondrule formation	Seiji Yasuda	2009/07/17
-1348004	202.58742	Studies on chemistry of 2π aromatic systems containing silicon atoms : synthesis, characterization and reactivity	Masayasu Igarashi	2009/07/17
-1348011	202.58742	Theoretical study on H/D isotope effects in hydrogen bonding by using multi-component molecular orbital method	Yoko Kikuta	2009/07/17
-1348016	202.58742	Studies on synthesis, derivatization and characterization of endofullerenes	Hidefumi Nikawa	2009/07/17
-1348024	202.58742	Elucidation of molecular mechanisms responsible for entropic control of redox potential of cytochrome c	Shin-ichi Mikami	2009/07/17
-1348038	202.58742	Studies on the chemistry of unsaturated and highly strained small ring systems containing heavier group 14 Eelements : synthesis, structure and reactivity	Hiroyuki Yasuda	2009/07/17
-1348045	202.58742	Studies on the structure-activity relationship and preparation of physiologically active cycloalka[b]pyridines	Takashi Yoshizumi	2009/07/17
-1348089	202.58742	Optical properties of novel semiconductor nanostructures : wurtzite InP/InAs/InP core-multishell nanowires	Ken Goto	2009/07/17
-1348091	202.58742	Novel quantum spin systems of multinuclear metal complexes	Norihisa Hoshino	2009/07/17
-894758	202.58742	霞外攟屑	(清) 平歩青著/中華書局上海編輯所編輯	2009/03/26
-818021	202.58742	The institutes of the law of nations : a treatise of the jural relations of separate political communities	by James Lorimer	2009/02/04
-1325184	202.58742	Geochemical study of the back arc Tsushima granite pluton and its comparison to the other middle miocene granites in southwest Japan	Kicheol Shin	2008/09/08
-1325195	202.58742	Study on the genetic diversity and life cycle of the red tide-forming harmful algae Chattonella (Raphidophyceae) using microsatellite markers	Mikihide Demura	2008/09/08
-1325203	202.58742	Phylogeny and evolution of the PX clade with a description of a new class of the Heterokontophyta, Aurearenophyceae classis nova	Atsushi Kai	2008/09/08
-1325208	202.58742	Mechanism of contractile ring-independent cytokinesis in adherent mammalian cells	Masamitsu Kanada	2008/09/08
-1325218	202.58742	Embryonic development of a snakefly, Inocellia japonica Okamoto (Insecta: Neuroptera, Raphidiodea)	Ken Tsutsumi	2008/09/08
-1325224	202.58742	Behavioral analysis of associative olfactory memory in Drosophila larvae	Ken Honjo	2008/09/08
-1325229	202.58742	Studies on the mechanisms controlling organ elongation and flowering by circadian clock through SVP and BZR1 in Arabidopsis	Kanae Niinuma	2008/09/08
-1325261	202.58742	Identification of genes involved in the maintenance of hematopoietic stem cells by microarray analysis of stromal cell lines	Natsumi Shimizu	2008/09/08
-1325265	202.58742	Studies on the mechanism for repression of embryonic properties by histone deacetylase in transition to vegetative growth phase in Arabidopsis thaliana	Motoki Tanaka	2008/09/08
-1325269	202.58742	Biological function of O-linked sugar chain in protein quality control	Hiroto Hirayama	2008/09/08
-1325272	202.58742	Study on production of antibody by methylotrophic yeast, Ogataea minuta	Kousuke Kuroda	2008/09/08
-1325276	202.58742	Studies on the regeneration system of the hair follicular melanocytes during the hair cycle	Kei Kurita	2008/09/08
-1325504	202.58742	Gravity- and wave-induced collapses of coral limestone cliffs with notches and vertical joints	Tetsuya Kogure	2008/09/08
-1325506	202.58742	Climatology of surface cyclogenesis and cyclone track in East Asia	Sachiho Adachi	2008/09/08
-1325509	202.58742	Subduction and exhumation processes of serpentinites inferred from multiple deformation and metamorphism	Ken-ichi Hirauchi	2008/09/08
-1325567	202.58742	A Geographical study on the HIV/AIDS pandemic in Kenya	Moses Murimi Ngigi	2008/09/08
-1325572	202.58742	Utilization of RADARSAT-1 data and digital elevation model for assessing flood damage and improving rice production : lower part of Chi River Basin, Thailand	Chattichai Waisurasingha	2008/09/08
-1325575	202.58742	Biogeochemical dynamics of organic carbon and phosphorus in the subtropical western North Pacific	Sangkyun Lee	2008/09/08
-1325584	202.58742	Crystallographic mineralogy of allanite implicit in geochemical record of the host rocks	Mihoko Hoshino	2008/09/08
-1325586	202.58742	Crystallographic and Geochemical Study of Organic Minerals	Takuya Echigo	2008/09/08
-1325589	202.58742	Intermolecular interactions in gas hydrates examined by changes in crystal structures and vibration modes and its implication for their stabilities under high pressure	Shin-ichi Machida	2008/09/08
-1325590	202.58742	Descriptions of Mongolian Dromaeosaurids (Dinosauria: Theropoda) and phylogeny of Dromaeosauridae	Katsuhiro Kubota	2008/09/08
-1325593	202.58742	Expression and function of the acidic shell protein Aspein in the pearl oyster Pinctada fucata	Takeshi Takeuchi	2008/09/08
-1325594	202.58742	Numerical and field analysis of notch growth-induced rockfall on coastal cliffs	Souleymane Diop	2008/09/08
-1325596	202.58742	An experimental study of following and avoidance behavior in foraging transient resources	Lina Kawaguchi	2008/09/08
-1325597	202.58742	Macroalgal release of dissolved organic matter and its implications in marine carbon cycle	Shigeki Wada	2008/09/08
-1325601	202.58742	Statistical study on the effects of dams on freshwater fish distributions in Japan	Mideok Han	2008/09/08
-1325603	202.58742	Studies on creation of intracellularly active ribozymes	Makiko Nakayama-Hamada	2008/09/08
-1325604	202.58742	Semantic modeling of topography with digital elevation data and its applications for mapping potential habitat	Toshiya Matsuura	2008/09/08
-1325628	202.58742	Integrated study of subsurface core and well log to characterize the Neogene reservoir sequences of Bengal Basin, Bangladesh	Md. Aminul Islam	2008/09/08
-1325631	202.58742	Molecular properties of endogenous RFamide-related peptides, RFRP-1 and RFRP-3	Hiromi Yoshida	2008/09/08
-1325739	202.58742	Studies on the activation mechanism of human epidermal melanocyte	Tomonori Motokawa	2008/09/08
-1317582	202.58742	Synthetic studies on Mycalolide B, an actin depolymerizing marine macrolide	Tomoyuki Kimura	2008/05/08
-1317588	202.58742	Studies on synthesis, isolation, structures and electronic properties of scandium cluster-encapsulated metallofullerenes and their derivatives	Yuko Yamazaki	2008/05/08
-1317591	202.58742	Studies on oxidation and reduction of tetrasilyldisilene	Shigeyoshi Inoue	2008/05/08
-1317596	202.58742	Studies on silyl-substituted 1,4-disila(Dewar benzene) and related compounds	Toru Oikawa	2008/05/08
-1317598	202.58742	Studies of interaction of actin to aplyronine A, a potent antitumor macrolide of marine origin	Takeshi Kuroda	2008/05/08
-1317602	202.58742	Studies on the chemistry of heavy unsaturated four-membered ring compounds : synthesis, sturucture and application as ligands for transition metal complexes	Kazunori Takanashi	2008/05/08
-1317646	202.58742	Elucidation of molecular mechanisms responsible for controlling redox function of cytochromes c	Shin-ichi J. Takayama	2008/05/08
-1317649	202.58742	Studies on synthesis and characterization of endohedral metallofullerenes and their derivatives	Michio Yamada	2008/05/08
-1317658	202.58742	Study of non-native heme coordination structures emerging upon chemical denaturation of cytochromes c	Hulin Tai	2008/05/08
-1317673	202.58742	Reliability of the fragment MO method for a general organic molecule : a case of (-)-epicatechin gallate with STO-3G basis set	Katsuhiro Tamura	2008/05/08
-1317693	202.58742	On vertex operator algebras whose Griess algebras are Jordan algebras	Takahiro Ashihara	2008/05/08
-1317696	202.58742	A classification of prehomogeneous vector spaces of some class	Tomohiro Kamiyoshi	2008/05/08
-1317706	202.58742	Tiled orders over a discrete valuation ring and Frobenius full matrix algebras with structure systems	Yosuke Sakai	2008/05/08
-1317709	202.58742	A study on the approximate GCD	Masaru Sanuki	2008/05/08
-1317713	202.58742	Groups and Lie algebras associated with one dimensional tilings	Daisuke Dobashi	2008/05/08
-1317762	202.58742	Triangular trisaloph ligands for multi-metal-accumulated molecular systems	Hayato Miyazaki	2008/05/08
-1317765	202.58742	Derived equivalences for Gorenstein algebras	Hiroki Abe	2008/05/08
-1318029	202.58742	Measurement of centrality dependence of elliptic flow for identified hadrons in Au+Au collisions at [√[s]NN]=200 GeV	Hiroshi Masui	2008/05/08
-1318043	202.58742	Proton and antiproton production in high energy heavy ion collisions at RHIC	Masahiro Konno	2008/05/08
-1318046	202.58742	Non-perturbative renormalization of four-quark operators and B[K] with Schrödinger functional scheme in quenched domain-wall QCD	Yousuke Nakamura	2008/05/08
-1318052	202.58742	Ion radial diffusion due to non-uniform electrostatic potential in axisymmetric mirror magnetic field	Hiroshi Saimaru	2008/05/08
-1318060	202.58742	Measurement of W+photon production in proton-antiproton collisions at 1.96 TeV	Ai Nagano	2008/05/08
-1318124	202.58742	Study of neutral transport based on visible-light measurement and 3-dimensional simulation in plasma confinement devices	Yuta Higashizono	2008/05/08
-1318127	202.58742	Study of confinement improvement due to fluctuations suppression during potential formation	Yoshiaki Miyata	2008/05/08
-1318135	202.58742	Measurement of the top quark mass by dynamical likelihood method using the lepton+jets events with the collider detector at fermilab	Taichi Kubo	2008/05/08
-1318141	202.58742	Search for Higgs boson production in association with a W boson in 1.96-TeV proton-antiproton collisions	Tatsuya Masubuchi	2008/05/08
-1303622	202.58742	Characteristics of vertical heat and water vapor transport at around spectral gap scales over land surfaces	Makoto Saito	2007/09/12
-1301604	202.58742	Studies on plasticity of mouse hematopoietic stem cells : application of bone marrow transplantation for mitochondrial DNA-based diseases	Shin-Ichi Inoue	2007/09/12
-1301608	202.58742	Physiological studies on the heart photoresponses in crustaceans	Hiroshi Miyamoto	2007/09/12
-1302075	202.58742	Computational analysis of alternative splicing and transcriptional initiation patterns	Hideki Nagasaki	2007/09/12
-1302110	202.58742	Studies on the genes involved in plant intercellular attachment using tobacco-culture cell mutants	Hiroshi Chida	2007/09/12
-1299177	202.58742	海洋微生物による溶存態有機物の生成・分解過程に関する実験的解析	北山貴世 [著]	2007/09/12
-1299930	202.58742	Geology, Mineralogy and paragenesis of the Nena high sulfidation-type epithermal copper-gold deposit and Bilimoia low sulfidation-type epithermal gold deposit, Papua New Guinea	Joseph Onglo Espi	2007/09/12
-1299954	202.58742	A geographical study of school attendance areas using the multiplicatively weighted Voronoi method : a case of Rasht city, Iran	Fatemeh Ahmadi Nejad Masouleh	2007/09/12
-1299956	202.58742	Studies on the reproductions in two tadpole shrimps, Triops numidicus and Triops longicaudatus (Crustacea: Branchiopoda: Notostraca)	Hiroyuki Mitsumoto	2007/09/12
-1300141	202.58742	Characteristics of interfirm network and its role in the formation of innovative manufacturing SMEs (small and medium-sized enterprises) : a comparative study of the Suwa area and the Kamiina area, Nagano Prefecture, Japan	Kazufumi Fujita	2007/09/12
-1300154	202.58742	Studies on eukaryotic translation elongation factor 1A (eEF1A) and formin involved in Tetrahymena cytokinesis	Fumihide Bunai	2007/09/12
-1300158	202.58742	Studies on the geographical ecology of an ectomycorrhizal basidiomycete, Suillus pictus	Dai Hirose	2007/09/12
-1300159	202.58742	Studies on high-molecular-weight polyphenols from fermented tea	Takashi Fujihara	2007/09/12
-1300162	202.58742	Studies on blue-light signaling and circadian rhythms related to photoperiodic induction of flowering in Pharbitis nil	Yohei Higuchi	2007/09/12
-1300165	202.58742	Study on the function of human secretory proteins by gene expression profiles	Aya Miura	2007/09/12
-1300179	202.58742	In vitro tailoring a novel sialic acid-binding lectin by natural evolution-mimicry	Rikio Yabe	2007/09/12
-1300188	202.58742	Functional analysis of a novel MAP kinase cascade in jasmonate signaling in Arabidopsis thaliana	Fuminori Takahashi	2007/09/12
-1300195	202.58742	Study on a CO[2] sensing mechanism by the expression analysis of high C0[2] inducible H43 gene in Chlamydomonas reinhardtii	Yutaka Hanawa	2007/09/12
-1300202	202.58742	Study on regulation of splicing by human immunodeficiency virus type1 (HIV-1) Vpr protein	Chieko Hashizume	2007/09/12
-1300206	202.58742	Mapping water quality from multi-spectral satellite images in turbid inland waters	Youichi Oyama	2007/09/12
-1300218	202.58742	Export of carbon, nitrogen, and phosphorus from forested wotersheds in Japan	Zhao Zhang	2007/09/12
-1300233	202.58742	Modeling of water quality and biota in a stratified reservoir and the effect of long-term climate change on them	Eiji Komatsu	2007/09/12
-1294573	202.58742	Differential geometry of the Fisher information metric and the space of probability measures	Yuichi Shishido	2007/07/09
-1294574	202.58742	The geometry of three-dimensional Seiberg-Witten theory	Takahisa Yamase	2007/07/09
-1294575	202.58742	Singular limits of scalar conservation laws	Naoki Fujino	2007/07/09
-1294578	202.58742	Crystal structures and electronic properties of the triangular lattice system Na[x]CoO[2]	Tomohiro Ikeda	2007/07/09
-1294579	202.58742	A new configuration-mixing approach to correlations beyond the mean field and the complete spectroscopy of nuclei	Satoshi Shinohara	2007/07/09
-1294580	202.58742	Constraints on the density parameter of Population III black holes from WMAP results	Yoshiyasu Hirose	2007/07/09
-1294581	202.58742	Formation and evolution of active galactic nuclei caused by starburst-induced radiation hydrodynamic effects	Yasuyuki Watabe	2007/07/09
-1294582	202.58742	Spectroscopic measurements and the application of a collisional-radiative model to impurity profile analysis in GAMMA 10	Takayuki Kobayashi	2007/07/09
-1294583	202.58742	Measurement of electron azimuthal anisotropy and implications of heavy quark flow in Au+Au collisions at [√sNN]=200 GeV	Shingo Sakai	2007/07/09
-1294585	202.58742	Search for third generation vector leptoquarks in 1.96-TeV proton-antiproton collisions	Takashi Akimoto	2007/07/09
-1294608	202.58742	Studies on photochemistry of aromatic compounds having intramolecular hydrogen bonding and C=C double bond	Kaoru Kaneda	2007/07/09
-1294609	202.58742	Studies on chemistry of silicon-silicon triple bond species : synthesis, characterization, and reactivity	Rei Kinjo	2007/07/09
-1294611	202.58742	[19]F NMR studies of active site structure and functional properties of hemoproteins	Satoshi Nagao	2007/07/09
-1294613	202.58742	Studies on mass transfer in porous microparticle and microcapsule systems	Hiroshi Kakizaki	2007/07/09
-1294614	202.58742	Synthesis and magnetic properties of chemically ordered L1[0]-FePt nanoparticles	Masafumi Nakaya	2007/07/09
-1294615	202.58742	Photoinduced reactions in intermolecularly hydrogen-bonded systems	Ikuma Ohshiro	2007/07/09
-1294617	202.58742	Regulation of ion recognition by utilizing characteristic properties of coordination compounds	Sayuri Masubuchi	2007/07/09
-1294625	202.58742	Models of Peano arithmetic as modules over initial segments and quantifier elimination results for products of ordered Abelian groups	Nobuya Suzuki	2007/07/09
-1294631	202.58742	Investigation of optical properties in InAs/GaAs coupled quantum dots	Shohgo Yamauchi	2007/07/09
-1283221	202.58742	Computational molecular spectroscopic study of transition-metal bearing molecules	Rei Okuda	2007/01/30
-1283227	202.58742	Studies on mitochondrial diseases using trans-mitochondrial mice carrying mtDNAs with point mutations	Atsuko Kasahara	2007/01/30
-1283230	202.58742	Interannual variation of cold frontal activities in the Eurasian continent	Masamitsu Hayasaki	2007/01/30
-1277259	202.58742	Studies on nucleophilic addition of dimethylsilyl enolates and α-dimethylsilylesters	Takahiro Nakagawa	2006/09/08
-1277282	202.58742	Mathematical modeling of talus development and its application to the caldera wall of Mount St. Helens	Hiroyuki Obanawa	2006/09/08
-1277395	202.58742	Hydrogeology and nitrate transport in a small-scale agricultural catchment	Adrian Gallardo	2006/09/08
-1277424	202.58742	Embryological studies on Galloisiana yuasai Asahina (Insecta: Grylloblattodea)	Toshiki Uchifune	2006/09/08
-1277747	202.58742	Measurement of the B meson lifetimes with the collider detector at Fermilab	Satoru Uozumi	2006/09/08
-1277748	202.58742	Physiographic factors controlling the degradation of the Senjogahara mire, Nikko National Park, Japan	Takayuki Ogata	2006/09/08
-1277749	202.58742	Wilson chiral perturbation theory for 2+1 flavors	Shinji Takeda	2006/09/08
-1277750	202.58742	Search for Higgs boson production in association with the W boson in 1.96-TeV proton-antiproton collisions	Yoshio Ishizawa	2006/09/08
-1277757	202.58742	Genetic and molecular analysis on functional interactions between clock components LHY/CCA1 and flowering regulation in Arabidopsis	Sumire Fujiwara	2006/09/08
-1277778	202.58742	A study of absolute embeddings on relative topological properties	Shinji Kawaguchi	2006/09/08
-1277780	202.58742	A classification of irreducible weakly spherical homogeneous spaces	Daisuke Takeda	2006/09/08
-1277781	202.58742	Volume entropy, geometry of the ideal boundary, and symmetry of nonpositively curved manifolds	Tomomi Nakagawa	2006/09/08
-1277783	202.58742	Set estimation procedures in testing and multiple decision problem	Hirosuke Maihara	2006/09/08
-1277784	202.58742	On approximation theorems of maps from compacta to polyhedra	Eiichi Matsuhashi	2006/09/08
-1277785	202.58742	Selection theorems on realcompact spaces and finitistic spaces	Takamitsu Yamauchi	2006/09/08
-1277786	202.58742	Representations of normalizer subgroup of maximal tori of the classical group of type C	Makoto Takahashi	2006/09/08
-1277791	202.58742	Study of particle fueling and its effects on plasma behavior in GAMMA 10	Yuusuke Kubota	2006/09/08
-1277793	202.58742	Shock-wave heating model for chondrule formation : thermal evolution of precursor dust particles and hydrodynamics of molten droplets	Hitoshi Miura	2006/09/08
-1277795	202.58742	Measurement of the B[c] meson lifetime with the collider detector at Fermilab	Masato Aoki	2006/09/08
-1277799	202.58742	Nonperturbative renormalization of meson decay constants for a renormalization group improved gauge action	Kiyotomo Ide	2006/09/08
-1277803	202.58742	Studies on synthetic methods using group 14 metal hydrides	Kazunori Ootsuka	2006/09/08
-1277804	202.58742	Studies on stereochemistry, spectroscopy, and catalytic reactivity of rhenium(V) complexes with asymmetrical ligands	Tetuya Ohashi	2006/09/08
-1277805	202.58742	Studies on complexation between porphyrin derivatives and DNAs	Takako Ohyama	2006/09/08
-1277806	202.58742	Studies on the chemistry of tricoordinated germanium and tin compounds : radicals, cations, anions, and doubly bonded species	Tomohide Fukawa	2006/09/08
-1277807	202.58742	Isolation of the novel bioactive compounds from Okinawan sponges and development of the jolkinolide D pharmacophore and wrenchnolol that interact with biomolecules	Hiroki Shimogawa	2006/09/08
-1277808	202.58742	Studies on chemical functionalization of paramagnetic endofullerenes	Yoichiro Matsunaga	2006/09/08
-1277809	202.58742	Studies on stereo- and spectrochemistry of alkoxo-bridged Ti(IV) polynuclear complexes with polyaminopolycarboxylates	Md. Monirul Islam	2006/09/08
-1277810	202.58742	Theoretical investigation into proton transfer mechanism through peptide bonds in keto-enol tautomerization	Katsumasa Kamiya	2006/09/08
-1277811	202.58742	Syntheses and physical properties of iron(II) spin-crossover complexes with ferrocenyl groups	Lingqin Han	2006/09/08
-1278172	202.58742	Numerical study on the formation mechanism of the arid climate in northeastern Asia	Tomonori Sato	2006/09/08
-1278173	202.58742	A novel role for Vpr of human immunodeficiency virus type 1 as a regulator of the splicing of cellular and viral pre-mRNAs	Madoka Kuramitsu	2006/09/08
-1278177	202.58742	Selection of RNA aptamers against hemagglutinin of human influenza virus using surface plasmon resonance	Tomoko Misono	2006/09/08
-1278207	202.58742	Molecular studies on two voltage-gated chloride channel genes in rice (Oryza sativa L.)	Atsuko Nakamura	2006/09/08
-1278216	202.58742	Spatial and temporal variations of salt weathering of stone monuments	Nobuaki Kuchitsu	2006/09/08
-1277921	202.58742	Triggering mechanisms and rainfall thresholds of shallow landslides on soil-mantled hillslopes with permeable and impermeable bedrocks	Yuki Matsushi	2006/09/08
-1277923	202.58742	Characteristics of scalar admixture in the atmospheric boundary layer and estimation of regional surface fluxes over semi-arid area	Ayumi Kotani	2006/09/08
-1277929	202.58742	Study on the mechanisms of gene expression regulated by non-coding RNAs and DEAD box RNA helicases in Bacillus subtilis	Yoshinari Ando	2006/09/08
-1277930	202.58742	Functional analysis of the gamete-enriched genes in Dictyostelium discoideum	Tetsuya Muramoto	2006/09/08
-1277932	202.58742	The study on contribution of mitochondrial DNA to tumorigenicity and malignancy in mouse cells	Miho Akimoto	2006/09/08
-1277933	202.58742	Transcriptome analysis during the process of environmental stress and recovery in plants	Youko Oono	2006/09/08
-1277934	202.58742	Studies on the pathway and regulation of salicylic acid biosynthesis in ozone-exposed plants	Daisuke Ogawa	2006/09/08
-1277935	202.58742	Isolation and characterization of RNA aptamers against mouse prion protein	Satoru Sekiya	2006/09/08
-1277936	202.58742	Biosynthesis and function of glycosylphosphatidylinositol in Saccharomyces cerevisiae	Morihisa Fujita	2006/09/08
-1277937	202.58742	Studies on the genes expressed in the apex on the floral transition in short-day plant, Pharbitis nil	Rie Kikuchi	2006/09/08
-1277938	202.58742	Evolution of reaction norm of reproductive diapause in Callosobruchus maculatus	Yukari Suzuki	2006/09/08
-1277944	202.58742	Mechanism regulating telomerase activity in Oryza sativa L.	Hee Chung	2006/09/08
-1236757	202.58742	Photosynthetic antenna system in green plants : the diversity and evolution	Yukie Yoshii	2005/09/01
-1236780	202.58742	Physiological and morphological studies on photosensitivity of the central nervous system of Limulus Polyphemus	Kazuo Mori	2005/09/01
-1236839	202.58742	Studies on the mechanisms of tissue-reunion in the cut tissues of plant	Masashi Asahina	2005/09/01
-1236879	202.58742	A study on the analytic factorization of multivariate polynomials	Maki Iwami	2005/09/01
-1236881	202.58742	Hyperspaces of infinite-dimensional spaces	Masato Yaguchi	2005/09/01
-1236885	202.58742	A study on multivariate polynomial factorization and analytic continuation	Daiju Inaba	2005/09/01
-1236889	202.58742	Noncommutativity of fermionic coordinates in superstring theory	Yoshiteru Amemiya	2005/09/01
-1236893	202.58742	Study of neoclassical resonant transport in the GAMMA10 tandem mirror	Toru Ito	2005/09/01
-1236895	202.58742	First-principle calculation for the ionization rate of atoms and molecules under intense laser fields	Tomohito Otobe	2005/09/01
-1236900	202.58742	Charmed meson spectra and decay constants with one-loop O(aΛQCD) improved relativistic heavy quark action	Yasuhisa Kayaba	2005/09/01
-1236902	202.58742	Cooper-pair transport in mesoscopic and atomic-scale Josephson junctions	Hisao Miyazaki	2005/09/01
-1236908	202.58742	Search for the Higgs boson using high-pT isolated like-sign dilepton events in 1.96-TeV proton-antiproton collisions	Hirokazu Kobayashi	2005/09/01
-1236909	202.58742	Measurement of the top quark mass with the Collider Detector at Fermilab	Koji Sato	2005/09/01
-1236957	202.58742	Parity and angular momentum projection approach to light nuclei	Hirofumi Ohta	2005/09/01
-1236960	202.58742	Studies on the synthesis of heterocycles by new cyclizations directed by organosilyl and organogermyl groups	Tatsuyuki Takahashi	2005/09/01
-1236964	202.58742	Studies on chemistry of silylenes with electropositive substituents : the quest for triplet silylene	Takashi Tanaka	2005/09/01
-1236971	202.58742	Studies on (Me[3]Si)[4]C[4] species : silyl-substituted cyclobutadiene, tetrahedrane, and butatriene	Masanobu Tanaka	2005/09/01
-1236972	202.58742	Studies on ion transfer across single microdroplet : water interface	Takayuki Negishi	2005/09/01
-1236973	202.58742	Development of highly sensitive chemical sensing techniques with surface electrochemistry	Hiroaki Matsuura	2005/09/01
-1236975	202.58742	Studies on highly selective hydrostannylation of alkynes and alkenes with lewis acidic hydrostannanes	Di Wang	2005/09/01
-1236977	202.58742	Studies on stereoselective preparation and properties of mono- and polynuclear complexes with sulfur donor ligand	Mitsuharu Fujita	2005/09/01
-1236979	202.58742	Studies on physicochemical properties of group 12 Metal(II) complexes with simple supporting ligands	Yuki Matsunaga	2005/09/01
-1236988	202.58742	Synthesis and structural analyses of inorganic and inorganic-organic hybrid nanotubes	Qingmin Ji	2005/09/01
-1237488	202.58742	Evaluation of strength of weathered rocks in the coastal environment : application of the equotip hardness tester	Hisashi Aoki	2005/09/01
-1237615	202.58742	Surface alteration during the early stage of weathering of granite and Its constituent minerals under acidic conditions	Yasuhiko Takaya	2005/09/01
-1238190	202.58742	Study on oxidative stress response of quinone oxidoreductase in Staphylococcus aureus	Atsushi Maruyama	2005/09/01
-1238199	202.58742	Observational studies on diurnal moisture transport in several mountainous regions	Taichi Sasaki	2005/09/01
-1238201	202.58742	Local energetics of kinetic energy divided in the barotropic and baroclinic components during the formation of blocking	Yasushi Watarai	2005/09/01
-1238311	202.58742	Studies on the isolation and characterization of carrot-LEC1, an embryogenesis regulating factor, and its complex formation	[Katsumi Yazawa]	2005/09/01
-1238467	202.58742	Study of identified hadron spectra and yields at mid-rapidity [√sNN]=200 GeV Au+Au collisions	Akio Kiyomichi	2005/09/01
-1238470	202.58742	Systematic development of microfabrics of deep-sea sediments into accretionary prism : deposition, compaction and deformation	Kiichiro Kawamura	2005/09/01
-1238471	202.58742	Study on the regulation of cell growth and the synthesis of Alkenones by Temperature in coccolithophorids	Joy M. Sorrosa	2005/09/01
-1237639	202.58742	Ultrastructural and molecular phylogenetic studies on a possibly ongoing secondary endosymbiosis in a katablepharid flagellate	Noriko Okamoto	2005/09/01
-1237642	202.58742	Embryonic and postembryonic developments of the Centipede Scolopocryptops rubiginosus L. Koch  (Chilopoda : Scolopendromorpha)	Masashi Sakuma	2005/09/01
-1237648	202.58742	Mammalian mitochondrial genetic complementation and recombination	Akitsugu Sato	2005/09/01
-1237652	202.58742	Identification and characterization of calmodulin-binding proteins in Tetrahymena cilia	Hironori Ueno	2005/09/01
-1237654	202.58742	The metabolism of selenium in a Coccolithophorid, Emiliania huxleyi	Toshihiro Obata	2005/09/01
-1237657	202.58742	Histochemical studies on the olfactory pathways in the silkmoth brain with the support of neuron database	Masaaki Iwano	2005/09/01
-1237658	202.58742	Neurophysiological studies on the control mechanisms of the pheromone-triggered behavior in the silkmoth	Satoshi Wada	2005/09/01
-1237659	202.58742	Neuroethological studies on neuromodulation of the silkmoth brain	Laureline Gatellier	2005/09/01
-1237670	202.58742	Cytological Studies of the sexual development in Dictyostelium discoideum	Kentaro Ishida	2005/09/01
-1237683	202.58742	Modeling of radiative transfer of snow for remote sensing of grain size and concentration of impurities	Tomonori Tanikawa	2005/09/01
-936168	202.58742	科学史学入門	後藤邦夫著	2005/08/02
-883283	202.58742	演習行政法	山内一夫, 雄川一郎編	2005/03/18
-1210351	202.58742	A study on the transcriptional control of glycosyltransferase gene in yeasts	Katsuyoshi Yamamoto	2004/10/01
-1210361	202.58742	Effects of large-scale orography on the climate system in northern summer : a study with the MRI atmosphere-ocean coupled GCM	Manabu Abe	2004/10/01
-1210392	202.58742	Studies on neuronal organization of newt retina : adult, development and regeneration	Yumiko Umino	2004/10/01
-1210395	202.58742	Search for W boson pair production in the lepton + jet channel in 1.8-TeV proton-antiproton collisions	Hideaki Takano	2004/10/01
-1210446	202.58742	A decay of gap junctions between neuronal progenitor cells and ganglion cell differentiation during retinal regeneration of adult newt (Cynops pyrrhogaster)	Hanako Oi	2004/10/01
-1210508	202.58742	CO[2] exchanges between the atmosphere and an alpine meadow ecosystem on the Qinghai-Tibetan Plateau	Tomomichi Kato	2004/10/01
-1210519	202.58742	Cross-phylum functional equivalence of Otx genes and the origin of brain patterning	Yoshitsugu Adachi	2004/10/01
-1210530	202.58742	Studies on circadian oscillation of expression of clock-controlled gene AtC401, an Arabidopsis homolog of PnC401 which related to photoperiodic induction of flowering	Taichi Oguchi	2004/10/01
-1210544	202.58742	Induction of differentiation of human myeloid leukemia cells by cytokinins, plant hormones	Yuki Ishii	2004/10/01
-1210555	202.58742	Molecular mechanisms of gene expression in response to hypoosmolarity in Arabidopsis thaliana	Rie Satoh	2004/10/01
-1210675	202.58742	The lifespan of solution to systems of semilinear wave equations	Yuki Kurokawa	2004/10/01
-1210681	202.58742	Integrability of almost Kähler structures and an isolation theorem of the Weyl conformal tensor	Hiroyasu Satoh	2004/10/01
-1210690	202.58742	On the Cauchy problem for Schrödinger type equations	Yuya Dan	2004/10/01
-1210693	202.58742	A characterization for local zeta functions of polynomials satisfying a certain assumption	Masaki Fujigami	2004/10/01
-1210704	202.58742	A theory of simple current extensions of vertex operator algebras and applications to the moonshine vertex operator algebra	Hiroshi Yamauchi	2004/10/01
-1210709	202.58742	On the system of nonlinear hyperbolic equations appearing in the natural science and the engineering	Atsushi Satoh	2004/10/01
-1210710	202.58742	Subnormality and mild normality in products of ordinal numbers	Yasushi Hirata	2004/10/01
-1210729	202.58742	Stark effect study on Ne and Ar Rydberg states with quantum beat measurement	Tomohiro Aoto	2004/10/01
-1210735	202.58742	Radiation hydrodynamic growth of supermassive black holes and QSO formation	Nozomu Kawakatsu	2004/10/01
-1210744	202.58742	An experimental study of shell effects of interacting nuclei on heavy-ion fusion reactions	Kenichirou Satou	2004/10/01
-1210746	202.58742	Observation of the radial potential profile by use of an improved gold neutral beam probe	Yuichiro Takemura	2004/10/01
-1210750	202.58742	Light hadron spectroscopy in two-flavor lattice QCD with small sea quark masses	Yusuke Namekawa	2004/10/01
-1210753	202.58742	I=2 S-wave pion scattering phase shift with two flavor dynamical quark effect	Takeshi Yamazaki	2004/10/01
-1210758	202.58742	Study of the spatial profile of ion confining potentials using novel ion-energy spectrometer arrays	Maiko Yoshida	2004/10/01
-1210761	202.58742	Tests of enhanced leading order QCD in W boson plus jet production in 1.96-TeV proton-antiproton collisions	Soushi Tsuno	2004/10/01
-1210770	202.58742	Studies on chemistry of germanium unsaturated ring system with aromaticity and homoaromaticity	Yutaka Ishida	2004/10/01
-1210773	202.58742	[19]F NMR study of heme electronic structure in reconstituted hemoproteins	Yueki Hirai	2004/10/01
-1210776	202.58742	Studies on new carbon-carbon bond-forming reaction with organotin compounds	Naoki Fujisawa	2004/10/01
-1210780	202.58742	Studies on chemistry of unsaturated small ring systems consisting of silicon atoms	Tadahiro Matsuno	2004/10/01
-1210781	202.58742	Studies on spin dynamics and reactivity of radical species generated by photocleavage reaction of organic molecules	Toshiaki Suzuki	2004/10/01
-1210782	202.58742	Hydrogen-induced properties and functionalities in organic-inorganic hybrid materials	Musashi Fujishima	2004/10/01
-1210784	202.58742	Topographic effects on water vapor in mountain lee after passage of a cold front	Osamu Okamura	2004/10/01
-1210799	202.58742	Reconstruction of paleogeography and unraveling of uplift history in collisional zones using detrital heavy minerals : Setogawa-Mineoka Belt and Himalaya-Bengal system	Koichi Okuzawa	2004/10/01
-1210832	202.58742	Earthquake-triggered chaotic deposits : field and experimental study	Diaa Eldin Mohamed Kamel Hamed	2004/10/01
-1210846	202.58742	Size distribution of fragmented melt particles by rapid gas flow	Munetoshi Sakai	2004/10/01
-1211164	202.58742	Studies on genetic complementation of human mitochondria	Tomoko Ono	2004/10/01
-1211168	202.58742	Studies on the reaction mechanism of cyclodextrin glycosyltransferase and malto-hexaose forming amylase on the basis of X-ray crystallographic and protein engineering analyses	Ryuta Kanai	2004/10/01
-1211178	202.58742	Studies on structure and function of clathrin adaptor proteins	Yoko Shiba	2004/10/01
-1211181	202.58742	Roles of bovine leukemia virus tax protein on viral propagation and apoptotic process	Masahiko Takahashi	2004/10/01
-1211182	202.58742	Determination of normal ranges of mitochondrial respiratory activities by mtDNA transfer from human subjects to mtDNA-less HeLa cells for identification of the pathogenicities of mutated mtDNAs	Chu-shih Chen	2004/10/01
-1211183	202.58742	Studies on microtubules and microtubule associated protein in the macronuclear division of Tetrahymena	Kenta Fujiu	2004/10/01
-1211193	202.58742	Deformation process within offscraped accretionary complex : an example from the Miocene Hota Group, southern Boso Peninsula, central Japan	Jun'ichi Chiba	2004/10/01
-1211194	202.58742	Self-consistent Skyrme-Hartree-Fock plus random phase approximation calculation of nuclear low-lying states in the mesh representation	Hiroto Imagawa	2004/10/01
-1211196	202.58742	Ultrastructural and molecular phylogenetic studies on heterotrophic stramenopile flagellates	Mayumi Motita	2004/10/01
-1211203	202.58742	Production and activity of xylem sap lectin in cucumber	Atsushi Oda	2004/10/01
-1211204	202.58742	Electronic states and their spin structures of strain-induced GaAs quantum dots	Kazuhiro Nishibayashi	2004/10/01
-1211206	202.58742	Ratio estimation and the approximation of moments	Shinichi Kawai	2004/10/01
-1211207	202.58742	Estimate of atmospheric predictability and development of prediction model using ensemble forecast assimilation in nonlinear dynamical system	Daisuke Nohara	2004/10/01
-1211208	202.58742	Tsunami depositional sequence model in shallow bay sediments : an example from Holocene drowned valleys on the southern Boso Peninsula, eastern Japan	Osamu Fujiwara	2004/10/01
-1211210	202.58742	Molecular genetics of mouse mitochondrial DNA : maternal inheritance and bottleneck effect	Hiroshi Shitara	2004/10/01
-722848	202.58742	The American high school : its responsibility and opportunity	[by] Hollis L. Caswell ... [et al.]	2004/03/08
-756918	202.58742	Health-guidance	米村貞知, 北浜淳共著	2004/03/08
-745113	202.58742	アメリカの教育	教育思潮研究會編	2004/03/08
-1183240	202.58742	亞細亞恊會報告		2003/12/05
-1197517	202.58742	Studies on xylem sap organic substances involved in the regulation of greening in Cucurbitaceae plants	Chihiro Kato	2003/10/03
-1197526	202.58742	Measurement of proton polarization in [208]Pb(d,p)[209]Pb reaction at incident deuteron energy of 20 MeV	Mitsutaka Yamaguchi	2003/10/03
-1197533	202.58742	Studies on stratospheric ozone changes in the Arctic region derived from satellite observational data	Yukio Terao	2003/10/03
-1197534	202.58742	Exciton dephasing mechanism of CdSe and CuBr quantum dots embedded in matrix	Kazuya Takemoto	2003/10/03
-1197539	202.58742	A geographical study of population characteristics in the Autonomous Community of the Basque Country, Spain	Hisao Ishii	2003/10/03
-1197562	202.58742	Global bioethics and governance : views from FAO and India on the ethics of biotechnology in agriculture and medicine	Minakshi Bhardwaj	2003/10/03
-1197573	202.58742	Studies on the mechanism for regulation of expression of carrot embryo specific gene, C-ABI3	Miho Ikeda-Iwai	2003/10/03
-1197578	202.58742	Taxonomic study on the order Kickxellales (Zygomycetes, Zygomycota)	Yuko Kurihara	2003/10/03
-1197597	202.58742	Identification and characterization of expression mechanism of a multidrug-resistant operon (lmr) newly found in Bacillus subtilis genome sequencing analysis of the 22 - 25 degree region	Miyuki Kumano	2003/10/03
-1197694	202.58742	Group actions and integral geometry	Takashi Sakai	2003/10/03
-1197695	202.58742	On derived equivalent algebras	Yoshiaki Kato	2003/10/03
-1197697	202.58742	On the Cauchy problem for weakly hyperbolic equations	Yasuo Yuzawa	2003/10/03
-1197703	202.58742	Study of fast ion transport using neutron emission profile measurement on JT-60U	Masao Ishikawa	2003/10/03
-1197704	202.58742	Study of the carbonized plasma facing component and its application to the GAMMA 10 tandem mirror	Yuki Ishimoto	2003/10/03
-1197705	202.58742	D-branes on Calabi-Yau manifolds and their stability	Yoko Onjo	2003/10/03
-1197706	202.58742	Novel principle and method of simultaneous ion and electron temperature measurements for potential confinement investigations	Tomoharu Numakura	2003/10/03
-1197707	202.58742	Study of plasma stability and confinement using a novel matrix-type semiconductor X-ray detector	Ryutaro Minami	2003/10/03
-1197708	202.58742	Kinetics and dynamics of hydrogen interaction with the silicon surface	Atsushi Kubo	2003/10/03
-1197709	202.58742	Interactions between closed string states and D-branes	Kayoko Fujimura	2003/10/03
-1197713	202.58742	Self-assembly of nucleobase- and nucleotide-appended bolaamphiphiles and their structural analyses	Rika Iwaura	2003/10/03
-1197718	202.58742	Magnetic structures and spin dynamics in S=1/2 one-dimensional Heisenberg antiferromagnetic systems	Shinya Takaishi	2003/10/03
-1197721	202.58742	Studies on preparation and properties of linear-type S-bridged trinuclear complexes involving heavy transition metal ions	Nagina Mahboob	2003/10/03
-1197729	202.58742	Construction of macrocyclic compounds for modulation of the structures and functions by utilizing the chemical properties of sulfur atom	Daisuke Nishida	2003/10/03
-1197732	202.58742	Generation and behavior of anthroyloxyl radicals in photocleavage of N-(anthroyloxy)-9-fluorenylideneamines	Yasuo Saitoh	2003/10/03
-1197735	202.58742	Geographical study on regional differentials of family income in the Philippines	Emi Kainuma	2003/10/03
-1197808	202.58742	A Geographical study on the aggregation problem of statistics : in case of the 2000 Population and Housing Census in Korea	Gyehwa Kang	2003/10/03
-1197809	202.58742	Change of water balance in Japanese red pine forest under the successional process	Shin-ichi Iida	2003/10/03
-1197814	202.58742	Nitrate attenuation processes in groundwater at an upland slope-wetland plot	Seiichiro Ioka	2003/10/03
-1197815	202.58742	A geographical study on distribution system in terms of location pattern of specialty retail chains in Japan	Jun Kaneko	2003/10/03
-1197816	202.58742	Location and coastal use of marinas in the Tokyo Metropolitan Area	Daisuke Sato	2003/10/03
-1197862	202.58742	Petrological study and growth rate estimation of the metamorphic minerals of the Bushveld contact aureole, eastern Transvaal area, South Africa	Yasunari Kaneko	2003/10/03
-1197879	202.58742	Late Pliocene ostracode faunas and paleoceanographic change in the Sea of Japan	Katsura Yamada	2003/10/03
-1197897	202.58742	Geochemical study of volcanic rocks and epithermal gold deposit in the Hishikari mine, Japan	Takahiro Hosono	2003/10/03
-1197916	202.58742	Structural geology of the Moho and surrounding part of the Oman ophiolite : a case study from West Sohar	Huda Mohamed Allawati	2003/10/03
-1197947	202.58742	Synthetic interpretation of trench-slope basin evolution, southern Boso Peninsula, Japan	Shunsuke Kawakami	2003/10/03
-1198290	202.58742	Molecular characterization of genes involved in fruiting body formation of Polysphondylium pallidum	Yoshinori Kawabe	2003/10/03
-1198295	202.58742	Study on atomic-scale superconductor/magnet multilayered systems	Yoshiharu Kanegae	2003/10/03
-1198300	202.58742	Automorphisms of root systems and codes,and their applications	Zenji Kobayashi	2003/10/03
-1198302	202.58742	A study on function of BIG2, a guanine nucleotide exchange factor for ADP-ribosylation factors	Chisa Shinotsuka	2003/10/03
-1198317	202.58742	Newly developed techniques of electron probe microanalyzer for studying crystal chemistry of minerals	Norimasa Nishida	2003/10/03
-1198324	202.58742	Intraseasonal oscillations of convective activity and atmospheric circulation on submonthly timescale over and around the Tibetan Plateau during the summer : a link between the midlatitudes and Asian summer monsoon region	Hatsuki Fujinami	2003/10/03
-1198326	202.58742	Studies on the effects of peptidyl plant growth factor phytosulfokine on the proliferation of carrot cultured cells	Changho Eun	2003/10/03
-1198328	202.58742	Taxonomic and phylogenetic study on the Dictychophyceae (heterokont Chromophytes= Heterokontophyta, stramenopiles)	Hiroshi Sekiguchi	2003/10/03
-1197325	202.58742	Real-time measurement of implanted deuterium density by using the [2]H(d,p) [3]H reaction	Naoki Kawachi	2003/10/03
-1197328	202.58742	Study on γ-aminobutyric acid in bananas	Sotha Chek	2003/10/03
-1197329	202.58742	Taxonomic studies on the family Saprolegniaceae (Saprolegniales, Oomycetes)	Shigeki Inaba	2003/10/03
-1197441	202.58742	Identification of novel mouse imprinted genes by the cDNA microarray method	Yosuke Mizuno	2003/10/03
-1197443	202.58742	Chemical evolution of spring water and groundwater flow system in Asama volcano, Central Japan	Hidekazu Suzuki	2003/10/03
-1197446	202.58742	Chlorine NQR Studies of intermolecular interactions in [M Cl[6]][2-](M: Pt, Sn, Ir) complexes	Hiroshi Miyoshi	2003/10/03
-1165606	202.58742	明石瀬戸潮流圖		2003/03/28
-1161631	202.58742	財團法人齋藤報恩會時報	小倉博編	2003/02/13
-1161646	202.58742	財團法人齋藤報恩會	財團法人齋藤報恩會 [編]	2003/02/13
-1161167	202.58742	帝國學士院一覽		2003/02/06
-1159198	202.58742	廣蠶桑説輯補		2003/01/20
-1152423	202.58742	最楽編	魏大中, 高道淳輯	2002/11/08
-1152052	202.58742	關夫子經/感應篇/文昌帝君陰騭文		2002/11/06
-1152097	202.58742	隠騭録/自知録 : 支那撰述/生生四諦/重刊八行圖説	袁了凡[著]/鄭奎光編輯/沈龍江原輯	2002/11/06
-941816	202.58742	Gakkô no Mado kara	Kitô-Reizô著	2002/10/25
-941445	202.58742	Kibô no michi	Hirai-Masao, Kusakabe-Fumio, Tanaka-Toshio著	2002/10/25
-941675	202.58742	Rômazi no hon	二葉ローマ字の本編修部編	2002/10/25
-941742	202.58742	Syôgakkô rômazi	福原麟太郎監修	2002/10/25
-954516	202.58742	Aoki's middle-school English	by Tsuneo Aoki	2002/10/25
-954533	202.58742	Aoki's practical-English for high-school	by Tsuneo Aoki	2002/10/25
-954537	202.58742	Aoki's high-school English	by Tsuneo Aoki	2002/10/25
-955575	202.58742	Gakkô no mado kara	Kitô-Reizô	2002/10/25
-955587	202.58742	Midorino kuni no kodomotati	Kitô-Reizô	2002/10/25
-955602	202.58742	Rômazi kyôsitu	Hirai-Masao著	2002/10/25
-955615	202.58742	Mati ni tukusu hitotati	Hirai-Masao	2002/10/25
-955628	202.58742	Hikari no kuni e	Hirai-Masao	2002/10/25
-955631	202.58742	Sekai no kodomo to	Hirai-Masao	2002/10/25
-955643	202.58742	Makiba no kokage	東京修文館編集部著	2002/10/25
-955781	202.58742	Rômazi no kyôsitu	Kitô-Reizô	2002/10/25
-1170172	202.58742	Roles of insulin-like growth factors and their binding proteins in mouse tongue myogenesis	Akira Yamane	2002/10/18
-1170212	202.58742	Calculation of matrix elements for K→ππ decay from reduction approach in lattice QCD with domain - wall fermion	Junichi Noaki	2002/10/18
-1170339	202.58742	On hypoellipticity for pseudodifferential operators	Nobuo Nakazawa	2002/10/18
-1170357	202.58742	Studies on pharmacological properties and physiologial functions of the hyperpolarization-activated channel (I[h] channel) in the rod photoreceptor cells	Tomooki Satoh	2002/10/18
-1170780	202.58742	Some Decision Procedures for Comparison Problems	Mitsuru Aoki	2002/10/18
-1170782	202.58742	Statistical interval prediction and approximations to the discrete distributions	Eisuke Hida	2002/10/18
-1170784	202.58742	The Cauchy Problem for Parabolic Equation	Hironobu Honda	2002/10/18
-1170787	202.58742	Organic geochemical study on maleimides in the sedimentary rocks	Masaki Kozono	2002/10/18
-1170790	202.58742	Studies on urea and carboxylic acids in the formation of polymeric biomolecules in chemical evolution	Masanori Terasaki	2002/10/18
-1170792	202.58742	Quasicrystals and sturmian words	Kuniko Sakamoto	2002/10/18
-1170799	202.58742	A study on the approximate multivariate factorization	Kosaku Nagasaka	2002/10/18
-1170800	202.58742	The algorithm to calculate the period matrix of the curve X[m] + Y[n]	Yasuo Kamata	2002/10/18
-1170803	202.58742	On the invariant ring of a certain finite group and modular forms	Koji Tsushima	2002/10/18
-1170804	202.58742	On some Additive problems in analytic number theory	Temenoujka P. Peneva	2002/10/18
-1170807	202.58742	Nonlinear optical response of molecules in time-dependent density-functional theory	Jun-ichi Iwata	2002/10/18
-1170810	202.58742	Analysis of physical gel under steady shear flow	Tsutomu Indei	2002/10/18
-1170814	202.58742	Study of the effect of orbital degeneracy in ferromagnetic metallic manganites	Katsunori Kubo	2002/10/18
-1170816	202.58742	Charmonium spectrum from quenched QCD on anisotropic lattices	Masataka Okamoto	2002/10/18
-1170818	202.58742	The hydrodynamical formulation of quantum mechanics and the two-dimensional parabolic potential barrier	Toshiki Shimbori	2002/10/18
-1170819	202.58742	The bioequivalence problem and the quantum estimation	Yoshiyuki Tsuda	2002/10/18
-1170843	202.58742	Molecular simulation of expanding matter and nuclear multifragmentation	Shinpei Chikazumi	2002/10/18
-1170850	202.58742	Σ[0] - Λ Mixing in QCD Sum Rules	Naohiko Yagisawa	2002/10/18
-1170871	202.58742	Dynamic behavior of molecules included in one-dimensional microporous aluminophosphates	Kazuma Gotoh	2002/10/18
-1170876	202.58742	Synthesis of novel metallo-hosts and regulation of their function	Akihiro Hashiguchi	2002/10/18
-1170887	202.58742	Studies on chemistry of unsaturated cyclic systems consisting of germanium atoms	Norihisa Fukaya	2002/10/18
-1170896	202.58742	Geochemical studies on kerogen diagenesis by thermal analysis	Masahiro Oba	2002/10/18
-1170901	202.58742	Theoretical study of parity-violating energy of chiral molecules	Takeshi Kitayama	2002/10/18
-1170904	202.58742	Organic cosmo- and geochemical studies on dipeptides and diketopiperazines in carbonaceous chondrites and recent sediments	Ryo Ogasawara	2002/10/18
-1170907	202.58742	A study on the hydrogeological characteristics and the geochemical evolution of groundwater in Gash alluvial basin, semi-arid area, North East Sudan	Fathelrahman Ali Bireir	2002/10/18
-1170910	202.58742	Locational characteristics of department stores in the metropolitan area : a comparative study of three major metropolitan areas in Japan	Nobuyuki Iwama	2002/10/18
-1170921	202.58742	The process of renewal in urban residential areas in the German federal republic : a case study of Nuremberg since the 1970s	Tetsuya Ito	2002/10/18
-1170922	202.58742	Behaviors of zero flux planes in the unsaturated zone and estimation of evapotranspiration and drainage rates at a Japanese red pine forest	Anetta Rosari Indra Fernando	2002/10/18
-1170930	202.58742	Deformation characteristics of sheared coal seam and their influence on methane migration, Pingdingshan Coalfield, Northern China	Huoyin Li	2002/10/18
-1170933	202.58742	Hydrogeochemical evolution of confined groundwater in Northeastern Osaka basin, Japan	Masaru Yamanaka	2002/10/18
-1170935	202.58742	The influence of Tl[+] cation on crystal structures and mineralizations, and the material physics induced by inert pair effect	Atsushi Kyono	2002/10/18
-1170940	202.58742	Viscosity of liquid iron-alloy under high pressure : physical properties of core forming melts in the earth's interior	Hidenori Terasaki	2002/10/18
-1170965	202.58742	Permian fusulinoidean biostratigraphy and carbonate development in the Indochina block of Thailand with their paleogeographic implication	Titima Charoentitirat	2002/10/18
-1170981	202.58742	Mehdiabad, a SEDEX-type Pb-Zn deposit in Yazd, Central Iran : Geology and Geochemistry	Seied Hossein Mojtahedzadeh	2002/10/18
-1170983	202.58742	Cathodoluminescence geodosimetry : its development and application	Yoshitada Horikawa	2002/10/18
-1170984	202.58742	Structural study of Pt-rich Pt-Mn alloys	Timbangen Sembiring	2002/10/18
-1170620	202.58742	Molecular Genetic Analyses of Development of the Mushroom Bodies, Centers for Learning and Memory in Drosophila	Mitsuhiko Kurusu	2002/10/18
-1170623	202.58742	Regulation of zygotic expression of vasa gene by maternal nanos and pumilio proteins in germline cells of drosophila melanogaster	Hiroko Sano	2002/10/18
-1170632	202.58742	Tabacco calmodulins responsive to tobacco mosaic virus-induced hypersensitive reaction and wounding	Hiromoto Yamakawa	2002/10/18
-1170641	202.58742	Studies on the intercellular attachments of higher plants using tobacco mutants	Hiroaki Iwai	2002/10/18
-1170645	202.58742	Important roles of drought-and cold-inducible genes for galactinol synthase in stress tolerance in arabidopsis thaliana	Teruyuki Taji	2002/10/18
-1170654	202.58742	Study on the role of microtubules related to the nuclear behaviors during conjugation of paramecium caudatum	Yuka Nakajima	2002/10/18
-1170657	202.58742	Immunological studies on the sexual recognition molecules in paramecium caudatum	Xuehua Xu	2002/10/18
-1170662	202.58742	Studies on molecular mechanisms of induction of bovine luteal cell apoptosis by oxidative stress	Tomohiro Nakamura	2002/10/18
-1170664	202.58742	Inheritances of behavioral mutant pawn-B in Paramecium tetraurelia	Atsushi Matsuda	2002/10/18
-1170667	202.58742	Biochemical analyses of a nonmuscle tropomyosin-binding protein	Satonari, Akutsu	2002/10/18
-1170671	202.58742	Molecular cloning and analysis of GP138 gene family dictyostelium discoideum	Toshihiro Hata	2002/10/18
-1170681	202.58742	A study of the GDP-mannose transporter in pathogenic yeast	Akiko Nishikawa	2002/10/18
-945263	202.58742	高等学校地学	津屋弘逵編	2002/07/17
-945892	202.58742	高等新数学	戸田清編修	2002/07/17
-945895	202.58742	幾何	辻正次, 吉田洋一監修/田島一郎編修	2002/07/17
-955509	202.58742	高等学校生物	沼野井春雄編	2002/07/17
-750519	202.58742	高等学校世界史	大類伸, 吉岡力監修	2002/07/17
-942621	202.58742	化學研究所講演集	近重眞澄編輯	2002/06/17
-909430	202.58742	簡易保險被保險者福祉施設要覽	簡易保險局 [編]	2002/06/11
-998479	202.58742	Economic atlas of Ontario	W.G. Dean, editor/G.J. Matthews, cartographer/Department of Geography, University of Toronto	2002/05/22
-872077	202.58742	Acylierung mehrwertiger Phenole : in Abhängigkeit von pH und Lösungsmittel	von Hannelore Heckh	2002/02/18
-872394	202.58742	Acetylierungen in der Pyrimidin- und Pteridinreihe	vorgelegt von Egon Liedek	2002/02/18
-871795	202.58742	Addition organischer Säureanhydride an Vinylverbindungen	von Ulrich Rall	2002/02/18
-865417	202.58742	Beitrag zum Wärmeschockverhalten von Stählen und Hochtemperaturwerkstoffen	vorgelegt von Friedrich Eichhorn	2002/02/18
-825647	202.58742	The determinants and consequences of population trends : a summary of the findings of studies on the relationships between population changes and economic and social conditions		2002/02/08
-987080	202.58742	纂組羣言	天津特別市公署教育局編輯	2002/01/30
-986845	202.58742	教育總監部統計年報		2002/01/29
-986928	202.58742	吉長鐵道	曲尾辰二郎 [著]	2002/01/29
-986944	202.58742	団報		2002/01/29
-986392	202.58742	現代の作法	甫守謹吾著	2002/01/24
-986457	202.58742	京陵	千賀博編輯	2002/01/24
-986480	202.58742	創立二十五周年記念号	秋田県女子師範学校交友會 [編]	2002/01/24
-986503	202.58742	關東防空演習記録		2002/01/24
-986220	202.58742	成徳	船井信一編	2002/01/23
-986372	202.58742	同窓會報	中馬彌八郎編輯	2002/01/23
-985847	202.58742	蓼の華 : 増改築竣工創立二十五年記念誌	兵庫縣赤穂高等女學校校友會蓼の華會編	2002/01/21
-1297403	202.58742	國語國文學	文部省教學局 [編]/文部省教學局編纂	2002/01/21
-950511	202.58742	新設體操教授書	遊佐盈作編輯	2002/01/17
-985482	202.58742	學術研究奬勵資金及事業便覽	帝国學士院 [編]	2002/01/16
-985527	202.58742	第3囘汎太平洋學術會議第2要報	第3囘汎太平洋學術會議常務委員會編	2002/01/16
-777956	202.58742	自然の解釈に関する思索 : (附)哲学的思索	ディドロ著/小場瀬卓三訳	2002/01/10
-985128	202.58742	Kwaryubyogaku	桜根孝之進著	2002/01/10
-984880	202.58742	貴女紳士交際の栞 : 一名西洋遊技の鑑	エミール・ロッコ著/山崎忠興譯	2002/01/08
-984911	202.58742	婚禮法式	中村政藏著	2002/01/08
-984588	202.58742	結婚の志をり	甫守謹吾著	2001/12/26
-984607	202.58742	簡易电碼本	邮电部長途电信总局电报处編	2001/12/26
-984615	202.58742	明密碼電報書		2001/12/26
-984620	202.58742	明治十五年一月四日陸海軍人に賜はりたる勅諭拝受五十周年を迎へて	樋山光四郎 [編]	2001/12/26
-984651	202.58742	英國海軍協會年報	アラン・エチ・バーゴイン著/藤井光五郎訳	2001/12/26
-984714	202.58742	新式泰西禮法	ルイーズ・ダルク著/上田金城訳	2001/12/26
-966687	202.58742	日本語発表作法 : 系統的トレーニング	君島浩著	2001/12/25
-984404	202.58742	乾浴長生術	石原保秀述	2001/12/21
-984424	202.58742	國粹皇道日本國家農本主義等ヲ標榜スル主要ナル修養教化思想政治諸團体綱領		2001/12/21
-984192	202.58742	京義線工事概況		2001/12/19
-983777	202.58742	The advanced theory of statistics	Maurice G. Kendall	2001/12/13
-983781	202.58742	The advanced theory of statistics	by Maurice G. Kendall	2001/12/13
-983523	202.58742	海事年鑑	帝國海事協會編	2001/12/11
-983429	202.58742	死線を超えた滿鐵	上田恭輔著	2001/12/10
-983295	202.58742	一哲學者の世界遊記	千葉命吉著	2001/12/07
-983299	202.58742	挿花の志をり	木村勉編	2001/12/07
-980834	202.58742	四部総録算法編	丁福保, 周雲青編	2001/11/07
-1304948	202.58742	紅旗飄飄	中國青年出版社編	2001/10/22
-978757	202.58742	一心为革命 : 王杰的英雄事迹和日记	中国青年出版社编辑	2001/10/18
-978773	202.58742	王若飛在獄中	楊植霖, 喬明甫著	2001/10/18
-978788	202.58742	慶祝李濟先生七十歳論文集	慶祝李濟先生七十歳論文集編輯委員會編輯	2001/10/18
-936203	202.58742	國學研究法	洪北平編	2001/10/17
-825522	202.58742	Demographic analysis : selected readings	edited by Joseph J. Spengler and Otis Dudley Duncan	2001/10/17
-850553	202.58742	The cod fisheries : the history of an international economy	by Harold A. Innis	2001/10/15
-978121	202.58742	足踏機の能率に就いて	田中作治郎	2001/10/15
-979083	202.58742	Molecular genetics of brain development in Drosophila : conserved genetic programs of neuronal patterning	Tomoko Nagao	2001/09/14
-979088	202.58742	Functional analysis of genes expressed in Dictyostelium discoideum gametes using EST data	Miho Shimizu	2001/09/14
-979092	202.58742	Study of single particle spectra and two particle correlations in Au + Au collisions at 4 - 11 A GeV	Tatsuya Chujo	2001/09/14
-979097	202.58742	Total reaction cross section of p + [28] Si system near Neutron threshold energy	Norihiro Okumura	2001/09/14
-979101	202.58742	Tropical-extratropical interactions on the intraseasonal timescales over the Western Pacific during early summer	Yoshiki Fukutomi	2001/09/14
-979167	202.58742	Production and delivery of glycine-rich proteins in xylem sap of cucumber	Chiyoko Sakuta	2001/09/14
-979399	202.58742	脳損傷者における構成障害に関する研究 : 課題別の質的検討を中心に	岡村陽子 [著]	2001/09/14
-979572	202.58742	Molecular genetics of human age-related respiration deficiency	Kotoyo Isobe	2001/09/14
-979596	202.58742	Molecular analysis of a developmentally regulated water channel gene, aqpA, in dictyostelium discoideum	Biswa Nath Mitra	2001/09/14
-979614	202.58742	A modification of the curriculum of Myanmar's geographical education : focusing on Japan and Myanmar's junior high school level	Hla Hla Win	2001/09/14
-979632	202.58742	Emotional experiences of students in mathematical problem solving	Maitree Inprasitha	2001/09/14
-979682	202.58742	Studies on the thelytokous parthenogenesis in the scorpion, Liocheles australasiae (Fabricius)	Kazunori Yamazaki	2001/09/14
-979770	202.58742	Distribution of mitochondrial small ribosomal RNA during germ line formation in Drosophila and Xenopus embryos	Maki Kashikawa	2001/09/14
-979775	202.58742	An analysis of growth in C3 and C4 plant populations using newly built temperature gradient chamber and CO[2]-temperature gradient chamber	Jae-Seok Lee	2001/09/14
-979854	202.58742	The embryology of Lepidocampa weberi Oudemans : (Hexapoda : Diplura)	Yatsukaho Ikeda	2001/09/14
-979866	202.58742	Role of mitochondrial DNA mutations on pathogeneses of neurodegenerative diseases	Sayaka Ito	2001/09/14
-979887	202.58742	Studies on novel clathrin adaptor-related proteins	Hiroyuki Takatsu	2001/09/14
-979905	202.58742	Molecular evolution of the hemocyanin subunits and higher classification in mygalomorphae	Takao Kuwada	2001/09/14
-979913	202.58742	Studies on the phosphoinositide-turnover system in plant signal transduction under hyperosmotic stress	Seiji Takahashi	2001/09/14
-979926	202.58742	Phylogenetic study of botryllid ascidians based on brooding organs and colony specificity	Makiko Okuyama	2001/09/14
-979930	202.58742	Regulatory mechanism of the expression of a wound-inducible ACC synthase gene in winter squash (Cucurbita maxima)	Takahiro Watanabe	2001/09/14
-979935	202.58742	Mechanism of mixture suppression in newt olfactory receptor neurons	Hiroshi Yamada	2001/09/14
-979940	202.58742	Study on physiochemical, environmental and edaphic factors affecting the storability of mango fruit	Kanda Whangchai	2001/09/14
-980165	202.58742	On defining polynomials of hypersurface purely elliptic singularities	Atsuko Fujisawa	2001/09/14
-980196	202.58742	Coxeter groups and their boundaries	Tetsuya Hosaka	2001/09/14
-980198	202.58742	Integral geometry on Riemannian homogeneous spaces	Hong Jae Kang	2001/09/14
-980224	202.58742	Confined exciton states and phonon modes in cuprous halide quantum dots	Jialong Zhao	2001/09/14
-980230	202.58742	Starburst-active galactic nuclei connection through radiation-hydrodynamical formation of obscuring walls	Ken Ohsuga	2001/09/14
-980236	202.58742	String Junctions and BPS spectra of N	Yukiko Ohtake	2001/09/14
-980242	202.58742	Study of impurity ions in GAMMA 10 by using vacuum ultraviolet spectrograph	Yuuji Okamoto	2001/09/14
-980246	202.58742	Theoretical study for microscopic mechanisms of carbon nanotube growth	Naokazu Kitamura	2001/09/14
-980250	202.58742	Study on particle confinement and transport in the GAMMA 10 tandem mirror	Shinji Kobayashi	2001/09/14
-980256	202.58742	The electronic structures of the oxygen adsorbed surface by angle-resolved photoelectron spectroscopy : Ag(110), Cu(100) and Rh(110)	Daiichiro Sekiba	2001/09/14
-980266	202.58742	Search for radiative β-hadron decays with the collider detector at fermilab	Masashi Tanaka	2001/09/14
-980293	202.58742	Cluster formation and growth in a metal cluster source controlled with a magnetron and a gas aggregation cell	Chun Kyun Chung	2001/09/14
-980300	202.58742	Measurement of the diffractive structure function of the antiproton in 1.8-TeV proton-antiproton collisions	Hosai Nakada	2001/09/14
-980370	202.58742	Studies on homolytic carbometallation using organostannanes and -silanes	Hiroshi Saito	2001/09/14
-980373	202.58742	Theoretical study of carcinogenic and antitumor active Ν-Nitroso compounds : generation of methanediazonium ion and its reaction with DNA bases	Naofumi Nakayama	2001/09/14
-980383	202.58742	Hydrogen transfer in hydrogen bonded systems studied by [35]Cl NQR	Taka-aki Nihei	2001/09/14
-980407	202.58742	Photoinduced hydrogen atom transfer and control of photoreactivity in intramolecularly hydrogen bonded compounds	Yasuo Norikane	2001/09/14
-980418	202.58742	Dynamics of two-dimensionally arranged organocations in layered clay minerals	Miho Yamauchi	2001/09/14
-980424	202.58742	Ab initio GB theoretical study of Cis-trans isomerization reaction of azo compounds in solution	Masayuki Azuki	2001/09/14
-980427	202.58742	Analysis of the land degradation process and its modeling by remote sensing techniques and geographic information systems : Manas River basin in the Xinjiang Uygur autonomous region, China	Soonchan Park	2001/09/14
-980439	202.58742	Kinematics of Cretaceous to tertiary Pacific Plate : discussion from Ar-Ar age and geochemistry of within-plate basalts	Naoto Hirano	2001/09/14
-980443	202.58742	Neogene planktic foraminiferal biostratigraphy of southwestern Iloilo basin, Panay Island, Philippines	Elsa R. Lopez	2001/09/14
-980456	202.58742	Faunal succession of middle to Late Miocene molluscan faunas in northern Kanto region, central Japan	Yukito Kurihara	2001/09/14
-979380	202.58742	WWW英語資源を用いた外国語テキストのオーセンティシティに関する研究	金在明 [著]	2001/09/14
-981268	202.58742	Regulatory mechanisms of sex expression in cucumber plants (Cucumis sativus L.)	Shin'ichiro Kamachi	2001/09/14
-981275	202.58742	Quantitative analyses of radiative transfer effects on photoionization and photoheating of pregalactic clouds by ultraviolet background radiation	Yukiko Tajiri	2001/09/14
-981295	202.58742	Extensions of mappings on product spaces	Kaori Yamazaki	2001/09/14
-981628	202.58742	Geographical study on hinterland of the port of Kushiro	Takashi Sakai	2001/09/14
-981739	202.58742	Rates and mechanism of changing in rock properties due to weathering of sandstone gravel	Ken-ichi Nishiyama	2001/09/14
-981885	202.58742	Molecular and functional characteristics of seven-transmembrane-domain receptor APJ	Masaki Hosoya	2001/09/14
-981891	202.58742	The relationship between atmospheric change and carbon dynamics in terrestrial ecosystems : a global study using a mechanistic model, Sim-CYCLE	Akihiko Ito	2001/09/14
-981907	202.58742	Study of the effective interaction and superfluidity in two-dimensional liquid [3]He	Hideaki Kobayashi	2001/09/14
-981932	202.58742	Influence of bacterial endosymbionts on host distributions in deep-sea chemosynthetic ecosystems	Yoshihiro Fujiwara	2001/09/14
-981945	202.58742	Organic geochemical study on polycyclic aromatic hydrocarbons in Neogene sediments of the Shinjo basin, Japan	Masayosi Hagiwara	2001/09/14
-981948	202.58742	Numerical study of ion behaviors in radiofrequency quadrupole mass spectrometers	Kiyomi Yoshinari	2001/09/14
-981950	202.58742	Studies on the mechanism of the expression of embryo-specific and abscisic acid-inducible genes in carrot	Sukmin Ko	2001/09/14
-981954	202.58742	Molecular and biochemical studies of the Bacillus subtilis FtsY protein, a homologue of the α subunit of mammalian signal recognition particle	Hiroshi Kakeshita	2001/09/14
-981960	202.58742	Study of Δ[++] resonance abundance in 158 A GeV Pb + Pb collisions at CERN-SPS	Susumu Sato	2001/09/14
-981982	202.58742	A geographical study on gender differences in commuting activities of metropolitan suburbanites : a case study of Noda, Chiba Prefecture	Masaki Kawase	2001/09/14
-982017	202.58742	ENSO and Asian summer monsoon : persistence and transitivity in the seasonal March	Ailikun	2001/09/14
-982107	202.58742	Study on soil erosion after forest clearing in Okinawa Island	Yasuhiro Ohnuki	2001/09/14
-982114	202.58742	PF perfect rings and QF rings	Kazutoshi Koike	2001/09/14
-982121	202.58742	Organic geochemical study of major natural gases in Japanese gas fields	Shunichiro Igari	2001/09/14
-972991	202.58742	为人民服务, 纪念白求恩, 愚公移山	毛泽东 [著]	2001/09/03
-970952	202.58742	昭和35年度文部省科学研究費による研究報告集録	研究報告集録編集委員会編	2001/08/13
-970514	202.58742	朝鮮女俗考	李能和著	2001/08/08
-970526	202.58742	雲南民族調查報告 : 國立中山大學語言歴史學研究所	楊成志著	2001/08/08
-970553	202.58742	粤江流域人民史	徐松石著	2001/08/08
-970387	202.58742	昭和33年度文部省科学研究費による研究報告集録 : 昭和34年4月提出	研究報告集録編集委員会 [編]	2001/08/07
-970017	202.58742	觀奕間評	[有賀長雄述]	2001/08/03
-969444	202.58742	佐佐木英夫教授古希記念祝賀論文集	石田幹之助編	2001/07/30
-969476	202.58742	甲窓 : 甲南学園創立50周年記念号	塩見俊彦編	2001/07/30
-969264	202.58742	秋田縣師範學校年報		2001/07/26
-969151	202.58742	国际象棋开局法	刘鶯鶯編譯	2001/07/25
-730249	202.58742	Achievement in education : the work of Michael Ernest Sadler, 1885-1935	by Lynda Grier/with an introduction by Sir John Maud	2001/07/24
-24576	202.58742	原子爆弾災害調査報告集	日本学術会議原子爆弾災害調査報告書刊行委員会編	2001/07/24
-968873	202.58742	勧告集	日本学術会議[編]	2001/07/24
-968884	202.58742	財團法人啓明會事業報告書		2001/07/24
-968889	202.58742	財團法人日獨文化協會寄附行爲竝發會式報告		2001/07/24
-968893	202.58742	アジア・アフリカ地域研究のあり方についてのシンポジウム(スワヒリ語を中心に)記録		2001/07/24
-968907	202.58742	事業年報	齋藤報恩會 [編]	2001/07/24
-968915	202.58742	九州大学調査報告		2001/07/24
-968918	202.58742	カイザー・ウヰルヘルム學術促進協會一覽譯		2001/07/24
-968939	202.58742	右派分子章乃器的丑惡靣貌	中国民主建国会中华全国工商業联合会宣傳教育处編	2001/07/24
-968944	202.58742	研究体制論	百瀬好若著	2001/07/24
-968950	202.58742	學会の歩み : 十年-十三年の歩み(昭和二六-三六-三九年)	日本印度學佛教學會編	2001/07/24
-968952	202.58742	研究所要覧	日本学術振興会編	2001/07/24
-968765	202.58742	欧米名著邦訳(明治)集 : 文献資料集	小田村寅二郎編	2001/07/23
-968773	202.58742	学会七年の歩み : 1951年-1958年		2001/07/23
-968229	202.58742	織物配給機構變革期の絹業	日本蠶絲統制株式會社調査課編輯	2001/07/17
-967170	202.58742	Patents for inventions : abridgments of specifications, class 97, philosophical instruments, (including optical, nautical, surveying, mathematical, and meteorological instruments), periods A.D. 1905-8		2001/07/06
-967047	202.58742	電氣試驗所事務報告	遞信省電氣試驗所	2001/07/05
-965997	202.58742	何處へ往く	河田嗣郎著	2001/06/27
-966015	202.58742	うしろむき : 随筆	菅裸馬著	2001/06/27
-965803	202.58742	一本の大道	作田荘一著/作田荘一著	2001/06/26
-965831	202.58742	嵐の中の子等	津山景子著	2001/06/26
-965102	202.58742	新式支那語講義録		2001/06/19
-964349	202.58742	經略復國要編	(明)宋應昌編撰	2001/06/12
-964205	202.58742	教育年鑑		2001/06/08
-964208	202.58742	教育年鑑		2001/06/08
-963718	202.58742	古朝鮮史研究	文定昌著	2001/06/05
-893684	202.58742	現代政治学	秋永肇著	2001/05/25
-962119	202.58742	華僑	李定一, 包遵彭, 呉相湘編纂	2001/05/16
-961986	202.58742	粵海關志	梁廷枬等纂修	2001/05/15
-961555	202.58742	唐會要	王溥撰	2001/05/09
-961574	202.58742	三國史講話	徐徳嶙著	2001/05/09
-961433	202.58742	維新與保守	包遵彭, 李定一, 呉相湘編纂	2001/05/07
-961118	202.58742	近代史	王桐齡著	2001/04/27
-961042	202.58742	簡明中国通史	呂振羽著	2001/04/26
-913974	202.58742	海外労働年鑑	協調會調査課編	2001/04/23
-959710	202.58742	英國ノ對支鐵道權益 : 英國ノ對支鐵道借款ニ就テ	東亜研究所 [編]/東亞研究所[編]	2001/04/17
-959717	202.58742	欧米における鉄道助成策	日本国有鉄道監査委員会 [編]	2001/04/17
-959821	202.58742	腕木通信から宇宙通信まで	国際電気通信連合編/[郵政省訳]	2001/04/17
-959845	202.58742	寫眞電報		2001/04/17
-959858	202.58742	海底線百年の歩み	日本電信電話公社海底線施設事務所編	2001/04/17
-959611	202.58742	陸運	増井幸雄著	2001/04/16
-959613	202.58742	アメリカの貨物運賃・等級制度 : 鉄道ならびに自動車運賃の機構と形態	運輸調査局訳編	2001/04/16
-959614	202.58742	家業五代記 : 松江通運史話	原文助著	2001/04/16
-959616	202.58742	上野浅草間建設工事概要	東京地下鐵道株式會社 [編]	2001/04/16
-959617	202.58742	大阪市内外高速鐵道調査會報告書	帝國鐵道協會, 土木學會 [編]	2001/04/16
-959627	202.58742	支那鐵道關係条約集		2001/04/16
-959668	202.58742	国有十年 : 本邦鉄道国有後の施設並成績		2001/04/16
-959671	202.58742	英國鐵道清算所解説規定	運輸調査局編纂	2001/04/16
-959673	202.58742	國家再建に於ける鐵道經營形態について	東亞交通學會編	2001/04/16
-959342	202.58742	日本観光総覧	観光事業研究会編	2001/04/13
-959361	202.58742	アメリカ道路交通發達論 : 政策史的研究	今野源八郎著	2001/04/13
-959362	202.58742	英國海運史要	伊吹山徳司編	2001/04/13
-959365	202.58742	海外交通史話	辻善之助著	2001/04/13
-959366	202.58742	関東地方通運史	松田実執筆・編集	2001/04/13
-959391	202.58742	駅逓局(寮)達書/中外郵便週報「駅逓局録事」/東京日日新聞「駅逓局記事」	郵政省編/郵政省編	2001/04/13
-959394	202.58742	駅逓局報(抄)	郵政省編/郵政省編	2001/04/13
-959396	202.58742	為替貯金/保険年金	郵政省編/郵政省編	2001/04/13
-959399	202.58742	駅逓明鑑 : 郵便	郵政省編/郵政省編	2001/04/13
-959402	202.58742	駅逓局類聚摘要録	郵政省編/郵政省編	2001/04/13
-959408	202.58742	簡易保険資料	郵政省編/郵政省編	2001/04/13
-959409	202.58742	簡易生命保険論纂(上)/簡易保険官営案ニ対スル論議	郵政省編/郵政省編	2001/04/13
-959443	202.58742	駅静志	大島延次郎校訂・編	2001/04/13
-959457	202.58742	鳥獣調査報告		2001/04/13
-959460	202.58742	紀念節日史實資料	洪汛濤編	2001/04/13
-959479	202.58742	魚の化石に就て	吉原重康 [著]	2001/04/13
-959224	202.58742	航空用語	航空用語調査委員會編	2001/04/12
-959232	202.58742	標準海語辭典	海洋文化協會編纂	2001/04/12
-959247	202.58742	歐米各國舞蹈大觀	長原政二郎編	2001/04/12
-959251	202.58742	現代の娯楽数学 : 新しいパズル・マジック・ゲーム	M. ガードナー著/金沢養訳	2001/04/12
-959263	202.58742	國民娯樂の問題	権田保之助著	2001/04/12
-959272	202.58742	蹴鞠抄 : 内野の雪の巻	中西貞三著	2001/04/12
-959319	202.58742	放射線関係法令集		2001/04/12
-757652	202.58742	教育的遊戯の原理及實際	冨永岩太郎著	2001/04/12
-1257276	202.58742	為替貯金	郵政省編集	2001/04/12
-959041	202.58742	粤江流域人民史	徐松石著	2001/04/11
-959090	202.58742	観光要覧	総理府審議室監修	2001/04/11
-958986	202.58742	人民手冊	大公報社人民手冊編輯委員会編	2001/04/10
-958994	202.58742	清代行政制度研究参考書目	馬奉◆D21049◆	2001/04/10
-958738	202.58742	いけばな : 花の伝統と文化	水尾比呂志著/山根有三監修	2001/04/09
-958853	202.58742	最新歐米禮儀作法	立川文夫著	2001/04/09
-958868	202.58742	誤った作法・誤り易い作法	甫守謹吾著	2001/04/09
-958871	202.58742	少年少女の作法	甫守謹吾著	2001/04/09
-958606	202.58742	いけばな日本の旅	千羽理芳, 宇田川理翁著	2001/04/06
-958002	202.58742	英國海軍協會年報	[アラン・エチ・バーゴイン著/藤井光五郎訳]	2001/03/29
-957524	202.58742	軍国新論 : 近世軍制及大戦術	フォーン・デル・ゴルツ著/ジアグレ・エルンスト訳/桜井精重訳	2001/03/26
-957561	202.58742	軍事応召者待遇内規集	井上信明編著	2001/03/26
-957584	202.58742	化学戦	ルードルフ, ハンズリアン著/第六陸軍技術研究所訳	2001/03/26
-957647	202.58742	軍縮委員会における各国発言の概要	外務省国際連合局軍縮室編	2001/03/26
-896951	202.58742	軍縮?	伊藤正徳著	2001/03/26
-956796	202.58742	異常と正常 : 精神医学の周辺	秋元波留夫著	2001/03/22
-957146	202.58742	愛憎	カール.A.メニンジャー著/草野栄三良訳	2001/03/22
-957159	202.58742	おのれに背くもの	カール・A・メニンジャー著/草野栄三良訳	2001/03/22
-957180	202.58742	応急外科の実際	福田保 [ほか] 著/市川篤二 [ほか] 編	2001/03/22
-957225	202.58742	T-グループの理論	E.H.シャイン, W.G.ベニス著/古屋健治, 浅野満訳編	2001/03/22
-957306	202.58742	胃・十二指腸潰瘍のすべて	吉利和編	2001/03/22
-957353	202.58742	井上小内科書	井上善次郎著	2001/03/22
-957382	202.58742	療術の原理と方法の序論	東村英太郎編著	2001/03/22
-950808	202.58742	海外電気事業統計	海外電力調査会編	2001/03/22
-956782	202.58742	K.コッレの精神医学 : 学生と医師のための教科書	K.コッレ著/塩崎正勝訳	2001/03/21
-956853	202.58742	アメリカ精神医学入門	箱崎総一著	2001/03/21
-957007	202.58742	愛憎	カール・A.メンニンジャー著/草野栄三良訳	2001/03/21
-956007	202.58742	アレルギー	北村精一著	2001/03/15
-958385	202.58742	アーチダム	アメリカ合衆国内務省開発局編/井田至春訳	2001/03/12
-954861	202.58742	電気工学年報		2001/03/12
-954868	202.58742	大阪築港誌		2001/03/12
-954891	202.58742	集積回路生産機械・試験装置便覧		2001/03/12
-954916	202.58742	應用土木工學	竹貫直次著	2001/03/12
-954936	202.58742	關東防空演習關係電氣事業施設及實施概要		2001/03/12
-954824	202.58742	漂砂對策協議會報告書		2001/03/09
-954829	202.58742	漂砂對策調査報告書		2001/03/09
-954832	202.58742	鳥取縣港湾調査書		2001/03/09
-954838	202.58742	新潟海岸の欠潰について		2001/03/09
-1585303	202.58742	災害科學研究所第二部研究報告	日本學術振興會災害科学研究所編	2001/03/09
-954300	202.58742	遺傅學・細胞學文献綜説 : 1940-1946	メンデル會編	2001/03/08
-947490	202.58742	白蟻調査報告		2001/03/07
-954010	202.58742	石見西部第三紀層中の珊瑚石灰岩	園山市太郎 [著]	2001/03/07
-954085	202.58742	相模川水系に於ける魚類の棲息分布の状况とその季節的消長に関する調査		2001/03/07
-953462	202.58742	工業物理化學	工業物理化學研究會編	2001/03/05
-953471	202.58742	有機化学工業		2001/03/05
-953537	202.58742	兼平石	櫻井廣三郎 [著]/牧田友五郎 [著]	2001/03/05
-953360	202.58742	応用磁気流体力学 : 電磁ポンプの理論	ソ連邦ラトビヤ共和国科学アカデミー編/アトム社翻訳部翻訳	2001/03/02
-953381	202.58742	ラヂウムと電氣物質勸	長岡半太郎著	2001/03/02
-1311131	202.58742	アイソトープの測定技術	伊藤岳郎編著	2001/02/27
-907223	202.58742	鉱産工業材料 : 製法応用	小藤文次郎編	2001/02/23
-952070	202.58742	古代北東アジアの諸民族 : 特に◆D12105◆婁族について	三上次男 [著]/帝國學士院東亞諸民族調査室 [編]	2001/02/23
-951125	202.58742	FORTRAN規約	Khuynsmouk等編	2001/02/23
-951614	202.58742	NECエレクトロニクスデータブック	日本電気株式会社編	2001/02/22
-951620	202.58742	EDP利用の基礎知識	東洋大学附属電子計算機センター編	2001/02/22
-951635	202.58742	安積疏水志	織田完之編	2001/02/22
-951661	202.58742	PCS綜合事例研究	宮下陽三 [ほか] 著	2001/02/22
-951704	202.58742	PL/I入門	竹下亨著	2001/02/22
-951711	202.58742	ALGOL・COBOLの理解と演習	岡崎嘉春, 角山栄治著	2001/02/22
-951718	202.58742	COBOL文法の実際	ADS・コボル研究課編	2001/02/22
-951723	202.58742	EDPシステムとエンジニヤリング	狩野健司編著	2001/02/22
-951735	202.58742	新しい都市の未来像 : エキスティックス	C.A.ドクシアディス著/磯村英一訳	2001/02/22
-951741	202.58742	FORTRAN基本演習	木村久男著	2001/02/22
-830341	202.58742	欧米各国の水経済対策	建設省河川局河川計画課 [訳編]	2001/02/21
-951371	202.58742	衛生工学	庄司光著	2001/02/21
-951208	202.58742	欧米公園緑地発達史	佐藤昌著	2001/02/20
-951210	202.58742	明日の都市と住宅 : 21世紀はもう始まっている	全アメリカ建築家協会著/中高層建築開発協会訳編	2001/02/20
-924545	202.58742	海岸統計	建設省河川局海岸課編	2001/02/19
-950644	202.58742	電氣工作物震災豫防調査會調査書	電氣學會, 電氣協會 [著]	2001/02/19
-950654	202.58742	科学技術庁年報	科学技術庁編	2001/02/19
-950729	202.58742	応用土質試験とその解説	谷藤正三著	2001/02/19
-950789	202.58742	荒川区土木誌	東京都荒川区土木課編	2001/02/19
-950796	202.58742	住宅・都市計画・地域計画国際会議報告書		2001/02/19
-950814	202.58742	支那山東省に於ける漢代墳墓の表飾	關野貞著	2001/02/19
-950823	202.58742	鴨緑江橋梁工事報告		2001/02/19
-950840	202.58742	鴨緑江橋梁工事概況		2001/02/19
-950862	202.58742	鉄鋼大學誌		2001/02/19
-950867	202.58742	支那山東省ニ於ケル漢代墳墓ノ表飾附圖		2001/02/19
-950900	202.58742	新しい港の計画 : 鉄鋼専門埠頭論	江端正義著	2001/02/19
-949446	202.58742	古代人骨の研究に基づく日本人種論	清野謙次等著	2001/02/15
-948994	202.58742	銹菌目-層生銹菌科	伊藤誠哉著/伊藤誠哉著	2001/02/14
-949460	202.58742	アジアの諸民族	厚生省人口問題研究所篇	2001/02/14
-949725	202.58742	人種学的に見たるアジア民族の研究	E.ピッタール著/古在学訳	2001/02/14
-949737	202.58742	顔の人類學	山崎清著	2001/02/14
-949751	202.58742	海を渡った日本の村	蒲生正男編	2001/02/14
-949790	202.58742	自然と歴史の過程としての人類学	横倉謙治著	2001/02/14
-949909	202.58742	植物生育論	サミゥエル・ダブリウ・ヂョンソン著/高山甚太郎, 磯野徳三郎訳	2001/02/14
-949911	202.58742	植物營養論	稻垣乙丙著	2001/02/14
-949931	202.58742	植物生理及生態學實驗法	中野治房著	2001/02/14
-949940	202.58742	植物生理學實習	北海道大學理學部植物生理學教室編	2001/02/14
-949956	202.58742	植物栄養学実験	植物栄養学実験編集委員会編	2001/02/14
-949960	202.58742	植物の生長と環境	F.W.ウエント [著]/輪田潔, 富田豊雄訳	2001/02/14
-882221	202.58742	現代アメリカの社会人類学	日本民族学協会譯編	2001/02/14
-1218837	202.58742	伊勢神宮宮域産苔類図鑑	服部新佐閲/孫福正, 山田耕作共著	2001/02/14
-949431	202.58742	原始文化の探求	古野清人著	2001/02/13
-949505	202.58742	極東民族	鳥居龍藏著	2001/02/13
-949554	202.58742	鎌倉材木座發見の中世遺跡とその人骨	日本人類学会編	2001/02/13
-949620	202.58742	技術進化史	西村真次著	2001/02/13
-949644	202.58742	自然のなかの人間の位置	テイヤール・ド・シャルダン著/島崎通夫訳	2001/02/13
-949667	202.58742	人種学	鳥居龍蔵撰著	2001/02/13
-948941	202.58742	植物系統學	池野成一郎著	2001/02/08
-948956	202.58742	植物生理学大要 : 基礎と応用	田口亮平著	2001/02/08
-948972	202.58742	海南島ノ植物	東亞研究所[編]	2001/02/08
-948987	202.58742	原色版日本菌類圖説	川村清一著	2001/02/08
-948989	202.58742	植物生理氣象學	大後美保著	2001/02/08
-949008	202.58742	海藻學汎論	岡村金太郎著	2001/02/08
-947957	202.58742	比較發生學	八田三郎著	2001/02/05
-947997	202.58742	形態形成	岡田要編/岡田要編	2001/02/05
-948004	202.58742	無脊椎動物発生学	久米又三, 團勝磨共編	2001/02/05
-948025	202.58742	発生生化学	石田寿老編	2001/02/05
-947908	202.58742	臺灣産毒蛇調査報告		2001/02/02
-947497	202.58742	鳥獣調査報告/雀類ニ関スル調査成績	農商務省農務局 [編]	2001/02/01
-947678	202.58742	英語發音學	アール・ビー・マッケロー, 片山寛共著	2001/02/01
-937438	202.58742	古生物学	井尻正二著	2001/01/31
-947293	202.58742	医学・生物学のための電子顕微鏡学入門	本陣良平著	2001/01/31
-947317	202.58742	化石學教科書	横山又次郎編	2001/01/31
-947326	202.58742	古生物學	小林貞一 [ほか] 著	2001/01/31
-947329	202.58742	日本化石図譜	鹿間時夫著	2001/01/31
-947334	202.58742	古生態学入門	R.Th.ヘッケル著/市川輝雄, 桑野幸夫共訳	2001/01/31
-947335	202.58742	化石学習図鑑	井尻正二, 藤田至則共著	2001/01/31
-947341	202.58742	原色前世紀の生物	Josef Augusta著/Zdenek Burian画/木村達明訳	2001/01/31
-947350	202.58742	日本産化石植物図譜	遠藤誠道著	2001/01/31
-947352	202.58742	原色化石図鑑	益富壽之助, 浜田隆士共著	2001/01/31
-947354	202.58742	古生物学入門	浅野清著	2001/01/31
-947356	202.58742	古環境論	浅野清著	2001/01/31
-947358	202.58742	化石の研究法	化石研究会編	2001/01/31
-947362	202.58742	古生物学汎論	井尻正二著	2001/01/31
-946949	202.58742	新しい生化学の領域 : 生体分子の構造と働き	T.P.Bennett, E Frieden共著/秦忠夫 [ほか] 訳	2001/01/30
-946961	202.58742	エピゾーム	Allan M.Campbell著/渡辺力訳	2001/01/30
-946973	202.58742	応用生態学	沼田真, 内田俊郎編	2001/01/30
-946989	202.58742	一般教育の生物学	稲荷山資生等著	2001/01/30
-947091	202.58742	岩波講座現代の生物学		2001/01/30
-947110	202.58742	一般微生物学	R.Y.ステニヤー, ドウドロフ, アデルバーグ著/桑島謙夫[ほか]共訳	2001/01/30
-947148	202.58742	皇明詠化類編	明・鄧球撰	2001/01/30
-946563	202.58742	遺伝と変異	田宮博[ほか]編	2001/01/29
-946370	202.58742	新しい生物學		2001/01/26
-946377	202.58742	一般生物學の概略	福田邦三, 大川眞澄共著	2001/01/26
-946528	202.58742	石匱書後集	[明] 張岱著	2001/01/26
-1263520	202.58742	遺傳	木原均、岡田要編	2001/01/26
-946060	202.58742	隋唐五代史	呂思勉著	2001/01/25
-946070	202.58742	隋唐史	岑仲勉著	2001/01/25
-903045	202.58742	漢書及補注綜合引得		2001/01/24
-945638	202.58742	隋朝史略	韓國磐著	2001/01/24
-945641	202.58742	隋唐五代史綱要	楊志玖編著	2001/01/24
-945426	202.58742	三國會要	楊晨著	2001/01/23
-945432	202.58742	原色岩石図鑑	益富壽之助著	2001/01/23
-945435	202.58742	日本産火山岩の化学成分		2001/01/23
-945473	202.58742	粘土ハンドブック	日本粘土学会編	2001/01/23
-945478	202.58742	周書	[唐] 令狐徳棻 [ほか] 撰	2001/01/23
-945488	202.58742	堆積学	庄司力偉著	2001/01/23
-945052	202.58742	近代中國史	郭廷以編	2001/01/22
-944774	202.58742	俄帝之侵略	包遵彭, 李定一, 呉相湘編纂	2001/01/19
-944455	202.58742	蕳明中國通史	呂振羽著	2001/01/17
-765207	202.58742	醫化學實習 : 全	須藤憲三纂著	2001/01/11
-942676	202.58742	日本化學總覽	眞島利行編輯主幹	2001/01/09
-942736	202.58742	化學の研究	山崎一雄, 江上不二夫編	2001/01/09
-942744	202.58742	我國に於ける触媒作用の研究	學術部第13小委員會編	2001/01/09
-942785	202.58742	化学者のための推計学		2001/01/09
-942794	202.58742	アイソトープ実験技術	化学の領域委員会編	2001/01/09
-942800	202.58742	有機化学工業		2001/01/09
-942819	202.58742	生化学領域における光電比色法	関根隆光[ほか]編	2001/01/09
-940787	202.58742	海中ニ於ケル音波ノ速度及測深音速ノ計算法	[桑原新著]	2000/12/19
-940791	202.58742	實驗音響學	小幡重一著	2000/12/19
-940798	202.58742	分子音響学	能本乙彦著	2000/12/19
-940799	202.58742	数理音響学序説 : 振動及波動の理論	山下敬治著	2000/12/19
-940802	202.58742	騒音	守田榮著	2000/12/19
-940805	202.58742	騒音防止 : 電気物理	高田實著	2000/12/19
-940242	202.58742	完全流体の力学	阿阪三郎著/鵜戸口英善 [ほか] 編	2000/12/15
-940296	202.58742	Arab genius in science and philosophy	by Omar A. Farrukh	2000/12/15
-939274	202.58742	一般力学	山内恭彦著	2000/12/15
-940032	202.58742	Sindô	田丸卓朗著	2000/12/14
-940058	202.58742	一般力學の問題と解法	石津武彦著	2000/12/14
+687399	320.4126	The intent of the critic	by Edmund Wilson ... [et al.]/edited, with an introduction, by Donald A. Stauffer	1997/02/06
+1212129	318.92538	政策評価入門 : 結果重視の業績測定	ハリー・P・ハトリー著/上野宏, 上野真城子訳	2004/08/27
+529375	291.932	W. H. Auden, the critical heritage	edited by John Haffenden	1984/02/16
+501361	291.932	W. H. Auden : the life of a poet	Charles Osborne	1983/11/29
+501360	291.932	W. H. Auden collected poems	ed. by Edward Mendelson	1977/02/24
+409486	291.932	Collected longer poems	W. H. Auden	
+565828	290.41385	Carbohydrates	edited by P.M. Collins/principal contributor, V.R.N. Munasinghe	1989/01/17
+629882	288.57755	ASM metals reference book	editor, Michael Bauccio/acquisitions/editorial, Veronica Flint/technical editor, Sunniva Collins	1995/09/22
+1667733	286.3772	Landforms of the world with Google Earth : understanding our environment	Anja M. Scheffers, Simon M. May, Dieter H. Kelletat	2015/12/17
+602102	284.97314	Landslides and their control	by Quido Zaruba and Vojtech Mencl	1992/05/19
+1608215	283.86023	Principles and practice of clinical research	edited by John I. Gallin, Frederick P. Ognibene	2014/09/18
+1320993	283.05225	朝鮮南岸全羅道順天浦略測圖	青木住眞測量編製/高橋惟熙淨圖	1977/03/31
+1426857	282.20856	Earth : an introduction to physical geology	Edward J. Tarbuck, Frederick K. Lutgens/illustrated by Dennis Tasa	2011/12/01
+619802	278.16684	Understanding earth	Frank Press, Raymond Siever	1994/02/16
+229279	273.1162	An English and Japanese and Japanese and English vocabulary	W.H.Medhurst[原著]	1985/12/09
+530080	270.71643	Apologia Ecclesiae Anglicanae	Authore Ioanne Iuello, olim Episcopo Sarisburiensi	1984/02/08
+585069	268.19058	Max Weber : selections in translation	edited by W. G. Runciman/translated by E. Matthews	1990/07/02
+623447	267.93546	China: its state and prospects, : with especial reference to the spread of the gospel: containing allusions to the antiquity, extent, population, civilization, literature, and religion of the Chinese	by W.H. Medhurst	1994/11/02
+969731	267.93546	China : its state and prospects, with especial reference to the spread of the gospel	by W.H. Medhurst	1977/03/31
+1626889	257.3926	Landslide hazards, risks, and disasters	volume editor, Tim Davies/series editor John F. Shroder	2015/01/21
+1136636	256.6583	アメリカ環境法	ロジャー・W・フィンドレー, ダニエル・A・ファーバー著/稲田仁士訳/石黒一憲, アメリカ・ビジネス法研究グループ企画監修	
+415167	252.00139	Fundamentals of human neuropsychology	Bryan Kolb and Ian Q. Whishaw	1987/08/14
+815371	251.45029	満鮮史研究	池内宏著	1999/01/21
+330693	250.11589	アメリカ環境法	ロジャー・W. フィンドレー, ダニエル・A. ファーバー [著]/稲田仁士訳	1994/03/22
+1479660	247.58426	近代文明と漢語	木村秀次著	2013/08/19
+832848	245.0287	The advanced theory of statistics	Maurice G. Kendall	
+893315	243.48703	[丹州]加佐郡河辺内栃尾村御検地帳		1977/03/31
+660617	240.26505	Iconografia greca	di Ennio Quirino Visconti/recata in italiana favella dal Giovanni Labus/di Ennio Quirino Visconti	1996/08/07
+594348	240.26505	Hieronymi Mercurialis De arte gymnastica libri sex, : in quibus exercitationum omnium vetustarum genera, loca, modi, facultates, & quidquid denique ad corporis humani exercitationes pertinet, diligenter explicatur		1989/01/13
+432248	240.26505	The ruins of Palmyra, otherwise Tedmor, in the desart	Robert Wood	1980/02/26
+1211651	240.26505	竹生嶋圖		1977/03/31
+1215246	240.26505	陝西全圖		1977/03/31
+408939	234.19609	Clavis Circeroniana : sive indices rerum et verborum philologico-critici in opera Ciceronis		1979/01/18
+1175326	234.19609	愚禿抄記	香月院説	1977/03/31
+1184078	233.739	石清水八幡宮押領所領注進状		2004/03/31
+1358487	232.45639	女禮式繪解		2009/10/19
+920693	232.45639	神社仏閣柱建往来		1988/11/10
+950829	232.45639	観水帖		1988/11/10
+891655	232.45639	[編註]医学入門, 存6巻	(明)李梃著	1977/03/31
+1210408	232.45639	大日本東北行程全圖		1977/03/31
+117056	231.71123	明治文化史	開国百年記念文化事業会編	1982/02/05
+1310189	230.32396	新約聖書を美術で読む	秦剛平著	2008/01/23
+1184275	230.3035	[石清水八幡宮寺言上状案]		2004/03/31
+629201	230.3035	La grande ville : nouveau tableau de Paris : comique, critique et philosophique	par Paul de Kock ... [et al.]/illustrations de Gavarni ... [et al.]	1995/02/17
+618566	230.3035	Voyage en Abyssinie, entrepris par ordre du gouvernement britannique, exécuté dans les années 1809 et 1810. Atlas	... par Henry Salt .../traduit de l'anglais par P.-F. Henry	1994/02/03
+920298	230.3035	岩瀬寺子屋文書		1988/11/10
+248306	230.3035	禹貢論山川地理圖	程大昌[撰]	1987/10/08
+974642	230.3035	Oeuvres diverses de J.-B. Say : contenant: Catéchisme d'économie politique, fragments et opuscules inédits, correspondance générale, Olbie, Petit volume, mélanges de morale et de littérature	precédées d'une notice historique sur la vie et les travaux de l'auteur, avec des notes par Ch. Comte, E. Daire et Horace Say	1977/03/31
+969340	230.3035	Histoire de la révolution française	par M.A. Thiers	1977/03/31
+969365	230.3035	Histoire de la révolution française	par M.A. Thiers	1977/03/31
+558006	230.3035	University of Tsukuba Library rare books collection in foreign language, microfilm edition	par Ch. Comte, E. Daire et Horace Say. 1848. (N120-s3)	
+1223236	229.87596	階層ベイズモデルとその周辺 : 時系列・画像・認知への応用	石黒真木夫, 松本隆, 乾敏郎, 田邉國士 [著]/甘利俊一 [ほか] 編	2012/05/18
+864721	227.53651	フロイトの生涯	アーネスト・ジョーンズ [著]/ライオネル・トリリング, スティーヴン・マーカス編/竹友安彦, 藤井治彦共訳	1999/09/07
+504722	225.723	Commercial banks and consumer instalment credit	by John M. Chapman and associates	1977/02/28
+754716	225.65944	今日の臨床検査 '97～'98	河合忠, 水島裕編集	1997/12/15
+1110287	225.65944	ストーンヘンジ : 天文学と考古学	フレッド・ホイル著/荒井喬訳	1983/10/01
+885205	225.13934	百川學海, 10集100種	[(宋)左圭編]	1977/03/31
+820694	225.13934	山東黄河全圖		1977/03/31
+893106	224.86275	[丹州与佐郎]宮津下村御検地帳		1977/03/31
+1351653	224.23743	症例「ドーラ」/性理論三篇 : 1901-06年	[フロイト著]/渡邉俊之 [ほか] 訳/フロイト著/新宮一成 [ほか] 編集委員	2009/09/11
+1189512	223.93207	覚[御手洗会次第につき]		2004/03/31
+1612466	223.81082	Conspiration dite de la rue des Prouvaires : 2 février 1832		2014/01/14
+1190037	223.81082	[北野宮寺政所奉行職事補任状]		2004/03/31
+1193413	223.81082	祝一帖[祝詞]		2004/03/31
+1080749	223.81082	文久三亥年来子年頭江府参上一件	濱武[写]	2000/10/23
+968909	223.81082	熊谷家傳記	熊谷直遐原編/市村咸人校訂/伊那史料叢書刊行会編	1977/03/31
+1165847	223.81082	闢邪小言	大橋順著	1977/03/31
+962180	223.81082	星巌集	梁緯 [著]/遠山澹 [ほか] 編輯	1977/03/31
+372856	223.81082	北野社家引付		
+283200	222.73346	バイオメカニクス	H. R. ギーガー [画]	1989/10/02
+1190545	220.82259	安岐忠兵衛書状		2004/03/31
+1394342	219.9929	Organic synthesis : the disconnection approach	Stuart Warren and Paul Wyatt	2011/01/20
+476368	219.76056	Aethiopia inferior, vel exterior, : partes magis Septentrionales, quae hic desiderantur, vide in tabula Aethipiae Superioris	[Willem Janszoon Blaeu]	1978/03/24
+1156619	218.52524	日新館童子訓		1977/03/31
+1165561	218.45473	Data mining : concepts, models, methods, and algorithms	Mehmed Kantardzic/IEEE Computer Society, sponser	2003/01/22
+163337	217.73318	続樋口一葉研究 : 中島歌子のこと	藤井公明著	1984/10/26
+969447	217.73318	三條實美公履歴	東久世通禧詞/田中有美繪	1977/03/31
+988207	217.73318	俟采擇録/夢路日記	久阪江月齋誠著/菊池槇子 [著]	1977/03/31
+625827	217.2996	Fasciculus e Iapponicis floribus, suo adhuc madentibus sanguine,	compositus a P. Antonio Francisco Cardim e Societate Iesu prouinciae Iapponiae ad vrbem procuratore	1980/02/25
+1290363	217.15216	PILATES Mastery : 習熟したい人のピラティス・テキスト	Amanda Terease, Marena Digby, 新関真人著	2007/01/18
+187722	216.59775	化学のための量子力学	M.W.ハナ著  柴田周三訳	1985/08/02
+1699963	215.42886	エウリピデス	呉茂一訳/中村善也訳/柳沼重剛訳/松平千秋訳/松平千秋訳/高津春繁訳/中山恒夫訳/川島重成, 金井毅訳/松本克己訳/松平千秋訳/田中美知太郎訳/呉茂一訳/中村善也訳/岡道男訳/松本仁助訳/松平千秋訳/呉茂一訳/柳沼重剛訳/中村善也訳	2016/09/02
+1163245	215.071	20世紀初的中國印象 : 一位美國攝影師的紀録	上海市歴史博物館編	2002/11/12
+1215933	215.071	支那地圖		1977/03/31
+4742	214.45718	会津士道訓 : 新釈日新館童子訓	佐藤利雄	
+1200377	214.04477	筑波大学附属図書館所蔵日本中・近世古文書集成 : 近世編		2004/06/29
+1200396	214.04477	筑波大学附属図書館所蔵日本中・近世古文書集成 : 近世編		2004/06/29
+1194446	214.04477	[雑記帳、旅行関係]		2004/03/31
+1286077	214.04477	Children of the Cumberland	by Claudia Lewis/photographs by William T. Butterick, Jr	2004/03/03
+273356	214.04477	房総古文書[マイクロ資料] 東京大学附属図書館所蔵		1989/03/31
+893243	214.04477	差上申五人組一札之事		1988/11/10
+893255	214.04477	御仕置五人組帳		1988/11/10
+893289	214.04477	御仕置五人組帳		1988/11/10
+920685	214.04477	雑司谷詣		1988/11/10
+920713	214.04477	御仕置五人組帳		1988/11/10
+920744	214.04477	五人組御改帳		1988/11/10
+949241	214.04477	村名附		1988/11/10
+1587003	214.04477	[関東公方足利持氏御教書写]		1977/03/31
+120123	214.04477	筑波大学附属図書館所蔵貴重図書集成		
+1353425	212.18471	Photoshop 10年使える逆引き手帖	藤本圭著	2009/10/14
+1217551	212.02808	[書簡 榥介を水府へ遊学させるにつき]		2004/03/31
+1193868	212.02808	[仮殿遷宮につき日記]		2004/03/31
+980665	212.02808	[長州藩士記録]		1977/03/31
+617647	211.98752	Advertising exposure, memory, and choice	edited by Andrew A. Mitchell	1997/01/28
+935419	211.80528	西畫指南	[ロベルト・スコットボルン著]/川上寛纂譯	1977/03/31
+286137	209.80264	伝統のディテール : 日本建築の詳細と技術の変遷	伝統のディテール研究会著	1989/12/22
+1183334	209.54498	[足利義満感状写]		2004/03/31
+1375871	209.26303	コントロロジー : ピラティス・メソッドの原点 : your health+return to life	ジョセフ・H. ピラティス著/川名昌代訳	2010/06/28
+652971	207.37794	Karla Amerlinga Orbis pictus, čili, Svět v obrazích : stupeň druhý : co pokračování prvního stupné jejž sepsal Amos Komenský		1977/03/31
+1215910	207.2491	皇朝直省地輿圖		1977/03/31
+1215924	207.2491	皇朝直省地輿全圖		1977/03/31
+1213223	207.2491	皇朝一統輿地全圖, 8巻	(清)李兆洛 [編]	1977/03/31
+1216327	207.2491	支那歴代沿革圖	惺軒二宮彜 [補]	1977/03/31
+647867	206.83334	ひたち帯 : 元禄常陸紀行	安藤朴翁著/猿渡玉枝訳	1996/02/06
+948655	206.83334	中仙道都路往来		1988/11/10
+1059022	206.83334	Esame sui principj della francese ed italiana tipografia ovvero storia critica di Nicolao Jenson : opera dedicata agli eruditi concittadini del medesimo insigne Tipografo della francia	da Giacomo Sardini	1985/02/18
+1216664	206.83334	夕雲流剣術書	小出切一雲誌	1977/03/31
+1066526	206.83334	Cyclopaedia : or, An universal dictionary of arts and sciences, Vol. 1	by E. Chambers	
+1263547	206.38342	500年前のラグビーから学ぶ : ラグビーの起源、そして日本ラグビーの進むべき道	杉谷健一郎著	2006/03/22
+257138	205.96313	ネクロノミコン	H.R.ギーガー[画]	1988/02/29
+317646	205.5305	下顎偏位の診断と治療法	Franco Mongini, Wilhelmine Schmid著/宮内修平監訳	1991/09/26
+118698	205.08626	漢書	班固撰	1982/03/05
+27177	205.02759	クロマトグラフィー	桑田智	
+831529	204.00122	The protestant ethic and the spirit of capitalism	Max Waber/translated by Talcott Parsons/with a foreword by R.H. Tawney	1999/03/15
+911890	203.46411	高等小学校規定の改正/青年訓練所の本旨/幼稚園令の精神	森岡常藏著	1988/11/10
+395962	203.46411	Accademia giapponica del R'do M. Pandolfo Ricasoli Baroni patrizio fiorentino nella qvale per modo di dialogo si provano le verita della fede cattolica, si riprovano le false opinioni de gentili, trattate in tre parti : prima parte		1980/02/25
+1232503	201.4716	IEEE Antennas and Propagation Society International Symposium : 1995 digest, June 18 - June 23, 1995, Newport Beach, California		2005/05/13
+617884	200.64136	Introduction to management accounting	Charles T. Horngren, Gary L. Sundem	1988/11/10
+1446951	200.21077	初期訓讀語體系	小林芳規著	2012/08/27
+1382941	200.21077	新影流剣術誓紙帳・他	松浦増太郎 [著]/榊蔭煕 [著]/本多忠勝 [著]	2010/09/28
+952548	200.21077	書法正傳, 10巻	(清)馮武編輯/男守謙, 姪孫鼎, 姪孫許雄同校	1988/11/10
+174516	200.21077	弓相傳之大事		1978/03/31
+891866	200.21077	香取文書		1977/03/31
+257137	200.01744	ネクロノミコン	H.R.ギーガー[画]	1988/02/29
+951250	199.76462	The letters of D.H. Lawrence	edited by James T. Boulton	2001/01/17
+677901	199.76462	The collected letters of D.H. Lawrence	edited with an introduction by Harry T. Moore	1996/12/09
+1050964	199.59465	偶然と必然 : 現代生物学の思想的な問いかけ	ジャック・モノー〔著〕/渡辺格,村上光彦訳	
+239883	198.08469	検査のための臨床免疫学 : [基礎と実際]	N.J.Bryant[著]  石和久監訳	1987/03/30
+157370	197.37114	ターナー : 生涯と芸術	ジャック・リンゼー著  高儀進訳	1984/10/04
+655869	197.31557	Advances in catalysis : and related subjects		1985/05/22
+407130	197.20602	Catalytic hydrogenation in organic syntheses	Paul Rylander	1981/02/19
+843976	196.80605	教育錦絵		1999/03/25
+1586785	196.0484	Principles of language learning and teaching : a course in second language acquistion	H. Douglas Brown	2014/05/12
+60964	195.95117	漢書	[班固撰]  小竹武夫訳	1980/01/31
+1373823	195.18062	The ancient Near East	edited by James B. Pritchard/translators and annotators, W.F. Albright ... [et al.]	2010/06/03
+709868	195.14334	W.H.ディヴィス	北詰榮太郎著	1997/12/03
+713086	195.14334	H.W. Fowler	by G.G. Coulton	1997/08/27
+678852	195.14334	W.H. Auden	by George T. Wright	1996/12/12
+573012	195.14334	W.H. Auden	edited and with an introduction by Harold Bloom	1989/03/13
+1123089	195.14334	W.H.ディヴィス	北詰栄太郎著	
+1720237	194.8796	Kazakhstan, Kyrgyzstan, and Uzbekistan : life and politics during the Soviet era	Timur Dadabaev, Hisao Komatsu, editors	2017/03/28
+1397993	194.8796	勘者御伽雙紙 3巻	中根保之丞法舳編集	2011/02/24
+1344274	194.8796	Κλαυδιου Πτολεμαιου Αρμονικων βιβλια γ'	ex Codd. MSS. undecim, nunc primum Græce editus Johannes Wallis	2009/04/13
+1276623	194.8796	訂正増譯采覧異言	白◆D24026◆先生著/山邨昌永増譯/杉田勤校正/大槻茂質参閲	1977/03/31
+567117	194.84758	Theories of career development	Samuel H. Osipow	1989/02/20
+1268929	194.24335	Introduction to physical polymer science	L.H. Sperling	2006/06/15
+916046	194.05243	性格と社会構造 : 社会制度の心理学	ガース, ミルズ著/古城利明, 杉森創吉訳/日高六郎 [ほか] 編	
+22883	193.99286	群とデザイン	永尾汎著	1980/07/23
+617967	193.72874	Accounting	Charles T. Horngren, Walter T. Harrison, Jr	1994/02/28
+599654	193.72874	Introduction to management accounting	Charles T. Horngren, Gary L. Sundem	1992/03/04
+183200	191.20044	江戸名所図会	斎藤幸雄著	1980/02/14
+1431447	191.15848	ピュタゴラスの音楽	キティ・ファーガソン著/柴田裕之訳	2012/02/02
+1430662	191.15848	ゴッホ契約の兄弟 : フィンセントとテオ・ファン・ゴッホ	新関公子著	2012/01/30
+1281216	191.15848	ターナー : 色と光の錬金術	オリヴィエ・メスレー著/遠藤ゆかり訳	2006/12/04
+893233	191.15848	ドラクロワ「民衆を導く自由の女神]	東京国立博物館 [編]	1999/11/18
+201925	191.15848	ドラクロワ	坂崎坦著	1986/02/04
+195490	191.15848	人間と音楽の歴史		1985/09/18
+91182	190.78023	導波管	木原太郎	
+1282856	190.44804	Essentials of organizational behavior	Stephen P. Robbins	2006/12/14
+682192	189.90898	ポストモダニズムを超えて : 形而上学から哲学的シュールレアリズムへ	C.A.vanペールセン著/吉田謙二訳	1996/11/01
+1184260	188.43703	[一日図絵薬師供養行事衆議廻状]		2004/03/31
+180816	188.43703	[鯰絵]		1985/03/08
+892332	188.43703	精鐫合刻三國水滸全傳, 20巻首1巻	(明)熊飛編	1977/03/31
+1353496	188.32195	抽象絵画の世界 : その限界と可能性	薗部雄作著	2009/09/02
+1179495	188.32195	世紀末と象徴主義	高階秀爾, 千足伸行責任編集	2003/08/08
+1179501	188.32195	フォーヴィスムとエコール・ド・パリ	島田紀夫, 千足伸行責任編集	2003/08/08
+355663	188.32195	世界美術大全集 : 西洋編	馬渕明子責任編集	1998/10/30
+369949	188.32195	世界美術大全集 : 西洋編	島田紀夫, 千足伸行責任編集	1998/10/30
+347120	188.32195	世界美術大全集 : 西洋編	高階秀爾責任編集	1998/10/30
+345199	188.32195	世界美術大全集 : 西洋編	池上忠治責任編集	1998/10/30
+388842	188.32195	世界美術大全集 : 西洋編	勝國興責任編集	1998/10/30
+1385182	188.0491	農業と環境	中島紀一, 古沢広祐, 横川洋編集/戦後日本の食料・農業・農村編集委員会編	2010/11/04
+891835	186.35214	在名屋號	小竹学人書	1988/11/10
+12124	185.65591	群とデザイン	永尾汎	
+1602404	185.32497	モネ、風景をみる眼 : 19世紀フランス風景画の革新	国立西洋美術館, ポーラ美術振興財団ポーラ美術館, TBSテレビ編	2014/04/14
+1438015	185.32497	印象派の行方 : モネ、ルノワールと次世代の画家たち	ポーラ美術館学芸部編	2012/04/20
+997050	185.32497	クロード・モネ : 1840-1926 : 視覚の饗宴	カリン・ザークナー=デュヒティンク著/Kazuhiro Akase [訳]	2002/03/01
+359432	185.22035	世界美術大全集 : 西洋編	佐々木英也, 森田義之責任編集	1998/10/30
+157863	185.22035	抽象絵画の誕生	土肥美夫著	1984/08/24
+189204	185.22035	権力・政治・民衆	ライト・ミルズ[著]  I.L.ホロビッツ編  青井和夫監訳	
+1271796	184.1843	2015年アジアの未来 : 混迷か、持続的発展か	日本貿易会「2015年アジア」特別研究会著	2006/07/12
+353075	183.20874	世界美術大全集 : 西洋編	鈴木杜幾子責任編集	1998/10/30
+371836	183.20874	世界美術大全集 : 西洋編	佐々木英也, 冨永良子責任編集	1998/10/30
+384251	183.20874	世界美術大全集 : 西洋編	坂本満, 高橋達史責任編集	1998/10/30
+345174	183.20874	世界美術大全集 : 西洋編	佐々木英也, 森田義之責任編集	1998/10/30
+1441348	183.169	[為比例均粮耗祛積以甦民困事]		2004/01/30
+963863	182.41422	ターナー : 近代絵画に先駆けたイギリス風景画の巨匠の世界	藤田治彦著	2002/01/25
+1160972	182.06218	中等国文法	新教育研究所編	2002/10/25
+1337479	181.43115	充実した学生生活を送るために : フレッシュマン・セミナー参考資料集	筑波大学学生担当教官室編	2009/02/24
+378764	181.24036	世界美術大全集 : 西洋編	飯田喜四郎, 黒江光彦責任編集	1998/10/30
+1720624	181.23897	2 Stenberg 2 : la période laboratoire (1919-1921) du constructivisme russe	Andrei B. Nakov/translated from the French by Patricia A. Railing	2017/03/07
+1467685	181.23897	Толковый японско-русский словарь ономатопоэтических слов	Н.Г. Румак, О.П. Зотова	2013/01/24
+923471	181.23897	和英露図説辞典	ソ連問題研究会 [編]	2000/09/27
+644581	181.23897	60 lessons in Russian	E. Vasilenko, E. Lamm/Е. Василенко, Э. Ламм	1995/06/07
+1006869	181.20882	中等国語	国文研究会編	2002/07/17
+298338	180.81808	W・H氏の肖像	オスカー・ワイルド著/井村君江訳	1990/06/11
+965369	179.85878	高周波の基礎	三輪進著	2001/05/14
+386064	179.83696	アングルとドラクロワ : 新古典派とロマン派	松本清張 [ほか] 執筆	1995/05/19
+1160293	179.74107	Hikari o motomete : Tyûgaku 3-nen yô	教育文化研究会編	2002/10/25
+340507	179.55478	イコノロジー : イメージ・テクスト・イデオロギー	W. J. T. ミッチェル著/鈴木聡, 藤巻明訳	1996/05/22
+1658404	179.30983	公共経済学	小川光, 西森晃著	2015/09/29
+1433320	178.82037	Большой японско-русский словарь : в 2 томах : свыше 300,000 слов и словосочетаний	С.В. Неверов ... [и др.]/под редакцией академика Н.И. Конрада	2012/01/30
+941440	178.82037	Sekai no tabi	Hirai-Masao, Kitta-Hirokuni, Okano-Atunobu [著]	2002/10/25
+1731241	178.69682	生き方と哲学	鬼界彰夫著	2017/07/18
+1184594	178.463	ドイツ悲劇の根源	ヴァルター・ベンヤミン著/浅井健二郎訳	2003/10/20
+1218075	178.06949	The Sumerian sacred marriage : in the light of comparative evidence	By Pirjo Lapinkivi	2004/12/24
+131404	177.66418	臨床検査技師国家試験基本問題集 : 解答と能率的学習のための注解	茂手木皓喜[ほか]編	1982/07/21
+1239734	177.56073	H5		2005/10/31
+368074	177.42786	世界美術大全集 : 西洋編	神吉敬三, 若桑みどり責任編集	1998/10/30
+381758	177.42786	世界美術大全集 : 西洋編	千足伸行責任編集	1998/10/30
+229980	177.37631	村興し戦略 : 1.5次産業の創造と農協	小橋暢之著	1986/09/01
+953010	176.13167	薬師寺東塔及び南門修理工事報告書	奈良県教育委員会文化財保存課編	2001/03/01
+1455955	175.81375	膝関節内側側副靭帯は神経成長因子によりその治癒が促進され、前十字靭帯再建によりその特性は変化する	万本健生 [著]	2012/10/22
+436764	175.81375	Hydrodynamics	Sir H. Lamb	
+1399073	175.70932	Цуёси и Минако едут в Москву : пособие по обучению диалогической речи для говорящих на японском языке	И.Э. Давкова/[перевод, Сато Цуёси, Давкова Екатерина/коменнтарии, Сато Цуёси]	2011/01/31
+1161642	175.70932	新国語	「新国語」編修部編	2002/10/25
+743739	175.70932	速修ロシヤ語	ポターポヴァ [著]/石山正三, 飯田規和共訳	1998/02/03
+390243	175.5811	世界美術大全集 : 西洋編	水田徹責任編集	1998/10/30
+1324954	174.98181	統合失調症におけるCLOCK遺伝子及びABCB1遺伝子多型に関する関連研究	高尾哲也 [著]	2008/09/08
+946081	174.98181	苫前	対馬坤六, 松野久也, 山口昇一 [著]	2001/01/25
+169821	174.98181	5万分の1地質図愛別		
+169826	174.98181	5万分の1地質図浅茅野台地		
+169835	174.98181	5万分の1地質図虻田		
+169842	174.98181	5万分の1地質図イドンナップ岳		
+169877	174.98181	5万分の1地質図尾幌		
+169896	174.98181	5万分の1地質図共和		
+170190	174.98181	5万分の1地質図根室北部		
+1032748	174.95097	戦災復興期東京1万分1地形図集成 解題	清水靖夫〔ほか〕著	1988/10/07
+1571736	174.81567	物語フランス革命 : バスチーユ陥落からナポレオン戴冠まで	安達正勝著	2013/11/27
+973378	174.81567	宇宙神話と君主権力の起源	中村哲 [著]	2001/08/10
+478688	174.81567	Comprehensive organometallic chemistry : the synthesis, reactions, and structures of organometallic compounds	editor, Sir Geoffrey Wilkinson, deputy editor, F. Gordon A. Stone, executive editor, Edward W. Abel	1984/02/27
+1331044	174.66464	古代音楽論集	アリストクセノス, プトレマイオス [著]/山本建郎訳/アリストクセノス [著]/プトレマイオス [著]	2008/11/18
+677583	174.41272	ケルト妖精学	井村君江 [著]	1996/10/04
+67566	174.27863	5萬分の1地質図幅説明書		
+307019	174.03241	在日朝鮮人関係資料集成	朴慶植編	
+1375411	173.82886	歌舞伎絵、文楽人形絵、長谷川昇	日本芸術文化振興会編	2010/06/22
+231646	173.82886	岩波講座物理學		1986/06/24
+448745	173.80862	Linguistic speculations	Fred W. Householder	
+1141498	173.80862	薬の飲み合わせの副作用がわかる本	水島裕, 工藤三惠子共著	
+698642	173.78078	ワールドサッカーの戦術	滝井敏郎著	1997/02/18
+31833	173.65852	老年精神医学	加藤正明  長谷川和夫編著	1978/09/16
+544255	173.30284	The sacred marriage rite : aspects of faith, myth, and ritual in ancient Sumer	Samuel Noah Kramer	
+354473	173.1998	町家歴訪	藤島亥治郎, 藤島幸彦著/田畑みなお写真	1993/10/22
+1116554	173.1998	日本の伝統産業	日本伝統産業研究所編	1978/03/31
+1354596	173.13773	パウル・クレー : 絵画と音楽	[パウル・クレー作]/ハーヨ・デュヒティング解説/後藤文子訳	2009/10/28
+48268	173.11482	黒川本紫日記/上	[紫式部	1978/10/19
+39405	173.11482	桂宮本 宇津保物語/俊蔭巻		1978/10/19
+39406	173.11482	黒川本 紫日記	[紫式部	1978/10/19
+1290680	172.66959	中学生のマス・メディアとの関わり合いに関する調査	筑波大学共生教育学(教育社会学)研究室 [編]	2007/05/11
+865603	172.65108	Phase-equilibria of some binary systems at low temperatures	door Mohammed Hosny Omar	1999/09/09
+625470	172.65108	Lettera annua del Giappone dell'anno M. D. XCVI.	Scritta dal P. Luigi Frois, al R.P. Claudio Acquauiua generale della Compagnia di Giesu. Tradotta in italiano dal P. Francesco Mercati romano della stessa Compagnia	1980/02/25
+1255591	172.14804	Die Fragmente der Vorsokratiker, griechisch und deutsch	von Hermann Diels	1980/03/29
+1261194	172.14804	Die Fragmente der Vorsokratiker, griechisch und deutsch	von Hermann Diels	1979/02/13
+804263	171.98744	The spirit and purpose of geography	S.W. Wooldridge and W. Gordon East	1998/12/02
+1261131	171.50885	教育のための記号論的発想	宇佐美寛著/宇佐美寛著	2006/02/16
+300828	171.50885	Twenty century history [ビデオカセット]	producers, John Chapple/series editor, Paul Mitchell	1990/02/16
+169883	171.50885	5万分の1地質図金沢		
+758550	171.45038	中学校高等学校学習指導要領	文部省 [編]	1998/05/08
+1379586	170.96161	マイクロ波回路とスミスチャート	谷口慶治, 曾寧峰, 森幹男著	2010/08/20
+889110	170.96161	情報検索の考え方	緑川信之著	2006/12/06
+275278	170.96161	富士重工業三十年史	富士重工業株式会社社史編纂委員会編	1988/10/17
+1673144	170.93416	ジェンダー平等の国際的潮流 : 国際女性年(1975)以降の動きを通して	信田理奈著	2016/01/13
+1142286	170.93416	ネットワークアルゴリズムとデータ構造	浅野孝夫著	2006/12/20
+733021	170.93416	ゲーテ年鑑	関西ゲーテ協会編	1997/12/08
+1352805	170.55457	アメリカの歴史を知るための62章	富田虎男, 鵜月裕典, 佐藤円編著	2009/10/05
+1134656	170.38164	世界十五大哲学 : 哲学思想史	大井正, 寺沢恒信著	
+1344604	170.34613	リスク社会化環境における共生社会論 : 問題系の確認と展開	リスク共有型共生社会研究会編集	2009/06/08
+1337491	170.34613	The social construction of educational knowledge : seminar on sociology of education, 2008	Tomochika Okamoto editor in chief/高橋みちな/目崎花奈/桜井淳平/田井慶子/増澤恵美/永瀬泰史/吉田大輔/倉田めぐみ/松本康佑/山本晃子	2009/02/24
+836453	170.26457	Investment science	David G. Luenberger	2002/05/30
+352386	170.26457	世界美術大全集 : 西洋篇	池上忠治責任編集	1998/10/30
+775943	170.26457	根拠律の四つの根について/視覚と色彩について	ショーペンハウアー [著]/生松敬三, 金森誠也訳	1998/08/11
+1364390	169.78151	モネ	[モネ画]/島田紀夫著	2010/02/08
+799767	169.78151	天球の音楽 : 歴史の中の科学・音楽・神秘思想	ジェイミー・ジェイムズ著/黒川孝文訳	1998/06/26
+867634	169.41568	Educating artistic vision	Elliot W. Eisner	1999/08/27
+111877	169.41568	経済成長の諸段階 : 一つの非共産主義宣言	W.W.ロストウ著木村健康[ほか]訳	1981/10/05
+1443443	169.05736	畿内政権と横穴式石室	太田宏明著	2012/07/04
+912084	169.05736	欧州におけるポーランド経済	木村武雄著	2000/06/02
+978923	168.73753	武藝小傳	日夏繁高著/近藤瓶城校	2012/10/17
+1062699	168.45221	W. H. Hudson : a bibliography	John R. Payne/foreword by Alfred A. Knopf	1984/03/05
+528085	168.45221	W. H. Auden, a biography	by Humphrey Carpenter	1983/09/07
+1674871	167.9736	DSM-5精神疾患の分類と診断の手引	American Psychiatric Association [編]/染矢俊幸 [ほか] 訳	2016/02/24
+1391643	167.76163	ドラマチック・ロシア in Japan : 文化と史跡の探訪	長塚英雄責任編集	2010/12/17
+162657	167.64442	岩波講座日本文学史		
+320693	167.2213	芸術と幻影 : 絵画的表現の心理学的研究	E. H. ゴンブリッチ著/瀬戸慶久訳	1992/01/10
+304466	167.1327	ライフサイクル, その完結	E. H. エリクソン [著]/村瀬孝雄, 近藤邦夫訳	1990/09/06
+1029674	167.08716	ある映画の物語	フランソワ・トリュフォ-著/山田宏一訳	1987/01/20
+1475530	167.07968	20のテーマで読み解くアメリカの歴史 : 1492〜2010	鷲尾友春著	2013/06/26
+498937	166.91968	Ultrastructure of rust fungi	Larry J. Littlefield, Michele C. Heath	1979/12/26
+212418	166.91968	社会学とプラグマティズム	C・W・ミルズ  本間康平訳	
+1333975	166.89554	カンディンスキー : 抽象絵画の世界を開く	江藤光紀[著]/ユーラシア・ブックレット編集委員会企画・編集	2008/12/10
+513862	166.72934	An answere to a certen Libel intituled, An admonition to the Parliament,	by Iohn Whitgifte, D. of Diuinitie	1984/02/13
+430491	166.72934	Paradise lost/A poem in twelve books	The author John Milton	1982/01/22
+425291	166.72934	Estado, isvcesso de las cosas de Iapon, China, i Filipinas		1980/02/25
+611404	166.72934	The English improver improved, or, The survey of husbandry surveyed, discovering the improueableness of all lands ...	By Wa: Blith ..	1978/03/31
+1618609	166.01714	第二次大戦責任論	大鷹正次郎著	2014/05/22
+1271179	166.01714	天皇の軍隊と日中戦争	藤原彰著	2006/06/26
+778011	165.8697	ドラクロワとフランス・ロマン主義	国立西洋美術館編	2008/07/18
+892627	165.8697	ドラクロワ色彩の饗宴	ウジェーヌ・ドラクロワ画・文/高橋明也編・訳	2000/01/11
+266642	165.8697	ドラクロワの芸術	クルト・バット著  佃堅輔訳	1984/11/15
+654890	165.69908	MLA international bibliography of books and articles on the modern languages and literatures		2006/07/06
+486736	165.42468	Cognitive development	John H. Flavell	1985/11/28
+243637	165.42468	一数学者の弁明	G.H.ハーディ著  柳生孝昭訳	1978/12/18
+1128376	165.164	天球の音楽 : ピュタゴラス宇宙論とルネサンス詩学	S. K. ヘニンガー・Jr.著/山田耕士 [ほか] 訳	
+323013	164.96075	世界宗教大事典		1997/02/04
+36930	164.75261	木下 杢太郎の生涯と芸術	野田宇太郎著	1980/05/21
+959736	164.487	織物の西陣	佐々木信三郎著/京都市編	2001/04/17
+1176764	164.4535	踏繪		1977/03/31
+1384190	164.4141	ロシア・中欧・バルカン世界のことばと文化	桑野隆, 長與進編著/早稲田大学国際言語文化研究所 [編]	2010/10/25
+796420	164.4141	シベリア先住民の歴史 : ロシアの北方アジア植民地 1581-1990	ジェームス・フォーシス著/森本和男訳	1998/05/18
+1152657	164.16881	権利濫用の理論	菅野耕毅著	2005/03/04
+1454408	163.9177	イスラームの天国	イブン・カイイム・アルジャウズィーヤ原著/水谷周訳著	2012/10/10
+1253343	163.9177	イスラームの根源をさぐる : 現実世界のより深い理解のために	牧野信也著	2006/01/20
+741943	163.9177	現世と来世	鈴木範久著	1997/10/24
+721896	163.9177	近代日本の小説	岡崎義恵著	1997/10/15
+650798	163.9177	アカデミー・アワード : アカデミー賞のすべて	キネマ旬報社編集	1996/03/11
+883802	163.9177	刑法	日本刑法学会編/日本刑法學會編	1977/03/31
+883812	163.9177	刑事訴訟法	日本刑法学会編/日本刑法學會編	1977/03/31
+170241	163.9177	5万分の1地質図八幡浜・伊豫高山		
+63698	163.90126	中国近世思想研究	安田二郎	1980/03/06
+1473930	163.90126	Principia philosophiæ	[Descartes]/publiées par Charles Adam & Paul Tannery	1976/01/22
+583587	163.90126	Kritik der reinen Vernunft	Immanuel Kant/neu hrsg. von Theodor Valentiner	
+1407026	163.72003	谷川俊太郎論	田原著	2011/06/15
+1271998	163.72003	解説WTO協定	外務省経済局国際機関第一課編	2006/03/17
+362188	163.72003	日本の抒情詩 : 藤村,白秋から吉本隆明,谷川俊太郎まで	鮎川信夫著	1994/02/01
+270023	163.72003	漂泊中国―転換期アジア社会主義論	加々美光行著	1988/12/12
+1043370	163.72003	遊びの詩	谷川俊太郎編	1984/09/10
+1052296	163.72003	わらべうた	谷川俊太郎編	1983/11/24
+44694	163.72003	戦後詩史論	吉本隆明	1979/02/15
+28050	163.65726	水産科学 食品腐敗学	木俣正夫	
+555038	162.88774	The chemistry of peroxides	edited by Saul Patai	1988/03/10
+1343176	162.78128	管理会計	櫻井通晴著	2009/05/12
+705070	162.78128	監査役ハンドブック	商事法務研究会編	1997/04/25
+1453249	162.14204	Cross-cultural psychology : research and applications	John W. Berry ... [et al.]	2012/08/29
+672899	162.14204	Principia philosophiæ	Descartes/publiées par Charles Adam & Paul Tannery	1996/10/02
+1203495	162.00003	廟陵之図大和國		1977/03/31
+1159848	161.94485	奇門遁甲統宗大全/大統皇歴經世/奇門遁甲金鏡寶鑑	故宮博物院編/故宮博物院編	2012/05/23
+1329118	161.94485	奇門陰遁/奇門陽遁/許真君萬全玉匣記/欽定修造吉方立成/選擇書/董氏諏吉新書續編	故宮博物院編/故宮博物院編	2012/05/23
+935650	161.94485	情報数学の基礎 : 暗号・符号・データベース・ネットワーク・CG	寺田文行 [ほか] 共著	1999/11/22
+1303439	161.87067	運動イメージと自律反応	大石和男著	2007/11/12
+1199767	161.87067	一問一答平成15年改正民事訴訟法	小野瀬厚, 武智克典編著	2007/03/22
+1167076	161.87067	外国地形図・多田文庫所蔵地形図		2003/04/04
+1124402	161.86032	理工基礎英語集 : 5W3H・ランダム : 暗記用	松崎五三男,増井賢共編	1980/03/12
+1395323	161.8563	功利と直観 : 英米倫理思想史入門	児玉聡著	2011/02/04
+1358943	161.74268	共生をめぐる問題系の確認と展開 : 2009年度IFERI共同セミナー	岡本智周, 羽田野真帆編	2009/12/16
+890571	161.64133	The Florentine historie.	Written in the Italian tongue, by Nicholo Macchiavelli, ... And translated into English, by T.B. Esquire.	2000/01/21
+1452997	161.52243	はじめてのPhotoshop CS6 Win & Mac対応 : Windows7/XP/Mac OS X対応	ゆうきたかし, 桐生彩希著	2012/09/12
+1321036	161.3818	音声学	城生佰太郎講・著	2008/07/14
+1281643	160.99005	Handbook of research and policy in art education	edited by Elliot W. Eisner, Michael D. Day	2006/12/07
+1454409	160.86621	イスラームの預言者物語	ムハンマド・ブン・ハサン・アルジール選著/水谷周編訳/サラマ・サルワ訳	2012/10/10
+166606	160.86621	大正・昭和東京周辺1万分1地形図集成 : 京葉・京浜・多摩地区		1985/02/15
+162209	160.5924	中等國語	文部省[編]	1984/12/24
+642981	160.54222	世界美術大全集 : 西洋編	青柳正規, 大貫良夫責任編集	1998/10/30
+1333339	160.2717	消化器	医療情報科学研究所編/医療情報科学研究所編	2009/01/06
+1406550	159.9894	須弥山の仏教世界	沖本克己編集委員/福田洋一編集協力	2011/06/06
+1379571	159.92778	ケースブック憲法	長谷部恭男 [ほか] 編著	2012/01/23
+1726802	159.90147	国際スポーツ組織で働こう! : 世界の最先端スポーツ大学院でマネジメントを学ぶ	つくば国際スポーツアカデミー・アソシエーション(TIAS)編/塚本拓也 [ほか] 著	2017/06/13
+887327	159.87415	統計	国沢清典編/国沢清典編	2000/11/01
+740635	159.85432	Kritik der reinen Vernunft		1997/02/28
+1184192	159.55803	Analysis geometrica sive nova, et vera methodus resolvendi tam problemata geometrica, quam arithmeticas quæstiones. Pars prima de planis	authore D. Antonio Hugone de Omerique, Sanlucarense. Ad illustrem dominum D. Iosephum Bonet Campodarve	2003/08/27
+1572824	159.49283	Modeling students' mathematical modeling competencies : ICTMA 13	Richard Lesh ... [et al.], editors	2014/01/20
+980620	159.36292	日本語辞典・露日会話帳	ニコライ・レザーレフ編著/田中継根編訳	2001/09/21
+1421745	158.94101	臨床心理学研究の技法	下山晴彦編著/野島一彦[ほか執筆]	2011/09/08
+1353441	158.91025	Photoshopクイック・リファレンス	内藤タカヒコ, Tart Design著/text by Takahiko Naito, Tart Design	2009/10/14
+1352610	158.91025	ポスト社会主義人類学の射程	高倉浩樹, 佐々木史郎編	2009/06/30
+428127	158.89426	Forms of English : accent, morpheme, order	Dwight L. Bolinger/edited by Isamu Abe and Tetsuya Kanekiyo	
+882714	158.89426	総論・天皇・戦争の放棄	清宮四郎, 佐藤功編/清宮四郎, 佐藤功編	
+569465	158.68124	Polymer handbook	J. Brandrup, E. H. Immergut, editors/with the collaboration of W. McDowell	1980/09/30
+977452	158.60841	The christian philosopher or, The connection of science and philosophy with religion	by Thomas Dick	2001/08/10
+533677	158.60841	Mathematical logic	Joseph R. Shoenfield	
+1126789	158.31421	明治前期関西地誌図集成 : 1884(明治17)年～1890(明治23)年	地図資料編纂会編	1990/02/09
+687419	158.22267	対人関係の社会心理学	長田雅喜編	1996/11/21
+1692488	158.18045	日本的ナルシシズムの罪	堀有伸著	2016/06/17
+118928	158.18045	ナルシシズムと日本人 : 精神分析の視点から	佐々木時雄著	1982/03/13
+295135	158.1344	人間科学の方法論争	丸山高司著	1990/05/21
+501359	157.66943	W. H. Auden : a reference guide	Martin E. Gingerich	1980/12/18
+818901	157.54358	キュビスムと抽象美術	乾由明, 高階秀爾, 本江邦夫責任編集	2003/08/08
+332340	157.51112	新実験化学講座	日本化学会編	1979/03/26
+1411475	157.48082	構造地質学	金川久一著/大谷栄治, 長谷川昭, 花輪公雄編	2011/09/07
+1173411	157.19043	Mathematical modelling : teaching and assessment in a technology-rich world	P. Galbraith ... [et al.]	2003/05/20
+472714	157.19043	Schweizerbuch der alten Bewegungsspiele	J. B. Masueger/illustriert von Hans Bosshardt	1978/10/17
+1312853	157.15808	キーワードで読むロレンス : 「関係性」の視点から	鈴木俊次著	2008/02/26
+184889	157.0839	日本経済	経済協力開発機構編  経済企画庁訳	
+1287213	156.99123	科学と宗教 : 合理的自然観のパラドクス	J・H・ブルック著/田中靖夫訳	2007/01/10
+907959	156.97003	パリのカフェと画家たち展 : モンマルトル, モンパルナス, サン=ジェルマン=デ=プレ	読売新聞社文化事業部編	2000/03/29
+365352	156.97003	非線型数学	増田久弥著	1997/09/30
+323357	156.97003	江南遊 : 中国文人風土記	青山杉雨著	1992/02/10
+1147259	156.97003	物語の国境は越えられるか : 戦後・アメリカ・在日	野崎六助著	
+626499	156.85466	Andreae Alciati Emblemata : cum commentariis	Claudii Minois I.C. Francisci Sanctii Brocensis, & notis Laurentii Pignorii Patauini	1995/02/03
+504944	156.85466	A briefe relation of the persecution lately made against the Catholike christians, in the Kingdome of Iaponia, devided into two books		1980/02/25
+1360353	156.64362	色彩用語事典	清野恒介編著/恵美和昭 [ほか] 著	2010/01/06
+833295	156.13864	沖縄の歴史情報	編集代表者岩崎宏之	1999/02/24
+1104251	156.10751	知的「手仕事」の達人たち	鎌田慧〔ほか著〕	2002/01/11
+722906	156.10751	第二次大戦に勝者なし : ウェデマイヤー回想録	A・C・ウェデマイヤー [著]/妹尾作太男訳	1997/07/25
+695036	156.10751	Constructivism : theory, perspectives, and practice	Catherine Twomey Fosnot, editor	1997/02/04
+629388	156.10751	W-symmetry	P. Bouwknegt, K. Schoutens	1996/10/04
+581185	156.10751	Policy implementation and PL 99-457 : planning for young children with special needs	edited by James J. Gallagher, Pascal L. Trohanis, and Richard M. Clifford	1990/12/11
+574451	156.10751	Exceptional children and youth : an introduction to special education	[edited by] Norris G. Haring [and] Linda McCormick	1989/02/15
+565229	156.10751	Thinking in the classroom : a survey of programs	Paul Chance/foreword by Ronald S. Brandt	1988/12/13
+523071	156.10751	From national development to global community : essays in honor of Karl W. Deutsch	edited by Richard L. Merritt and Bruce M. Russett	1983/03/23
+487476	156.10751	The Cambridge ancient history	by W. F. Albright	
+331458	156.0253	刑事法講座	日本刑法學會編	1991/08/08
+1279817	155.92403	伝統木造建築を読み解く	村田健一著	2006/11/24
+360358	155.7602	経済学への招待 : 現代経済のしくみと日本経済	池上惇著	1994/02/23
+772471	155.46725	ものの考へ方 : 合理性への逸脱	ウォーコップ [著]/深瀬基寛譯	1998/07/27
+1731525	155.46725	社会的学習理論の新展開	祐宗省三 [ほか] 編	1985/09/03
+84506	155.46725	中世の異端カタリ派	アルノ・ボルスト  藤代幸一訳	
+1372495	155.40668	ゾロアスター教 : 三五〇〇年の歴史	メアリー・ボイス [著]/山本由美子訳	2010/05/19
+974970	155.40668	立齋先生標題解註音釋十八史略	[元] 曾先之編次/[明] 陳殷音釋/[龍溪] 岩垣彦明校訂標記; [東園] 岩垣松苗再校増補	1988/11/10
+176390	155.40668	田辺元の思想史的研究 : 戦争と哲学者	家永三郎	1975/03/18
+1159978	155.3	アイデンティティとライフサイクル論	鑪幹八郎著	2007/12/26
+1169304	155.15515	地域づくりの秘訣 : 成功のための5箇条	地域づくり研究会編	2003/01/31
+1385019	155.0394	Grammatical topics	R.M.W. Dixon/R.M.W. Dixon	2010/11/04
+1173721	155.0394	Lévy processes in finance : pricing financial derivatives	Wim Schoutens	2003/05/19
+581167	155.0394	The Acquisition of literacy : ethnographic perspectives	Bambi B. Schieffelin, Perry Gilmore, editors	1990/02/09
+580681	155.0394	The emptiness of emptiness : an introduction to early Indian Madhyamika	C.W. Huntington, Jr. with Geshe Namgyal Wangchen	1990/01/17
+1315227	155.01666	倒産判例百選	青山善充, 伊藤眞, 松下淳一編	2012/06/27
+1375226	154.94057	西洋哲学史	岩崎武雄著	1982/03/02
+1199626	154.88861	法人格否認の法理	井上和彦著	2004/04/12
+1144458	154.87991	日本図書館学会研究大会発表要綱		2012/08/29
+488465	154.65489	Handbook of social skills training	edited by Clive R. Hollin and Peter Trower	1988/03/10
+740988	154.38306	Photoshopフィルタ事典 : Kai's power tools	宇治晶著	1997/10/24
+96873	154.38306	現代詩史 : 戦後現代詩史・戦後詩人論	粟津則雄著	1980/08/02
+65261	154.3177	直心流剱術秘書		1980/02/23
+65263	154.3177	剣術秘書	小手切一雲	1980/02/23
+896118	154.16953	ユカンボシC15遺跡 : 北海道横断自動車道(千歳〜夕張)埋蔵文化財発掘調査報告書	北海道埋蔵文化財センター編集	2005/05/12
+1686713	153.9858	新美南吉ものがたり	楠木しげお著/くまがいまちこ絵	2016/04/26
+971149	153.9858	Complex analysis	Theodore W. Gamelin	2001/07/05
+317044	153.9858	中国農村の歴史と経済 : 農村変革の記録	石田浩著	1992/02/04
+464879	153.9858	Pearson's handbook of crystallographic data for intermetallic phases	by P. Villars and L.D. Calvert	1988/02/26
+256320	153.9858	中国農村変革再考 : 伝統農村と変革	小林弘二編	1988/02/22
+1468198	153.9858	エアロゾルテクノロジー	ウィリアム C.ハインズ著/早川一也監訳	1985/06/17
+611849	153.55826	An account of the English dramatick poets., or, Some observations and remarks on the lives and writings, of all those that have publish'd either comedies, tragedies, tragi-comedies, pastorals, masques, interludes, farces, or opera's in the English tongue.	By Gerard Langbaine	1989/08/16
+38307	153.3792	キレート化学	上野景平編	1979/02/19
+807957	153.25812	Photoshopフィルタ事典COMPLETE	宇治晶著	1998/09/14
+222643	153.25812	戦争・平和論 : 国家間関係に関する一考察	佐藤政人著	1986/02/12
+969694	152.99197	"Ten thousand Chinese things." a descriptive catalogue of the Chinese collection, now exhibiting at St. George's place, Hyde Park corner, London	by Wm. B. Langdon	1977/03/31
+1323206	152.99197	清國盛京省		1977/03/31
+1438667	152.94643	2002FIFAワールドカップ大会報告書	[2002年FIFAワールドカップ日本組織委員会編]	2012/05/11
+1228217	152.94643	リメイド・イン・アメリカ : 日本的経営システムの再文脈化	ジェフリー・K.ライカー, W.マーク・フルーイン, ポール・S.アドラー編著/林正樹監訳	2005/05/18
+1204463	152.94643	中国における日系企業の経営現地化	古田秋太郎著	2004/07/02
+948443	152.94643	Encyclopedia of nationalism	editor in chief, Alexander J. Motyl/international advisory board, Mark R. Beissinger ... [et al.]	2001/01/10
+778452	152.94643	The maturational processes and the facilitating environment : studies in the theory of emotional development	by D.W. Winnicott	1998/08/20
+715521	152.94643	Existential thought and therapeutic practice : an introduction to existential psychotherapy	Hans W. Cohn	1997/08/22
+395284	152.94643	Ideology and curriculum	Michael W. Apple	1985/10/22
+524907	152.94643	Education and power	Michael W. Apple	1983/01/20
+478610	152.94643	Japanese blue collar : the changing tradition	Robert E. Cole	1978/01/14
+1381514	152.93158	教育心理学	西口利文, 高村和代編	2010/09/17
+100596	152.81863	導波管	木原太郎著	1981/02/12
+724025	152.71843	十訓抄詳解	石橋尚寶著/萩野由之閲/藤岡繼平著	1997/10/27
+1146294	152.71843	袋草紙	[藤原清輔著]/藤岡忠美校注/佐竹昭広 [ほか] 編	
+453030	152.53555	Elementary calculus : an infinitesimal approach	H. Jerome Keisler	1986/09/16
+1271612	152.46419	倒産判例百選	青山善充, 伊藤眞, 松下淳一編	2006/03/17
+1624356	152.41275	共生社会に関する調査 : 2014年調査報告	岡本智周, 坂口真康編集	2014/12/25
+908798	152.41066	中等國語	文部省著	1978/03/31
+831775	152.36266	Encyclopedia of immunology	editor-in-chief Peter J. Delves/consultant editor Ivan M. Roitt	1999/01/14
+618073	152.3574	Medical research centres : a world directory of organizations and programmes		1994/01/17
+1120323	152.3574	社会的諸集団	朝尾直弘 [ほか] 執筆/朝尾直弘著/鎌田元一著/吉田孝著/羽下徳彦著/山口徹著/賀川隆行著/速水融著/久野修義著/大山喬平著/横田冬彦著/朝尾直弘著/朝尾直弘 [ほか] 編	1988/07/26
+1251827	152.33179	Apologie de David	Ambroise de Milan/introduction, texte latin, notes et index par Pierre Hadot/traduction par Marius Cordier	1979/01/25
+770335	152.33163	近代中国とイギリス資本 : 19世紀後半のジャーディン・マセソン商会を中心に	石井摩耶子著	1998/04/30
+744617	152.33163	The "Summa theologica" of St. Thomas Aquinas	Literally translated by Fathers of the English Dominican province	1998/02/06
+716787	152.33163	平中物語/和泉式部日記/篁物語	山岸徳平校註	1997/09/17
+948447	152.33163	和泉式部日記		1977/03/31
+967856	152.33163	真木柱		1977/03/31
+1153583	152.33163	奇門金章	嚴一萍選輯	1977/03/31
+1211508	152.06625	麻布繪圖	戸松昌訓圖	1977/03/31
+1314439	152.05887	これからの女性と女子教育	[藤井治枝著]/真橋美智子編集	2008/03/13
+352144	152.05199	税務訴訟資料		1993/07/07
+1418873	151.92099	環境問題の社会理論 : 生活環境主義の立場から	鳥越皓之‖[ほか]編	2011/09/08
+631108	151.92099	Lectures on Lie groups and Lie algebras	Roger Carter, Graeme Segal, Ian Macdonald	1995/09/08
+566621	151.92099	The future impact of automation on workers	Wassily Leontief, Faye Duchin	1989/01/27
+1072315	151.92099	Library technical assistant : a suggested two-year post-high school curriculum		1981/03/28
+48722	151.92099	中国農村の市場・社会構造	G.W.スキナÖ著  今井清一[ほか]訳	1980/10/08
+488048	151.92099	Essays in economics	Wassily Leontief	1980/03/22
+456015	151.92099	Input-output economics	Wassily Leontief	1975/02/15
+868069	151.87024	Modern chromatics	O.N. Rood	1999/09/22
+376972	151.87024	世界美術大全集 : 西洋編	久保尋二, 田中英道責任編集	1998/10/30
+1711182	151.46722	ミュージカル史	小山内伸著	2016/12/23
+1630852	151.46722	ショーペンハウアー兵役拒否の哲学 : 戦争・法・国家	伊藤貴雄著	2015/01/23
+387782	151.36447	H∞制御	美多勉著	1995/09/01
+1625020	151.31454	近代哲学の根本問題	K・リーゼンフーバー著	2014/12/05
+444666	151.31454	La monadologie	Leibnitz/pub. d'apres les manuscrits et accompagnee d'eclaircissements par Emile Boutroux	1980/03/29
+444676	151.31454	Monadologie	Leibniz/pub. d'apres les manuscrits de la Bibliotheque de Hanovre, avec introd., notes et suppl. par Henri Lachelier	1980/03/29
+792322	151.31454	世界映画史	G.サドゥール著/丸尾定訳	
+1674804	151.05377	エビデンスにもとづく早産児母乳育児マニュアル : NICUでのhuman milk安全安心取り扱い指針 : 早期授乳から母乳バンクまで	水野克已編著	2016/01/29
+1298913	150.92795	存在と愛 : 萬葉人の思惟と行為の研究	川井博義 [著]	2007/09/12
+878860	150.92795	帝室制度史	帝國學士院編	1999/11/17
+1368005	150.90921	数学科教育法	横地清著	2010/03/16
+1189151	150.90921	2002FIFAワールドカップ大会報告書	[2002年ワールドカップサッカー大会日本組織委員会編]	2003/06/27
+841002	150.90921	Lectures on Choquet's theorem	by Robert R. Phelps	1999/06/03
+318972	150.90921	企業グローバル化の人材戦略	石田英夫, 白木三秀編	1992/02/24
+569186	150.90921	The dictionary of national biography, 1961-1970	edited by E. T. Williams and C. S. Nicholls	1989/02/10
+1111180	150.90921	ヘレニズム・ローマの哲学	エミール・ブレイエ著/渡辺義雄訳/エミール・ブレイエ著/渡辺義雄訳	1987/09/25
+1063268	150.90921	The Imperial dictionary of the English language : a complete encyclopedic lexicon, literary, scientific, and technological, Vol. 1	by John Ogilvie	1983/03/24
+1112175	150.90921	システム・ダイナミックス	小玉陽一[ほか]著	1980/01/28
+73823	150.90921	第二次世界大戦	W.S.チャーチル  佐藤亮一訳	1976/03/16
+1109278	150.58739	列島内外の交通と国家	網野善彦 [ほか] 執筆/甲元真之著/石上英一著/村井章介著/田中健夫著/荒野泰典著/大石直正著/渡辺則文著/浅香年木著/榎森進著/高良倉吉著/朝尾直弘 [ほか] 編	1987/11/13
+989975	150.24223	ジプシーの歴史 : 東欧・ロシアのロマ民族	デーヴィッド・クローウェ著/水谷驍訳	2002/01/07
+1187682	150.21121	Generating social capital : civil society and institutions in comparative perspective	edited by Marc Hooghe and Dietlind Stolle	2003/11/13
+371256	150.21121	制御系設計 : H∞制御とその応用	システム制御情報学会編	1994/09/22
+747718	150.1627	昆虫機能利用学	鈴木幸一 [ほか] 著	1999/02/05
+1476106	150.11371	Photoshopトレーニングブック : CS6/CS5/CS4対応	広田正康著	2013/07/03
+1360527	150.11371	プロとして恥ずかしくないPhotoshopの大原則		2010/01/06
+1583926	150.08469	言語世界地図	町田健著	2014/01/10
+1650053	149.91083	パーフェクトマッチ : ヨアヒム・レーヴ勝利の哲学	クリストフ・バウゼンヴァイン著/木崎伸也, ユリア・マユンケ訳	2015/07/29
+599763	149.91083	Iconology : image, text, ideology	W.J.T. Mitchell	1992/02/07
+640460	149.91083	Категория субъективности и ее выражение в русском языке	В.В. Химик	1991/01/23
+1126944	149.91083	応用社会学 : 調査研究と政策実践	P.F.ラザースフェルド, J.G.レイツ, A.K.パサネラ著/斎藤吉雄監訳	1990/02/13
+1068343	149.91083	Applications of input-output analysis : published in honor of Wassily Leontief	edited by A.P. Carter and A. Bródy	1981/03/28
+762653	149.91083	Aristotle : fundamentals of the history of his development	by Werner Jaeger/translated with the author's corrections and additions by Richard Robinson	
+827819	149.91083	Mathematical thinking in the social sciences	edited by Paul F. Lazarsfeld	
+1310266	149.7177	在日朝鮮人のメディア空間 : GHQ占領期における新聞発行とそのダイナミズム	小林聡明著	2008/01/23
+700530	149.7177	フランスのカントリーサイド : さまざまなカフェ、レストラン、民家や町並み	増田正写真と文	1997/03/04
+1654712	149.4685	母乳育児支援業務基準 : 乳腺炎	日本助産師会母乳育児支援ガイドライン検討委員会編	2015/08/20
+947191	149.37593	神国女訓抄	大神貫道著	1988/11/10
+41591	149.37593	和泉式部物語 : 応永本		1979/03/22
+1245865	149.18408	色彩の瞬(またた)き : スーラの点描主義からマティスのフォーヴィスムまで	ポーラ美術館学芸部編	2005/08/19
+812437	149.18408	Colour : a text-book of modern chromatics : with applications to art and industry	by Ogden N. Rood	1999/01/11
+188128	149.18408	色彩芸術論	武井邦彦著	1985/08/05
+909596	149.07541	H∞制御	木村英紀 [著]	2000/05/25
+893899	148.92555	Social behavior and applications	edited by John W. Berry, Marshall H. Segall, Cigdem Kagitçibasi	2000/02/22
+610644	148.92555	Encyclopedia of immunology	editor-in-chief, Ivan M. Roitt/executive editor, Peter J. Delves	1993/04/28
+296106	148.92555	アジア幻想 : モームを旅する	村松友視, 管洋志著	1990/06/01
+578909	148.92555	Fundamental immunology	editor, William E. Paul	1989/11/16
+484419	148.92555	Fundamental immunology	editor, William E. Paul	1985/03/04
+111927	148.92555	モーム研究	中野好夫編	1981/10/07
+434835	148.92555	Metals handbook	prepared under the direction of the ASM Handbook Committee	1979/10/23
+1275026	148.92555	The imperial dictionary of the English language : a complete encyclopædic lexicon, literary, scientific, and technological	by John Ogilvie	1977/03/31
+1025171	148.92555	モーム研究	後藤武士,増野正衛編/増野正衛著/田中西二郎著/飯沼馨著/菅泰男著ほか6編	
+1446971	148.858	世界文化小史	H・G・ウェルズ [著]/下田直春訳	2012/08/29
+20261	148.34274	神々の沈黙	吉村昭	
+658858	148.18404	The collected poems of W.H. Davies	William Henry Davies	1996/08/09
+313200	148.18404	W. H. ハドスン : ナチュラリスト文学者の生涯	R. トマリン著/奥田夏子訳	1991/01/14
+1047795	148.18404	自然・文学・人間 : W・H・ハドソンの出発	寿岳文章著	1984/09/20
+1242649	148.08424	平成14年度信州大学地域貢献特別支援事業費プロジェクト研究成果報告書 : 松本広域における連携型地域づくり	信州大学人文学部内陸文化交流室編	2005/08/08
+703344	148.08424	経営管理学 : 世界のMBA		1997/03/13
+274054	148.08424	サッカーの戦術	田中和久著	1997/02/28
+228288	148.08424	アイヌ史資料集	河野本道選	1986/07/21
+1052048	148.08424	雪の女王 : 七つの話からできている物語	ハンス・クリスチャン・アンデルセン作/ラース・ポー画/大塚勇三訳	1984/10/18
+1053219	148.08424	雪の女王	アンデルセン原作/ナオミ・ルイス文/エロール・ル・カイン絵/うつみよしこ訳	1982/01/30
+213671	148.08424	オスマン=トルコ史論	三橋富治男	
+9395	148.08424	延喜式		
+1298140	148.00813	色彩工学入門 : 定量的な色の理解と活用	篠田博之, 藤枝一郎共著	2007/11/21
+282860	148.00813	心身症 : バイオフィードバック療法の基礎と臨床	佐々木高伸, 志和資朗著	1989/10/11
+1392656	147.95316	メリーランド大学図書館所蔵ゴードン・W・プランゲ文庫児童書目録 : 占領期検閲児童図書1945-1949	村上寿世, 谷暎子編	2011/01/05
+973129	147.95316	現代中国農村の社会と経済	厳善平 [著]	2001/06/01
+906015	147.95316	実践カルチュラル・スタディーズ : ソニー・ウォークマンの戦略	ポール・ドゥ・ゲイ他著/暮沢剛巳訳	2000/05/16
+564492	147.95316	Physics of strong fields	edited by Walter Greiner/[proceedings of a NATO Advanced Study Institute on Physics of Strong Fields, held June 1-14, 1986, in Maratea, Italy]	1992/02/04
+472794	147.95316	Nonlinear ordinary differential equations	D. W. Jordan and P. Smith	1985/11/25
+403361	147.95316	Handbook of stochastic methods : for physics, chemistry and the natural sciences	C. W. Gardiner	1985/02/15
+128499	147.95316	磁気共鳴の原理	スリクター著  益田義賀,雑賀亜幌訳	
+1272157	147.55981	土地利用	横山浩, 池田禎男共著/土木学会編	1988/11/28
+1306779	147.37791	新しい学	ジャンバッティスタ・ヴィーコ [著]/上村忠男訳	2008/07/04
+1169736	147.16791	方言文法調査項目リスト	真田信治編	2003/03/14
+1397151	147.16791	ホルモン測定法・内分泌負荷試験	織田敏次 [ほか] 編集/織田敏次 [ほか] 編集	1982/04/28
+753923	147.1511	大衆文化と教育	日本教育社会学会編/日本教育社会学会編	1998/03/19
+911107	146.99338	Grammar and conceptualization	Ronald W. Langacker/editors René Dirven, Ronald W. Langacker	2000/06/15
+580458	146.99338	Beginning to tackle real problems : a 6-12 lesson "stater pack" for introducing some mathematics modelling into the mathmeatics curriculum	developed by Hugh Burkhardt ... [et al.]	1990/01/25
+445107	146.99338	AC loss and macroscopic theory of superconductors	W. J. Carr, Jr	1985/01/28
+212412	146.99338	社会学とプラグマティズム	C.W.ミルズ  本間康平訳	
+526255	146.99338	The management of curriculum development	J. G. Owen	
+1127084	146.97536	誰が「赤ずきん」を解放したか	金成陽一著	
+520161	146.85455	Essays in linguistics	by Joseph H. Greenberg	1983/02/07
+1630650	146.6737	DSM-5精神疾患の診断・統計マニュアル	American Psychiatric Association [編]/染矢俊幸 [ほか] 訳	2015/02/21
+1389983	146.5913	ソニア・ドローネー : 服飾芸術の誕生	朝倉三枝著	2010/12/01
+711527	146.53273	Isländische Heldenromane	übertragen von Paul Herrmann	1997/08/19
+1078025	146.53273	[Mahabharta]		1993/02/02
+1047573	146.53273	サンショウウオ探検隊	比江島重孝作/山野辺進絵	1984/10/18
+475985	146.53273	Sons and lovers	D. H. Lawrence	
+1379552	146.33716	MBAのためのケース分析	小樽商科大学ビジネススクール編	2010/08/20
+1358865	146.06538	A death in Oxford	Richard MacAndrew/[illustrations by Paul Dickinson]	2009/11/27
+1425420	146.04596	Explorations in art	Marilyn G. Stewart, Eldon Katter/contributing authors, Laura H. Chapman, Nancy Walkup	2011/11/09
+1205876	146.04596	The ancient Near East : a history	William W. Hallo, William Kelly Simpson	2004/08/05
+980654	146.04596	ナイロンの発見	井本稔著	2001/11/06
+609530	146.04596	The Japanese enterprise system : competitive strategies and cooperative structures	W. Mark Fruin	1993/09/10
+5806	146.04596	コンピュータ音声処理	安居院猛  中嶋正之著	1981/04/22
+1599914	145.84503	デザインが語る企業理念 : オリベッティとブラウン	伊藤貴弘編	2014/03/19
+1647189	145.7274	Trade secrets and undisclosed Information	edited by Sharon K. Sandeen and Elizabeth A. Rowe	2015/07/22
+1379565	145.7274	刑事訴訟実務の基礎	前田雅英編/青木英憲 [ほか] 著	2010/08/20
+1283030	145.7274	Trade secrets : a state-by-state survey	Brian M. Malsberger/Board of Review associate editors, Samuel M. Brock, III, Arnold H. Pedowitz	2007/01/17
+705834	145.64519	竜角寺古墳群第101号古墳発掘調査報告書	千葉県立房総風土記の丘編	1997/07/14
+1591688	145.51575	体系化する知的財産法	辰巳直彦著	2014/06/04
+922520	145.51575	モンテカルロ法の金融工学への応用	湯前祥二, 鈴木輝好著/木島正明監修	2000/08/21
+621253	145.51575	Oxford English dictionary, additions series	edited by John Simpson and Edmund Weiner	1994/03/14
+179492	145.51575	国史大系	黒板勝美,国史大系編修会編輯	
+1728119	145.48543	現代貧乏物語	橋本健二著	2017/06/21
+387055	145.11844	お天気の科学 : 気象災害から身を守るために	小倉義光著	1995/05/24
+381538	145.11844	伝熱工学	相原利雄著	1995/02/13
+452811	145.11844	Metal-insulator transitions	N. F. Mott	1980/02/15
+1208433	145.11844	日本惣國風土記		1977/03/31
+1381499	145.11067	サッカー戦術の歴史 : 2-3-5から4-6-0へ	ジョナサン・ウィルソン著/野間けい子訳	2010/09/17
+1283921	145.11067	The left in the shaping of Japanese democracy : essays in honour of J.A.A. Stockwin	edited by Rikki Kersten and David Williams/Christopher Goto-Jones/Rikki Kersten/David Williams/Robert W. Aspinall/Koichi Nakano/Sarah Hyde/Leonard J. Schoppa/David Williams/Junji Banno	2006/07/28
+674173	145.11067	Institutions and organizations	W. Richard Scott	1996/11/21
+473837	145.11067	Arid land ecosystems : structure, functioning, and management	edited by D. W. Goodall, R. A. Perry, with the assistance of K. M. W. Howes	1981/06/13
+882839	144.56766	実践スクール・カウンセリング : 学級担任ができる不登校児童・生徒への援助	田上不二夫著	2008/09/17
+1043084	144.56766	赤ずきん	グリム〔原作〕/バーナディット・ワッツ絵/生野幸吉訳	1984/10/18
+23612	144.38383	体育の原理	体育原理研究会編	
+1385017	144.18732	Methodology	R.M.W. Dixon/R.M.W. Dixon	2010/11/04
+662980	144.18732	Lie groups beyond an introduction	Anthony W. Knapp	1996/12/24
+301903	144.18732	懐疑主義の方式 : 古代のテクストと現代の解釈	ジュリア・アナス, ジョナサン・バーンズ著/金山弥平訳	1990/08/30
+409585	144.18732	The theory of elastic waves and waveguides	by Julius Miklowitz	1981/02/25
+106105	144.18732	磁気共鳴の原理	C.P.スリクター著  益田義賀  雑賀亜幌訳	1981/01/30
+401971	144.18732	The real analytic theory of Teichmueller space	William Abikoff	1980/12/05
+433423	144.18732	Handbook of cross-cultural psychology	edited by Harry C. Triandis, Juris G. Draguns	1980/09/12
+18613	144.18732	粘弾性学	W.フリューゲ  堀幸夫訳	1974/02/23
+1377570	144.13216	Photoshopグラフィック	MdN編集部編	2010/07/21
+1433604	144.05682	モウリーニョvsグアルディオラ : 最強集団をつくるリーダーの条件	フアン・カルロス・クベイロ, レオノール・ガジャルド著/小澤一郎訳	2012/02/27
+1374974	144.05682	長谷寶秀全集	長谷寶秀/種智院大学密教資料研究所編	2010/06/22
+1312819	144.05682	特別支援学校のセンター的活用	大南英明編	2008/02/26
+1285826	144.05682	ビジネスのための統計入門	上田拓治著	2007/01/05
+782436	144.05682	青年心理学	鈴木清, 豊口隆太郎著	1998/09/04
+265877	144.05682	アイヌ史	北海道ウタリ協会アイヌ史編集委員会編	1988/08/23
+1233384	143.90027	ナノ電子光学	裏克己著	2005/07/27
+144065	143.90027	フランス幻想文学傑作選	窪田般弥,滝田文彦編	2003/09/12
+310078	143.90027	心身症	中川哲也編/行動療法ケース研究編集委員会編	1992/03/11
+1114768	143.90027	韓国の故事ことわざ辞典	孔泰瑢編	
+1707419	143.89192	社会人のための現代ロシア講義	塩川伸明, 池田嘉郎編/塩川伸明 [執筆]/池田嘉郎 [執筆]/松里公孝 [執筆]/小森田秋夫 [執筆]/栖原学 [執筆]/渡邊日日 [執筆]/鳩山紀一郎 [執筆]/本村眞澄 [執筆]/北川弘光 [執筆]/和田春樹 [執筆]	2016/11/10
+1665070	143.79576	江戸期の道教崇拝者たち : 谷口一雲・大江文坡・大神貫道・中山城山・平田篤胤	坂出祥伸著	2015/12/02
+1193853	143.79576	永正之記		2004/03/31
+951932	143.79576	孟子, 14巻	(宋)朱熹集註	1988/11/10
+1475786	143.51147	小児の発達と看護	中野綾美編	2013/06/28
+1461560	143.2756	世界文学から/世界文学へ : 文芸時評の塊1993-2011	沼野充義著	2013/01/24
+1166517	143.2756	Non-European languages	with Kwing Tong Woo/with Solomon Tshekisho Plaatje/with H.S. Perera/Daniel Jones/edited by Beverley Collins and Inger M. Mees	2003/01/23
+984889	143.2756	丹鉛雜録/庸盦筆記	楊愼撰/薛福成撰/王雲五主編	2002/01/08
+526396	143.2756	Factor analysis : statistical methods and practical issues	Jae-On Kim, Charles W. Mueller	2001/01/17
+517263	143.2756	Handbook of cross-cultural psychology	edited by Harry C. Triandis, William Wilson Lambert	1987/12/11
+1277373	143.2756	The "King's English" Dictionary	general editors, A.M. Williams, Frederick T. Smith and J.M. Parrish/special editorial contributions by Alington ... [et al.]	1977/03/31
+503863	143.2756	Theory of molecular excitons	A. S. Davydov/tr. from Russian by Stephen B. Dresner	
+266458	143.10593	中国風土記	中野謙二著	1988/09/05
+74736	143.10593	色彩工学の基礎	池田光男著	1986/12/12
+973775	143.10593	禁秘抄考註	牟田橘泉著	1977/03/31
+1392794	142.8659	経済・経営を学ぶための数学入門	平井裕久 [ほか] 著	2011/01/05
+1597004	142.63525	アメリカン・ポップ・アート展	国立新美術館, TBSテレビ編集/スタンリー・N. アンダソン, シェリル・シルバーマン, クリストファー・スティヴンズ翻訳	2014/02/13
+1472426	142.63525	たまもの : 埼玉県立近代美術館のコレクションより	梅津元 [ほか] 編	2013/04/05
+1315290	142.63525	商法総則・商行為法	近藤光男著	2012/10/10
+1023429	142.63525	ブラッドベリ	ブラッドベリ〔著〕/小笠原豊樹訳/宇野利泰訳	1981/03/28
+38157	142.42245	臨床検査技師国家試験問題集 : 解答と解説	「検査と技術」編集委員会編	1980/12/16
+1374597	142.37537	はじめてのParaView : 高度なグラフやアニメーションを描くオープンソース・ソフト	林真著	2010/06/15
+1184500	142.37537	A glossary of ancient Egyptian nautical titles and terms	Dilwyn Jones	2003/09/29
+380293	142.37537	被服と身体装飾の社会心理学 : 装いのこころを科学する	S. B. カイザー著/被服心理学研究会訳	1997/12/17
+651935	142.37537	建築の歴史	藤井恵介, 玉井哲雄著	1996/03/21
+606770	142.37537	Speech genres and other late essays	M.M. Bakhtin/translated by Vern W. McGee/edited by Caryl Emerson and Michael Holquist	1993/11/29
+1031509	142.37537	尊属殺人罪が消えた日	谷口優子著	1988/02/12
+404202	142.37537	Handbook of stochastic methods : for physics, chemistry and the natural sciences	C. W. Gardiner	1986/01/20
+1065909	142.37537	Communication, the essence of science : facilitating information exchange among librarians, scientists, engineers, and students	by William D. Garvey	1981/07/10
+1636302	142.37537	Everyman's English pronouncing dictionary : containing 58,000 words in international phonetic transcription	by Daniel Jones	1978/03/31
+212414	142.37537	社会学的想像力	ライト・ミルズ  鈴木広訳	1974/02/25
+1667538	142.3203	ヘイト・スピーチ法研究序説 : 差別煽動犯罪の刑法学	前田朗著	2015/11/30
+1418882	142.3203	入門経済学	伊藤元重‖著	2011/09/08
+1171369	142.3203	国際関係の制度化	日本国際政治学会編	2003/04/14
+985585	142.3203	アジアの激変と戦後日本	赤澤史朗 [ほか] 編集/荒敬著/石田正治著/外村大著/岡田敏樹著/小倉裕児著	2001/11/26
+439705	142.3203	Introduction to British prehistory : from the arrival of Homo sapiens to the Claudian invasion	J. V. S. Megaw and D. D. A. Simpson/with contributions from T. C. Champion ... [et al.]	1981/02/06
+67574	142.3203	5万分の1地質図幅説明書		
+1139667	142.3203	科学の本の読み方すすめ方	板倉聖宣, 名倉弘著	
+1415390	142.26335	北条政子	渡辺保‖著	2011/09/08
+1269441	142.26335	WTO法 : 実務・ケース・政策	滝川敏明著	2006/02/21
+859567	142.26335	北条政子	渡辺保著/日本歴史学会編/日本歴史学会編	1999/08/10
+1021031	142.26335	北条政子	渡辺保著	1981/03/28
+1597358	142.24097	すぐ使える!入院中から退院までの母乳育児支援 : まずはこの一冊	水野克己, 水野紀子編著	2014/06/27
+284176	142.21655	SASによるデータ解析	雄山真弓 [ほか] 共著	1990/01/16
+1244230	142.09172	Children in custody	Gillian Stewart, Norman Tutt	1988/11/28
+724882	142.02141	The teaching of mathematics in the elementary and the secondary school	by J.W.A. Young	1997/10/30
+1413806	141.85773	性格と社会構造 : 社会制度の心理学	ガース, ミルズ著/古城利明, 杉森創吉訳/日高六郎 [ほか] 編	2011/09/08
+1701483	141.8426	公共経済学	小塩隆士著	2016/09/12
+3098	141.8426	日本文化	肥後和男	
+1360663	141.66702	ソニア・ドローネー : リズムと色彩	西武百貨店編集	2009/07/02
+1167776	141.66702	砲丸投		2003/01/16
+1164716	141.66702	学校ソーシャルワーク入門	門田光司著	2002/12/20
+971338	141.66702	極微細半導体素子での基板電流ゆらぎに伴う素子寿命不確定性抑制の研究		2001/07/06
+916982	141.66702	都市社會學原理	鈴木榮太郎著	2000/08/17
+625758	141.66702	The Fungi	Michael J. Carlile, Sarah C. Watkinson	1994/11/18
+325808	141.66702	PKOとは何か : 国際平和協力法私案	大貫悦司著	1992/02/24
+1110785	141.66702	文法史	川端善明[ほか]編/尾上圭介[ほか]筆/森岡健二〔ほか〕編	1982/06/16
+1273662	141.66702	天心岡倉覚三	清見陸郎著	1981/02/27
+237587	141.66702	鈴木栄太郎著作集	鈴木栄太郎	1975/12/04
+1355956	141.53188	Billy and the queen	Stephen Rabley	2017/01/26
+1440457	141.48637	美術を巡る旅ガイド : ヨーロッパを代表する画家達 : ゴッホ、フェルメール、ゴヤ、カラヴァッジョ、ムンク	[Lee Feinstein ほか著]/小野アムスデン道子, 加藤玲奈編集/野崎武夫訳	2012/05/30
+1428130	141.48637	ヒトはいかにしてことばを獲得したか	正高信男, 辻幸夫共著	2011/12/21
+1419838	141.48637	被服心理学	日本繊維機械学会被服心理学研究分科会編	2011/09/08
+1390018	141.48637	ゴッホを旅する	南川三治郎写真	2010/12/01
+1380468	141.48637	ファン・ゴッホ : アルルの悲劇	[ファン・ゴッホ画]/アルフレート・ネメチェク解説/高階絵里加訳	2010/09/01
+1338705	141.48637	Educational leadership and administration	edited by Fenwick W. English	2009/03/05
+1264256	141.48637	近代中国の農村経済と地主制	小島淑男著	2006/02/21
+972532	141.48637	土地改革後の中国農村 : 土地改革後の中国農村における社会主義と資本主義の2つの道の斗争	[川村嘉夫訳および解説]	2001/05/25
+939241	141.48637	Special functions : a unified theory based on singularities	Sergei Yu. Slavyanov and Wolfgang Lay/with a foreword by Alfred Seeger	2000/11/21
+790754	141.48637	ゴッホ紀行 : 星への軌跡	野村篤著	1998/04/20
+722204	141.48637	ゴッホの手紙	小林秀雄著	1997/10/16
+387986	141.48637	エドヴァルト・ムンク	マティアス・アルノルト著/真野宏子訳	1995/06/21
+610410	141.48637	Delayed departures, overdue arrivals : industrial familialism and the Japanese national railways	Paul H. Noguchi	1993/03/04
+1027674	141.48637	ムンク	エドワルド・ムンク〔画〕	1985/08/06
+1635938	141.44196	秘密保護法対策マニュアル	海渡雄一著	2015/04/13
+1463170	141.44196	何のための秘密保全法か : その本質とねらいを暴く	海渡雄一, 前田哲男著	2013/12/18
+1271737	141.44196	組織能力・知識・人材	伊丹敬之 [ほか] 編/伊丹敬之, 加護野忠男, 伊藤元重編	2006/07/12
+1125644	141.44196	最新企業秘密・ノウハウ関係判例集	知的所有権法研究会編	
+1293199	141.15916	讀書の詩	福本雅一著	2007/05/02
+1209086	141.15916	独習C : ANSI規格準拠	ハーバート・シルト著/トップスタジオ訳	2004/08/27
+350151	141.15916	英語の語用論	毛利可信著	1993/06/15
+1453241	140.77461	膵・胆管合流異常診療ガイドライン	日本膵・胆管合流異常研究会, 日本胆道学会編	2012/09/14
+1410973	140.77461	記紀皇統譜の基礎的研究	荊木美行著	2011/09/05
+1405647	140.60841	特許・著作権判例インデックス	塩月秀平編著	2011/05/30
+1383978	140.60841	ゴッホの宇宙 (そら) : きらめく色彩の軌跡	小林英樹著	2010/10/22
+1292430	140.60841	日本語書記史原論	小松英雄著	2007/01/31
+972315	140.60841	日中戦争	児島襄著	2001/05/25
+153891	140.60841	日中戦争	児島襄著	1984/07/17
+283321	140.60841	ゲシタルト心理学入門	W. ケーラー [著]/田中良久, 上村保子訳	1975/03/17
+349945	140.4882	病院で死ぬということ	山崎章郎著	1993/08/03
+1659243	140.40207	北中城村史	北中城村史編纂委員会	2015/07/31
+1249199	140.40207	はじめてのピジン語 : パプアニューギニアのことば	岡村徹著	2005/08/30
+744322	140.40207	The nature of proof : a description and evaluation of certain procedures used in a senior high school to develop an understanding of the nature of proof	by Harold Pascoe Fawcett	1998/02/04
+369819	140.40207	方言地理学の展開	徳川宗賢著	1994/08/02
+928058	140.21396	<強迫/パニック>論文集		2000/09/18
+955327	140.08876	中世の霊性	[Louis Bouyerほか著]/上智大学中世思想研究所訳・監修/[Louis Bouyerほか著]/上智大学中世思想研究所訳・監修	2005/10/18
+682995	140.08876	世界映画史	佐藤忠男著	1996/12/26
+307791	140.08876	ナルシシズムという病い : 文化・心理・身体の病理	A. ローウェン著/森下伸也訳	1991/02/05
+53895	140.08876	中心統合法の理論	パーカー  西村誠  清水貞夫訳	1979/11/29
+220019	140.08876	中心統合法の理論	パーカー  西村誠  清水貞夫訳	1978/03/24
+261743	140.07266	嘉納治五郎大系		1989/01/05
+727259	139.99106	新編社会心理学	堀洋道, 山本眞理子, 吉田富二雄編著	1997/11/07
+697074	139.99106	日本乗合交通編年史	倉島幸雄編著	1997/02/10
+678337	139.77516	A reader's guide to W.H. Auden	John Fuller	1996/12/11
+398882	139.77516	A reader's guide to W. H. Auden	John Fuller	
+1468033	139.74127	大辻清司フォトアーカイブ : 写真家と同時代芸術の軌跡 : 1940-1980	黒澤誠人, 村井威史編	2013/03/08
+1309343	139.74127	社会経済学序説 : マックス・ウェーバーの科学と哲学	松代和郎著	2008/01/16
+731826	139.74127	サマセット・モーム	朱牟田夏雄編	1997/12/03
+623421	139.74127	Cross-cultural psychology : research and applications	John W. Berry ... [et al.]	1994/11/14
+1486052	139.6379	神隂流劔術目録		2012/11/21
+1288483	139.56369	プリセプターシップの理解と実践 : 新人ナースの教育法	永井則子著	2006/12/08
+1737925	139.26215	運動器・整形外科	医療情報科学研究所編/医療情報科学研究所編	2017/09/01
+1695548	139.26215	さまざまな8・15 : 夏	中野重治他著/浅田次郎 [ほか] 編集委員/北上次郎編集協力/中野重治著/河野多惠子著/島尾敏雄著/島尾敏雄著/島尾ミホ著/長堂英吉著/太田良博著/牛島春子著/梶山季之著/岡松和夫著/古処誠二著/藤原てい著/庄司肇著/木山捷平著/新田次郎著/林芙美子著/太宰治著/井伏鱒ニ著/霜多正次著/石原吉郎著/加賀乙彦著/茨木のり子著/中桐雅夫著/上林猷夫著/中村草田男著/浅田次郎 [ほか] 編集委員/北上次郎編集協力	2016/07/25
+1665414	139.26215	ふるさとの歴史と記憶をつなぐ : 被災地フォーラム宮城報告書 : 東日本大震災1400日・史料保全の「いま」と「これから」	奥村弘, 佐藤大介編	2015/10/20
+1461318	139.26215	Illustrator & Photoshopデザインエクササイズ	ウイネット編著	2013/02/06
+922289	139.26215	江戸結髪史	金沢康隆著	2000/09/21
+853815	139.26215	伝承薬の事典 : ガマの油から薬用酒まで	鈴木昶著	1999/04/30
+766847	139.26215	内野山北窯跡 / 佐賀県教育庁文化財課編	佐賀県教育庁文化財課編	1998/06/26
+600068	139.26215	Gerard Manley Hopkins and the language of mystery	Virginia Ridley Ellis	1992/02/10
+1107252	139.26215	都風俗化粧伝	佐山半七丸[著]/速水春暁斎画図/高橋雅夫校注	1987/03/24
+1031088	139.26215	メロドラマ	村松友視著	1985/12/06
+354010	139.26215	系図纂要		1976/02/28
+354011	139.26215	系図纂要		1976/02/28
+209608	139.26215	五十音引僧綱補任僧歴綜覧 : 推古32年-元暦2年	平林盛得,小池一行編	
+225661	139.26215	群書解題	続群書類従完成会編	
+1187010	138.94824	W杯サッカーの熱狂と遺産 : 2002年日韓ワールドカップを巡って	黄順姫編	2007/03/13
+997061	138.88477	ファン・ゴッホの手紙	ファン・ゴッホ [著]/二見史郎編訳/圀府寺司訳	2002/03/01
+484050	138.88477	Proceedings of the 17th International Conference on the Physics of Semiconductors, San Francisco, California, USA, August 6-10, 1984	edited by James D. Chadi, Walter A. Harrison	1985/12/09
+399882	138.88477	Ancient cities of the Indus	edited by Gregory L. Possehl	1981/02/06
+1668929	138.6175	全文読破柳田国男の先祖の話	石井正己著	2016/01/06
+1191193	138.6175	Commentarii linguæ Græcæ,	Gulielmo Budæo, consiliario regio, supplicúmque libellorū in regia magistro, auctore	2001/12/03
+798954	138.6175	呪歌と説話 : 歌・呪(まじな)い・憑き物の世界	花部英雄著	1998/06/15
+700591	138.6175	日本剣道の歴史	大塚忠義著	1997/03/10
+663788	138.6175	Sons and lovers	by D.H. Lawrence/with and introduction by John Macy	1996/10/09
+951562	138.6175	本朝孝子傳	伊蒿子 [著]/狩野永敬 [図]	1988/11/10
+1052038	138.6175	水の動物 : カエル・サンショウウオ・カメ・・・・		1984/10/18
+1381479	138.6175	China opened; or, A display of the topography, history, customs, manners, arts, manufactures, commerce, literature, religion, jurisprudence, etc. of the Chinese Empire	by Charles Gutzlaff/revised by Andrew Reed	1977/03/31
+1113804	138.6175	日本第四紀地図	日本第四紀学会編	
+1250565	138.55005	移民と国家 : 極東ロシアにおける中国人、朝鮮人、日本人移民	イゴリ R. サヴェリエフ著	2005/09/29
+1668483	138.5296	歴史の見方がわかる世界史入門エピソードゼロ : 近現代の礎を築いた古代・中世史	福村国春著	2015/12/22
+1427682	138.42604	印象派	ダイアナ・ニューオール著/藤村奈緒美訳	2011/12/16
+1201685	138.38748	はじめて学ぶ医療統計学	T.D.V.Swinscow, M.J.Campbell [著]/折笠秀樹監訳	2004/08/30
+1571844	138.37776	海を渡った人類の遥かな歴史 : 名もなき古代の海洋民はいかに航海したのか	ブライアン・フェイガン著/東郷えりか訳	2013/12/25
+1351650	138.0387	The Japanese firm : the sources of competitive strength	edited by Masahiko Aoki and Ronald Dore	2009/07/02
+1266096	138.0387	Teaching science in the 21st century	Jack Rhoton and Patricia Shane, editors	2006/05/11
+1157414	138.0387	反骨のジャーナリスト	鎌田慧著	2002/11/12
+495814	138.0387	Theory and methods of scaling	Warren S. Torgerson	
+1393920	138.0387	日中戦争	内川芳美編	
+1280728	138.03003	オランダの個別教育はなぜ成功したのか : イエナプラン教育に学ぶ	リヒテルズ直子著	2006/11/28
+146743	138.03003	明治期地方鉄道史研究 : 地方鉄道の展開と市場形成	老川慶喜著	1985/02/05
+13649	137.91766	大都市地域論	服部◆T9019◆二郎	1978/03/24
+130365	137.91766	大都市地域論	服部◆D40365◆二郎著	1974/02/08
+60639	137.81413	ウパニシャッド	佐保田鶴治	1980/01/23
+1480487	137.78183	運動療法	日本呼吸ケア・リハビリテーション学会呼吸リハビリテーション委員会ワーキンググループ [ほか] 編	2013/08/09
+1472957	137.78183	知られざる近代の諸相 : 変革期の人々	仙波玲子編/古閑章 [著]/犬塚孝明 [著]/尾曲巧 [著]/山根真太郎 [著]/荒井聰子 [著]/仙波玲子 [著]/久木田英史 [著]	2013/04/18
+1349179	137.78183	人権教育のためのコンパス(羅針盤) : 学校教育・生涯学習で使える総合マニュアル	ヨーロッパ評議会企画/福田弘訳	2009/08/17
+1247977	137.78183	福田恆存文芸論集	福田恆存 [著]/坪内祐三編	2005/12/19
+1185864	137.78183	日常生活の行動原理 : 学習理論からのヒント	J. D. ボールドウィン, J. I. ボールドウィン著/内田雅人訳	2003/09/09
+1154673	137.78183	最新商業辞典	鈴木安昭, 白石善章編	2002/10/24
+961285	137.78183	種分化にかかわる雌による求愛歌識別の分子遺伝学的研究		2001/02/23
+388170	137.78183	日本理科教材史 : 理科教材の誕生・普及・消滅・復活,その研究の方法と基礎的ないくつかの教材についての教材史研究の成果	永田英治著	1995/08/31
+287235	137.78183	建築史論叢 : 稲垣榮三先生還暦記念論集	稲垣榮三先生還暦記念論集刊行会編	1990/01/16
+241340	137.78183	理科教育史資料	板倉聖宣[ほか]編	1987/04/23
+1182970	137.78183	한국어대사전	韓国語辞典編纂会 編	1982/09/08
+657726	137.72212	繰返し制御	中野道雄 [ほか] 著	1996/09/02
+1261855	137.66864	1日10分の発音練習	河野俊之 [ほか] 著	2006/02/16
+1637734	137.59076	語呂で覚える!DSM-5	松崎朝樹著	2015/05/01
+1236954	137.28973	ダイナミックインフォメーショングラフィックス : 動的な図解表現を用いた知識の視覚化	原田泰 [著]	2005/09/01
+27282	137.28973	飼料学總論	岩田久敬	
+1376910	137.20287	現代界面コロイド科学の事典	日本化学会編	2010/07/16
+882040	137.20287	英米憲法比較論	グラッドストーン著/草間時福譯	1999/12/06
+868373	137.20287	Gladstone, 1809-1898	H.C.G. Matthew	1999/08/25
+775222	137.20287	哲学とは何か	ハイデッカー[著]/原佑訳/マルティン・ハイデッガー著	1998/08/11
+771804	137.20287	哲學とは何か	デイルタイ [ほか著]/戸田三郎 [ほか] 譯/ウィルヘルム・デイルタイ [著]/戸田三郎譯/エドムンド・フッサァール [著]/坂田徳男譯/マックス・シェーラー [著]/三木清譯	1998/07/22
+678175	137.20287	フンボルトの人間形成論	江島正子著	1996/11/08
+1400631	137.0628	今後の安全保障政策と自衛隊	高津康佑編集	2011/04/26
+842070	137.0628	「科学革命」とは何だったのか : 新しい歴史観の試み	スティーヴン・シェイピン [著]/川田勝訳	2005/08/02
+1083681	137.0628	The Philosophy of W.V. Quine	edited by Lewis Edwin Hahn and Paul Arthur Schilpp	2000/08/18
+1250441	137.0628	PKO問題の争点 : 分析と資料	緑風出版編集部編	1993/02/05
+109206	137.0628	砲丸投・ハンマー投	西藤宏司著	1981/08/24
+191001	137.0628	色彩の芸術 : 色彩の主観的経験と客観的原理	ヨハネス・イッテン著  大智浩,手塚又四郎訳	
+1351076	136.76672	そこが知りたい最新技術オーディオ・ビデオ圧縮入門 : MPEG-AACとH.264/AVC時代の	亀山渉, 金子格, 渡辺裕著	2009/09/08
+1202411	136.76672	Finite fields and applications : 7th International Conference, Fq7, Toulouse, France, May 5-9, 2003 : revised papers	Gary L. Mullen, Alain Poli, Henning Stichtenoth (eds.)	2004/06/16
+1101706	136.76672	間違いだらけの少年H : 銃後生活史の研究と手引き	山中恒, 山中典子著	2000/01/31
+613605	136.76672	Algebraic function fields and codes	Henning Stichtenoth	1993/08/06
+433173	136.76672	H. H. Munro (Saki)	by Charles H. Gillen	1981/02/20
+482883	136.76672	Boundary-layer theory	by Hermann Schlichting/tr. by J. Kestin	
+557580	136.76672	University of Tsukuba Library rare books collection in foreign language, microfilm edition	door den Heer Titsingh. 1ste d. 1824. (H500-t1)/by J. Elliot Bingham. v.2. 2nd ed., with addictions. 1843. (H620-b4)	
+336252	136.70805	体育・スポーツ社会学研究	体育・スポーツ社会学研究会編	1992/12/01
+1445620	136.67403	Discovering psychology	Don H. Hockenbury, Sandra E. Hockenbury	2012/08/01
+1212882	136.64316	インパクトファクターを解き明かす	山崎茂明著	2004/10/15
+1458962	136.6253	特別支援学校のセンター的機能	柘植雅義 [ほか] 編著/柘植雅義 [ほか] 編著	2012/12/10
+1431722	136.6253	障害児の発達と学校の役割 : 地域で学び、育つということ	高橋登編著	2012/02/06
+1382180	136.6253	経営学講義	板倉宏昭著	2010/09/29
+881879	136.47859	フォレストスケープ : 森林景観のデザインと演出	全国林業改良普及協会企画・編集	1999/10/20
+869005	136.3771	The quantum theory of radiation	by W. Heitler	
+1628269	136.33266	知の現在と未来 : 岩波書店創業百年記念シンポジウム	広井良典 [ほか] 著	2015/01/05
+1332021	136.33266	標準日韓・韓日コンパクト辞典	朱信源編著	2008/11/21
+803356	136.33266	明治時代四季の行楽と博覧会の巻	国書刊行会編/国書刊行会編	1998/10/12
+1110420	136.33266	負担と贈与	山口啓二 [ほか] 執筆/吉村武彦著/峰岸純夫著/小田雄三著/深谷克己著/笠松宏至著/勝俣鎮夫著/筧雅博著/戸田芳実著/久留島浩著/朝尾直弘 [ほか] 編	1987/11/13
+476820	136.33266	Syntax and semantics	general editor, Stephen R. Anderson/Alice C. Harris	1987/02/17
+1442207	136.33266	明治の商家 : 銅版画	高橋正人編著	1984/03/26
+1174793	136.33266	대국어사전	한국어사전편찬회편	1982/04/30
+211948	136.33266	幸福な結婚	Maurois A.  河盛好蔵訳	
+920328	136.16574	俚語千字文		1988/11/10
+911643	136.16574	新撰列女傳	堀重修編/溝口月耕画	1988/11/10
+866318	136.16574	家訓歌語	蔡武孝著	1977/03/31
+880539	136.16574	榮花物語		1977/03/31
+654905	135.9826	Advances in catalysis		2015/12/16
+205463	135.9826	日本体育学会大会号	日本体育学会[編]	1986/02/14
+1212271	135.9826	大成算經		1977/03/31
+1212438	135.9826	[日本惣国風土記]		1977/03/31
+1589822	135.82451	Physics of semiconductors 2002 : proceedings of the 26th International Conference on the Physics of Semiconductors held in Edinburgh, UK, 29 July-2 August 2002	edited by A.R. Long and J.H. Davies	2014/01/29
+1399572	135.82451	Rethinking curriculum in art	Marilyn G. Stewart, Sydney R. Walker	2011/04/22
+1359224	135.82451	ジェイ・H.モーガン : アメリカと日本を生きた建築家	水沼淑子著	2009/12/11
+971940	135.82451	危機にある子を見つける : 描画スクリーニング法	L. W. ピーターソン, M. E. ハーディン [著]/津波古澄子, 安宅勝弘訳	2001/08/10
+926895	135.82451	Cosmological inflation and large-scale structure	Andrew R. Liddle and David H. Lyth	2000/08/10
+880802	135.82451	Souvenirs entomologiques : études sur l'instinct et les mœurs des insectes	J.-H. Fabre	1999/11/30
+854607	135.82451	Open space action : report to the Outdoor Recreation Resources Review Commission	by William H. Whyte	1999/07/19
+729584	135.82451	New perspectives in world history	Shirley H. Engle, editor	1997/11/20
+672949	135.82451	On "what is history?" : from Carr and Elton to Rorty and White	Keith Jenkins	1996/09/12
+623919	135.82451	Space, place and gender	Doreen Massey	1994/08/19
+619069	135.82451	The emperor's new mind : concerning computers, minds, and the laws of physics	Roger Penrose/foreword by Martin Gardner	1994/02/03
+414121	135.82451	Database : a bibliography	Yahiko Kambayashi	1982/01/26
+503846	135.82451	Engineering mathematics handbook : definitions, theorems, formulas, tables	Jan J. Tuma	1980/07/28
+1690520	135.82451	A history of haiku	R.H. Blyth	1979/02/15
+34688	135.82451	都市とオープンスペース	ウイリアム・H・ホワイト  華山謙訳	1979/01/06
+214421	135.82451	現代心理学入門	E.H.Schein  松井賚夫訳	
+834824	135.82451	Linear algebra	[by] W.H. Greub	
+657302	135.78075	延慶本平家物語	北原保雄, 小川栄一編	
+50364	135.5897	世界の素描		1980/09/20
+1182969	135.56122	環境社会学	鳥越皓之著	2003/10/14
+875884	135.56122	臺灣總督府統計書		2000/01/20
+827123	135.56122	環境保全と地域農業の振興	小川政則著	1998/11/02
+649754	135.56122	Civilizations of the ancient Near East	Jack M. Sasson, editor in chief/John Baines, Gary Beckman, Karen S. Rubinson, associate editors	1996/02/05
+1293288	135.4217	夢解釈 : 1900年	[フロイト著]/新宮一成訳/フロイト著/新宮一成 [ほか] 編集委員	2011/11/07
+1485784	135.38513	後鳥羽院和歌論考	寺島恒世 [著]	2013/10/18
+53606	135.26744	「理論的思考」の方法	リチャード・L.パーティル  松本道弘訳	1979/11/27
+1570399	135.21143	論理思考の鍛え方	小林公夫著	2013/12/04
+1125345	135.21143	プログラミング言語C : ANSI規格準拠	B. W. カーニハン, D. M. リッチー著/石田晴久訳	1992/06/12
+1259602	135.08664	実用SAS生物統計ハンドブック	臨床評価研究会(ACE)基礎解析分科会執筆	2006/02/23
+1601473	134.91365	「政治的なもの」の遍歴と帰結 : 新自由主義以後の「政治理論」のために	森政稔著	2014/07/30
+1570335	134.91365	心のメッセージを聴く : 実感が語る心理学	池見陽著	2013/12/04
+1371805	134.91365	16-18世紀 : ルネサンスから啓蒙時代まで	G・ヴィガレロ編	2010/06/30
+1290298	134.91365	行動と学習の心理学 : 日常生活を理解する	伊藤正人著	2007/05/11
+1483786	134.89517	The king's two bodies : a study in mediaeval political theology	by Ernst H. Kantorowicz	2013/02/28
+867032	134.89517	The theory of electric and magnetic susceptibilities	by J.H. Van Vleck	1999/09/16
+792473	134.89517	システムと制御の数学	山本裕著/システム制御情報学会編	1999/07/08
+794716	134.89517	Great tombs of the first dynasty : Excavations at Sakkara	by Walter B. Emery/with the collaboration of T.G.H. James ... [et al.]	1998/10/14
+611061	134.89517	Institut des hautes etudes scientifiques, publications mathematiques	by Jean-Michel Bismut and Gilles Lebeau	1993/05/27
+513709	134.89517	Institut des hautes etudes scientifiques, publications mathematiques	by T. Petrie and J. Randall.--Non-commutative differential geometry	1986/05/29
+494221	134.89517	Great tombs of the First Dynasty	by Walter B. Emery/with the collaboration of Adolf Klasens	
+580493	134.84969	General linguistics : an introductory survey	R.H. Robins	1990/01/25
+697782	134.82219	明るく誠実な心を育てる	押谷由夫, 立石喜男編著/押谷由夫, 立石喜男編著	1997/02/14
+1689643	134.75504	その症状は"風邪"? : 主訴から鑑別する・治療する	橋口一弘編著/石井恵美 [ほか] 著	2016/05/19
+919360	134.75504	Manual of clinical microbiology		2002/01/15
+629551	134.75504	Europe and Germany : unity and diversity	edited by Kenneth W. Thompson/series editor, Kenneth W. Thompson	1995/06/05
+562372	134.75504	Geomorphological models : theoretical and empirical aspects	Frank Ahnert (editor)	1988/09/09
+433434	134.75504	Handbook of cross-cultural psychology	edited by Harry C. Triandis, William Wilson Lambert	1980/11/21
+1145655	134.34569	オブジェクトモデリング : 新しい思考の方法論	落水浩一郎, 東田雅宏著	
+1703300	134.34125	シェークスピア物語	チャールズ=ラム, メアリ=ラム作/高杉一郎訳	2016/09/27
+1695511	134.34125	亀倉雄策と『クリエイション』 : 生誕100年	新潟県立近代美術館編	2016/06/14
+1687750	134.34125	グラフの表現術 : レポート・プレゼンに強くなる	山本義郎著	2016/02/16
+1682013	134.34125	生誕100年亀倉雄策展 : グラフィックデザイナーの全貌	新潟県立万代島美術館編	2016/02/02
+1634036	134.34125	古典教育の史的展開 : 教育制度から見た古典の教育	鈴木二千六著	2015/01/20
+1410037	134.34125	シェークスピア劇の傍白 : modest doubt	内藤健二著	2011/07/21
+1287265	134.34125	ヴィジュアル・アナロジー : つなぐ技術としての人間意識	バーバラ・M・スタフォード著/高山宏訳	2007/01/10
+836580	134.34125	韓国現代政治	森山茂徳著	1999/01/29
+342507	134.34125	バルトルシャイティス著作集	ユルギス・バルトルシャイティス著/有田忠郎訳	1993/11/11
+324490	134.34125	政策型思考と政治	松下圭一著	1992/07/31
+294540	134.34125	消費需要の実証分析	牧厚志著	1990/12/06
+187873	134.34125	新修シェークスピア全集	シェークスピア著  坪内逍遥訳	1984/05/17
+210030	134.34125	スターリン主義と反共主義	W.ホーフマン  石川晃弘  石川康子共訳	1975/02/28
+745171	134.34125	国語教育,数学教育における学習指導要領の批判検討と,基礎学力の向上をめざしての今後の具体的対策	日本教職員組合編	
+1572208	134.22078	希望学あしたの向こうに : 希望の福井、福井の希望	東大社研, 玄田有史編/山崎亮, 玄田有史 [述]/藻谷浩介, 中村尚史 [述]/玄田有史 [執筆]/中村圭介 [執筆]/建井順子 [執筆]/加瀬和俊 [執筆]/長谷川健二 [執筆]/稲継裕昭 [執筆]/中村尚史 [執筆]/橋野知子 [執筆]/宇野重規 [執筆]/松井望 [執筆]/荒見玲子 [執筆]/橘川武郎 [執筆]/阿部彩 [執筆]/金井郁 [執筆]/羽田野慶子 [執筆]/石倉義博 [執筆]/西野淑美 [執筆]/元森絵里子 [執筆]/西村幸満 [執筆]/平井太郎 [執筆]/佐藤慶一 [執筆]/五百旗頭薫 [執筆]/谷聖美 [執筆]/末廣昭 [執筆]/佐藤由紀 [執筆]/大堀研 [執筆]/五百旗頭薫 [執筆]/稲吉晃 [執筆]/玄田有史 [執筆]/西川一誠	2013/12/26
+1369149	134.16351	現代経済地域論	林上著	2010/04/14
+1441350	133.99487	精神分析入門講義 : 1915-17年	[フロイト著]/新宮一成 [ほか] 訳/フロイト著/新宮一成 [ほか] 編集委員	2012/06/11
+1628332	133.97845	Japanese physical training : the system of exercise, diet, and general mode of living that has made the Mikado's people the healthiest, strongest, and happiest men and women in the world	by H. Irving Hancock/photographs by George J. Hare, Jr.	2015/01/29
+1410721	133.97845	Sumerian and Semitic religions and historical texts	by S. Langdon/edited under the direction of S. Langdon	2011/02/23
+1362477	133.97845	Approximate commutative algebra	Lorenzo Robbiano, John Abbott, editors	2010/02/02
+1283871	133.97845	Emergence of economic society in Japan, 1600-1859	edited by Akira Hayami, Osamu Saitô, Ronald P. Toby	2006/12/04
+1297642	133.97845	Postmetropolis : critical studies of cities and regions	Edward W. Soja	2006/10/30
+846405	133.97845	山陰農村の社會構造	山岡榮市編	1999/06/14
+649821	133.97845	H∞制御入門	早勢実著	1996/03/21
+583687	133.97845	Stress management : an integrated approach to therapy	by Dorothy H.G. Cotton	1992/02/17
+1020015	133.97845	生きがいについて	神谷恵美子著	1981/03/28
+1071883	133.97845	Libraries and the organization of knowledge	by Jesse H. Shera, ed. and with an introduction by D. J. Foskett	1981/03/28
+1009727	133.97845	エウリピデス	松平千秋編/松平千秋[ほか]訳	1981/03/28
+402981	133.97845	Topological Riesz spaces and measure theory	D. H. Fremlin	
+1362642	133.95839	エドヴァルト・ムンク : 「自作を語る画文集」 : 生のフリーズ	エドヴァルト・ムンク画と文/鈴木正明訳	2010/01/20
+1360051	133.95839	19世紀の画家たち : ゴヤ、ブレイクからゴッホ、ムンクまで : 画家自身の言葉で綴る画文集	エリック・プロッター編/藤田尊潮訳	2009/12/24
+1329920	133.95839	江村经济 : 中国农民的生活	费孝通著/戴可景译/费孝通著/戴可景译/费孝通著/费孝通著/W.R.葛迪斯著/戴可景译	2008/10/20
+377339	133.95839	資源循環農業論 : 「リサイクリングの経済学」の試み	富岡昌雄著	1994/12/14
+537146	133.95839	Quantitative genetics and selection in plant breeding	Guenter Wricke, W. Eberhard Weber	1986/06/26
+212320	133.95839	心理学の根本問題	ジェームス  松浦孝作訳	
+293787	133.80109	明治前期関西地誌図集成 : 1884(明治17)年～1890(明治23)年	地図資料編纂会編	1997/04/25
+927052	133.79922	[乙竹文庫 : 筑波大学附属図書館所蔵]		2003/01/27
+920551	133.79922	女教訓書		1988/11/10
+914359	133.79922	亞細亞言語集, 7巻	廣部精編輯	1988/11/10
+937174	133.79922	生舜水先生塾聞書		1988/11/10
+871640	133.79922	唐譯便覧	冠山岡嶋璞王成著	1977/03/31
+157362	133.66489	コミュニティ心理学の実際	山本和郎編	1984/10/04
+1704604	133.65277	DSM-5ガイドブック : 診断基準を使いこなすための指針	Black DW, Grant JE [著]/下田和孝, 大曽根彰訳	2016/10/12
+1594538	133.62244	明日から使える自閉症教育のポイント : あなたの授業をアシスト : 子どもに学ぶ6年間の実践研究	筑波大学附属久里浜特別支援学校編著	2014/02/13
+1694375	133.52388	物質の構造と性質	Theodore L. Brown [ほか原著]/上野圭司 [ほか] 訳/Theodore L. Brown [ほか原著]/上野圭司 [ほか] 訳	2016/07/07
+1631328	133.52388	Japan und die XII.Olympischen Spiele 1940 eine einführung in das verständnis Japans	hrsg. vom Institut für Leibesübungen der Universität Leipzig	2015/02/19
+1623237	133.52388	Programme officiel : VIIe Olympiade Anvers 1920		2014/11/27
+1609112	133.52388	Olympic spirit in Hokkaido		2014/09/25
+1572196	133.52388	医療情報	板井孝壱郎, 村岡潔責任編集/板井孝壱郎 [ほか] 執筆/シリーズ生命倫理学編集委員会編	2013/12/26
+1233385	133.52388	日本博物館成立史 : 博覧会から博物館へ	椎名仙卓著	2005/11/11
+793493	133.52388	百錬抄/愚管抄/元亨釋書	經濟雜誌社編	1998/10/08
+358804	133.52388	比較財産法講義 : ドイツ不動産取引の理論と判例	円谷峻著	1994/01/21
+354978	133.52388	オペラント行動の基礎と臨床 : その進歩と展開	異常行動研究会編	1992/12/07
+1382645	133.52388	感覚器・神経制御	John R. Brobeck [編]/村尾誠監訳	1991/08/02
+1124299	133.48666	ヘルダー/ゲーテ	登張正実責任編集/登張正実, 小栗浩著/ヘルダー著/小栗浩, 七字慶紀訳/ヘルダ-著/登張正実訳/ヘルダー著/登張正実訳/ゲーテ著/小栗浩訳	
+1694945	133.17111	変貌する中国農村 : 湖北・四川省の「三農」問題と近代化	座間紘一編著	2016/07/13
+598836	133.17111	Quantum noise	C.W. Gardiner	1992/01/20
+90183	133.17111	一休	水上勉	
+1412766	133.10033	会社法判例百選	江頭憲治郎 [ほか] 編	2011/09/08
+1230039	133.07414	D.H.ロレンス書簡集	[D.H.ロレンス著]/吉村宏一, 田部井世志子ほか編訳	2017/07/19
+1459273	133.07414	国産コンピューターゼロからの大逆転 : 日本技術界伝説のドラマ [映像資料]	日本放送出版協会企画・制作	2012/12/10
+1459274	133.07414	男たちの復活戦デジタルカメラに賭ける [映像資料]		2012/12/10
+1444539	133.07414	Families of rationally simply connected varieties over surfaces and torsors for semisimple groups/Differential forms on log canonical spaces/The full renormalization horseshoe for unimodal maps of higher degree : exponential contraction along hybrid classes	by A.J. de Jong, Xuhua He, and Jason Michael Starr/by Daniel Greb ... [et al.]/by Arthur Avila and Mikhail Lyubich	2012/07/18
+1408556	133.07414	1セグ (ワンセグ) 放送教科書	羽鳥光俊監修	2011/06/14
+1332156	133.07414	Algebraic function fields and codes	Henning Stichtenoth	2008/12/16
+1232886	133.07414	Principles of service marketing and management	Christopher Lovelock, Lauren Wright	2005/03/14
+1193502	133.07414	健康障害をもつ小児の看護	松尾宣武, 浜中喜代編集	2004/02/13
+1173461	133.07414	安定化制御からH∞制御へ	市川邦彦著	2003/05/27
+1161434	133.07414	魔法のラーメン82億食の奇跡 : カップめん・どん底からの逆転劇	NHK編	2002/12/24
+656556	133.07414	法隆寺の至寶 : 昭和資財帳	法隆寺昭和資財帳編集委員会編	1999/03/05
+737099	133.07414	現代中国漢字学講義	張静賢著/松岡榮志監訳	1997/09/19
+183265	133.07414	中国農業的発展 : 1368-1968年	徳・希・珀金斯著  宋海文等訳	1985/06/27
+446416	133.07414	Multivariate calculation : use of the continuous groups	Roger H. Farrell	1985/02/08
+1108969	133.07414	D.H.ロレンス	D.H.ロレンス[著]/酒本雅之訳/亀井俊介解説	1981/03/28
+1119551	133.07414	D.H.ロレンス	倉持三郎著	
+1139914	133.07414	教養の漢字学	阿辻哲次著	
+1107016	133.07414	ロシア革命 : レーニンからスターリンヘ,1917-1929年	E. H. カー著/塩川伸明訳	
+424911	132.95714	Lectures on the h-cobordism theorem	by John Milnor/notes by L. Siebenmann, and J. Sondow	1977/03/29
+657472	132.94171	満洲語文語文典	河内良弘著	1996/10/30
+1321133	132.74847	スクールソーシャルワーク論 : 歴史・理論・実践	日本スクールソーシャルワーク協会編/山下英三郎, 内田宏明, 半羽利美佳編著	2008/07/23
+1007503	132.74847	感覚と論理を結ぶ思考法	奥出直人, 後藤武編/奥出直人, 後藤武編	2007/12/26
+1264424	132.74847	チャイナドレスをまとう女性たち : 旗袍 (チーパオ) にみる中国の近・現代	謝黎著	2006/04/18
+356541	132.74847	コラージュ・シティ	C. ロウ, F. コッター著/渡辺真理訳	2002/01/23
+325050	132.74847	統計学序説	T. H. ウオナコット, R. J. ウオナコット共著/国府田恒夫 [ほか] 共訳	1992/02/21
+473708	132.74847	Materials analysis by ion channeling : submicron crystallography	Leonard C. Feldman, James W. Mayer, S. Thomas Picraux	1985/03/29
+152927	132.74847	増訂晩明史籍考	謝國◆D15163◆編著	1984/01/17
+1736326	132.53937	医療コミュニケーション入門 : コミュニケーション・スキル・トレーニング	町田いづみ, 保坂隆著	2017/08/08
+754967	132.39302	ムンク	[ムンク画]/ジョン・ボールトン・スミス著/佐藤幸宏訳	2003/11/07
+425149	132.39302	Cohomology and differential forms	Izu Vaisman/translation editor, Samuel I. Goldberg	
+492383	132.2694	The poetry of W. H. Auden : the disenchanted island	Monroe K. Spears	
+868130	132.18193	Kinetic theory of gases : with an introduction to statistical mechanics	Earle H. Kennard	1999/09/22
+752561	132.18193	性科学の誕生 : 欲望/消費/個人主義1871-1914	ローレンス・バーキン著/太田省一訳	1997/12/15
+731059	132.18193	実践MPEG教科書	マルチメディア通信研究会編	1997/07/24
+699351	132.18193	MPEG	テレビジョン学会編	1997/02/21
+281229	132.18193	かたちと力 : 原子からレンブラントへ	ルネ・ユイグ著/西野嘉章, 寺田光徳訳	1989/08/24
+395064	132.18193	Second World Conference on National Parks : Yellowstone and Grand Teton National Parks, U.S.A., September 18-27, 1972	edited by Sir Hugh Elliott	1984/12/11
+107716	132.18193	千島列島黎明記	H・J・スノー著  馬場脩  大久保義昭訳	1981/01/22
+1143651	132.18193	最新MPEG教科書	マルチメディア通信研究会編	
+1365225	132.16246	韓日・日韓漢字語用例辞典	山本貫三, 朴賢雨著	2010/02/24
+1164308	132.16246	臺灣史研究一百年 : 回顧與研究	黄富三, 古偉瀛, 蔡采秀主編	2003/03/12
+328082	132.16246	大進化 : 適応と種分化のダイナミクス	N. エルドリッジ著/高木浩一訳	1992/05/08
+651302	131.94702	モーツァルトを聴く人 : 谷川俊太郎詩集	谷川俊太郎著	1996/02/15
+1310034	131.83289	古墳時代の水利社会研究	若狭徹著	2008/01/23
+1288971	131.83289	脳と無意識 : ニューロンと可塑性	フランソワ・アンセルメ, ピエール・マジストレッティ著/長野敬, 藤野邦夫訳	2006/12/13
+235792	131.83289	体罰と子どもの人権	村上義雄[ほか]編	1987/01/20
+1422232	131.8087	幼稚園教育要領解説 : 平成20年10月	文部科学省 [編]	2011/09/08
+1399850	131.714	強迫性障害 : 精神病理学から神経生物学への展開	日本生物学的精神医学会編/日本生物学的精神医学会編	1994/10/20
+1700478	131.68605	消化器	医療情報科学研究所編/医療情報科学研究所編	2016/09/02
+1353706	131.68605	入門Radiant CMS	前田剛著	2009/10/20
+1333261	131.68605	伝説の日中文化サロン上海・内山書店	太田尚樹著	2008/11/28
+1099150	131.68605	民家日用教訓衆方規矩/心学道話家訓心得草	[宣陽堂主人編/薮の内竹斎跋]/[中村一鴎作/中村寄釜跋]	1998/12/08
+1144647	131.68605	日用珍術万宝智恵海/民家日用広益秘事大全	[三松館主人編・序]	1998/11/11
+1039961	131.68605	おたまじゃくしの101ちゃん	かこさとし脚本/仲川道子画	1990/02/13
+1121664	131.68605	岩手の研究 : 現代の変貌		1989/03/10
+1019668	131.68605	群書解題 第1	続群書類従完成会編	1981/03/28

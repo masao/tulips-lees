@@ -5,7 +5,6 @@
 419335	Distributed processing		1979/02/28
 419336	Distributed processing		1979/02/28
 419337	Distributed processing	Burt H. Liebowitz, John H. Carson	1980/03/06
-428251	Standardized pilot milk plants	by H. S. Hall	1977/09/07
 437236	Imagery and verbal processes	Allan Paivio
 443777	Petroleum processing handbook	co-editors, William F. Bland, Robert L. Davidson	1975/07/12
 444813	Programs for digital signal processing	ed. by the Digital Signal Processing Committee IEEE Acoustics, Speech, and Signal Processing Society	1985/01/17
@@ -26,6 +25,7 @@
 523077	Text processing	edited by Wolfgang Burghardt and Klaus Hoelker	1983/02/03
 526979	Preconscious processing	Norman F. Dixon	1983/11/18
 538389	Digital document processing	H. S. Hou	1985/03/08
+538856	Digital picture processing	Azriel Rosenfeld, Avinash C. Kak	1985/01/30
 539420	Digital image processing techniques	edited by Michael P. Ekstrom	1985/03/29
 550358	Language processing in bilinguals : psycholinguistic and neuropsychological perspectives	edited by Jyotsna Vaid	1988/02/08
 554980	Digital signal processing	Richard A. Roberts, Clifford T. Mullis	1988/03/10
@@ -107,6 +107,7 @@
 1167300	Mathematical morphology in image processing	edited by Edward R. Dougherty	2003/03/14
 1182779	Adaptive image processing : a computational intelligence perspective	Stuart William Perry, Hau-San Wong, Ling Guan/series editor: Phillip A. Laplante	2003/09/24
 1186667	Multirate digital signal processing	Ronald E. Crochiere, Lawrence R. Rabiner	2003/11/04
+1189273	プログラミングで学ぶ基礎物理とデータ処理	佘錦華, 橋本洋志, 天野直紀共著	2003/10/20
 1192869	Fundamental algorithms	Dario Bini, Victor Y. Pan	2004/01/09
 1208540	Modern signal processing	edited by Daniel N. Rockmore, Dennis M. Healy, Jr	2004/08/20
 1213113	Fractal speech processing	Marwan Al-Akaidi	2004/11/11
@@ -196,6 +197,7 @@
 1736003	Matrix algebra useful for statistics	Shayle R. Searle, André I. Khuri	2017/08/23
 1737716	Text mining : a guidebook for the social sciences	Gabe Ignatow, Rada Mihalcea	2017/09/11
 1738679	ドライプロセスによる表面処理・薄膜形成の応用	表面技術協会編	2017/09/13
+1738975	これからはじめるPremiere Proの本	佐藤太郎, 白井小太郎著	2017/09/13
 1740514	ArduinoとProcessingではじめるプロトタイピング入門	青木直史著	2017/09/29
 1742498	English corpus linguistics : crossing paths	edited by Merja Kytö	2017/11/07
 1743501	OpenCVによる画像処理入門	小枝正直, 上田悦子, 中村恭之著	2017/11/17
