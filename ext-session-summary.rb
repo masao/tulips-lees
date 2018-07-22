@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require "date"
 require "json"
 require_relative "ext-query.rb"
 require_relative "util.rb"
@@ -7,7 +8,10 @@ require_relative "util.rb"
 def output(key, hash)
   #p [ key, hash ]
   if hash[:bib]
-    puts [ key, hash[:request], hash[:query].to_a.uniq.size, hash[:bib].to_a.uniq.size ].join("\t")
+    puts [
+      key, hash[:request], hash[:query].to_a.uniq.size, hash[:bib].to_a.uniq.size,
+      hash[:hour], hash[:cwday],
+    ].join("\t")
   end
 end
 
@@ -25,6 +29,11 @@ if $0 == __FILE__
     log = JSON.parse(json)
     log.keys.each do |k|
       log[k.to_sym] = log[k]
+    end
+    if hash.empty?
+      time = DateTime.strptime(log[:time], "%d/%b/%Y:%H:%M:%S %z")
+      hash[:hour] = time.hour
+      hash[:cwday] = time.cwday
     end
     queries = extract_queries(log)
     queries.each do |query|
