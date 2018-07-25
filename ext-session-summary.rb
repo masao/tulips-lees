@@ -8,14 +8,16 @@ require_relative "util.rb"
 def output(key, hash)
   #p [ key, hash ]
   if hash[:bib]
+    period = hash[:times].last - hash[:times].first
     puts [
       key, hash[:request], hash[:query].to_a.uniq.size, hash[:bib].to_a.uniq.size,
-      hash[:hour], hash[:cwday],
+      period, hash[:times].first.hour, hash[:times].first.wday,
     ].join("\t")
   end
 end
 
 if $0 == __FILE__
+  include AccessLog
   include AccessLog::Query
   prev_id = nil
   hash = {}
@@ -30,11 +32,8 @@ if $0 == __FILE__
     log.keys.each do |k|
       log[k.to_sym] = log[k]
     end
-    if hash.empty?
-      time = DateTime.strptime(log[:time], "%d/%b/%Y:%H:%M:%S %z")
-      hash[:hour] = time.hour
-      hash[:cwday] = time.cwday
-    end
+    hash[:times] ||= []
+    hash[:times] << parse_time(log[:time])
     queries = extract_queries(log)
     queries.each do |query|
       if not query.strip.empty?
