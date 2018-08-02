@@ -43,6 +43,9 @@ if $0 == __FILE__
         elsif uri.path == "/limedio/dlam/B29/B2986065/1.pdf" and log[:status] == "404"
           count[:request] += 1
           next
+        elsif uri.path == "/w5lib/?feed=rss2"
+          count[:request] += 1
+          next
         end
       rescue URI::InvalidURIError
         count[:request] += 1
