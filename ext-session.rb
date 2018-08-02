@@ -31,6 +31,7 @@ def access_to_bibliography?(logs)
 end
 
 def output(key, logs)
+  logs = logs.sort_by.with_index{|e, idx| [ e[:time], idx ] }
   last_time = parse_time(logs.last[:time])
   logs.each do |e|
     puts [ Digest::MD5.hexdigest([key, last_time].join), e.to_json ].join("\t")
