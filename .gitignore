@@ -1,8 +1,10 @@
 access_logs
 filtered_logs
 sessions
+sessions.*
 session-ids
 session-summary
+session-summary.*
 usage.db
 query.db
 ncid2bibid.db
