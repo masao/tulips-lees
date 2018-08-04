@@ -4,7 +4,7 @@ require "json"
 require 'digest/md5'
 require_relative "util.rb"
 
-SESSION_EXPIRE = 30 * 60
+SESSION_EXPIRE = 15 * 60
 
 BOT_MINIMUM_SIZE = 200
 BOT_INTERVAL = 5.0 # 4 accesses per minute
