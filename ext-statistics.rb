@@ -5,7 +5,9 @@ require "descriptive_statistics"
 lines = []
 ARGF.each do |line|
   next if line.strip.empty?
-  lines << line.to_i
+  line.split(/,/).each do |e|
+    lines << line.to_i
+  end
 end
 
 puts "Size: #{lines.size}"
