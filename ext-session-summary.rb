@@ -10,8 +10,9 @@ def output(key, hash)
   if hash[:bib]
     period = hash[:times].last - hash[:times].first
     puts [
-      key, hash[:request], hash[:query].to_a.uniq.size, hash[:bib].to_a.uniq.size,
+      key, hash[:request], hash[:bib].to_a.uniq.size,
       period, hash[:times].first.hour, hash[:times].first.wday,
+      hash[:query].to_a.uniq.size, hash[:query].to_a.uniq.map{|e| e.size }.join(","),
     ].join("\t")
   end
 end

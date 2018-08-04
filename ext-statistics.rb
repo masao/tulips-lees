@@ -2,8 +2,10 @@
 
 require "descriptive_statistics"
 
-lines = ARGF.map do |line|
-  line.to_i
+lines = []
+ARGF.each do |line|
+  next if line.strip.empty?
+  lines << line.to_i
 end
 
 puts "Size: #{lines.size}"
