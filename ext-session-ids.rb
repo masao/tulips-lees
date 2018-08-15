@@ -14,7 +14,8 @@ if $0 == __FILE__
       log[k.to_sym] = log[k]
     end
     queries = extract_queries(log)
-    queries.each do |query|
+    queries.each do |e|
+      query = e[:query]
       if not query.strip.empty?
         query = query.gsub(/\s+/o, " ").strip
         puts [key, "query: #{query}"].join("\t")

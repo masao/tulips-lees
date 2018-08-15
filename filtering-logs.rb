@@ -20,7 +20,8 @@ if $0 == __FILE__
         count[:request] += 1
         next
       end
-      if log[:status] == "206"
+      case log[:status]
+      when "206", "302" #skip "Particl" and "Redirect"
         count[:other] += 1
         next
       end
@@ -44,6 +45,9 @@ if $0 == __FILE__
           count[:request] += 1
           next
         elsif uri.path == "/w5lib/?feed=rss2"
+          count[:request] += 1
+          next
+        elsif uri.path == "/cgi-bin/limedio/googlebooksapi"
           count[:request] += 1
           next
         end

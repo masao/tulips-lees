@@ -13,6 +13,7 @@ def output(key, hash)
       key, hash[:request], hash[:bib].to_a.uniq.size,
       period, hash[:times].first.hour, hash[:times].first.wday,
       hash[:query].to_a.uniq.size, hash[:query].to_a.uniq.map{|e| e.size }.join(","),
+      hash[:query_source].to_a.uniq.join(","),
     ].join("\t")
   end
 end
@@ -36,11 +37,15 @@ if $0 == __FILE__
     hash[:times] ||= []
     hash[:times] << parse_time(log[:time])
     queries = extract_queries(log)
-    queries.each do |query|
+    queries.each do |e|
+      p e
+      query = e[:query]
       if not query.strip.empty?
         query = query.gsub(/\s+/o, " ").strip
         hash[:query] ||= []
         hash[:query] << query
+        hash[:query_source] ||= []
+        hash[:query_source] << e[:source]
       end
     end
     bibids = extract_bibids(log)

@@ -10,13 +10,13 @@ PATTERNS = [
   { path: "/mylimedio/search/search.do", query: "title" },
 ]
 REFERER_PATTERNS = [
-  { host: /google\.(co\.\w\w|com)\z/o, query: "q", encoding: "ie" },
-  { host: /yahoo\.(co\.\w\w|com)\z/o, query: "p", encoding: "ei" },
-  { host: /bing\.com\z/o, query: "q" },
-  { host: "tsukuba.summon.serialssolutions.com", query: "q" },
-  { host: "tsukuba.summon.serialssolutions.com", query: "s.q" },
-  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "rft.atitle" },
-  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "C" },
+  { host: /google\.(co\.\w\w|com)\z/o, query: "q", encoding: "ie", source: :google },
+  { host: /yahoo\.(co\.\w\w|com)\z/o, query: "p", encoding: "ei", source: :yahoo },
+  { host: /bing\.com\z/o, query: "q", source: :bing },
+  { host: "tsukuba.summon.serialssolutions.com", query: "q", source: :summon },
+  { host: "tsukuba.summon.serialssolutions.com", query: "s.q", source: :summon },
+  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "rft.atitle", source: :"360link" },
+  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "C", source: :"360link" },
 ]
   def extract_queries(data)
     queries = []
@@ -31,7 +31,7 @@ REFERER_PATTERNS = [
           params.each do |k, v|
             if pattern[:query] === k and not v.strip.empty?
               #p [ data[:path], data[:referer] ]
-              queries << v
+              queries << { query: v, source: pattern[:source] || :opac }
             end
           end
         end
@@ -58,7 +58,7 @@ REFERER_PATTERNS = [
           params.each do |k, v|
             if pattern[:query] === k and not v.strip.empty?
               #p [ data[:path], data[:referer] ]
-              queries << v
+              queries << { query: v, source: pattern[:source] }
             end
           end
         end
