@@ -38,7 +38,6 @@ if $0 == __FILE__
     hash[:times] << parse_time(log[:time])
     queries = extract_queries(log)
     queries.each do |e|
-      p e
       query = e[:query]
       if not query.strip.empty?
         query = query.gsub(/\s+/o, " ").strip
