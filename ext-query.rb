@@ -15,8 +15,8 @@ REFERER_PATTERNS = [
   { host: /bing\.com\z/o, query: "q", source: :bing },
   { host: "tsukuba.summon.serialssolutions.com", query: "q", source: :summon },
   { host: "tsukuba.summon.serialssolutions.com", query: "s.q", source: :summon },
-  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "rft.atitle", source: :"360link" },
-  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "C", source: :"360link" },
+  { host: "jn2xs2wb8u.search.serialssolutions.com", query: ["rft.jtitle", "rft.atitle"], source: :"360link" },
+  { host: "jn2xs2wb8u.search.serialssolutions.com", query: "C", source: :"360link", min_size: 2 },
 ]
   def extract_queries(data)
     queries = []
@@ -31,7 +31,7 @@ REFERER_PATTERNS = [
           params.each do |k, v|
             if pattern[:query] === k and not v.strip.empty?
               #p [ data[:path], data[:referer] ]
-              queries << { query: v, source: pattern[:source] || :opac }
+              queries << { query: normalize_query(v), source: pattern[:source] || :opac }
             end
           end
         end
@@ -56,9 +56,13 @@ REFERER_PATTERNS = [
             end
           end
           params.each do |k, v|
-            if pattern[:query] === k and not v.strip.empty?
-              #p [ data[:path], data[:referer] ]
-              queries << { query: v, source: pattern[:source] }
+            next if pattern[:min_size] and v.size < pattern[:min_size]
+            query_params = pattern[:query]
+            query_params = [ query_params ] if not pattern[:query].respond_to? :each
+            query_params.each do |param|
+              if param == k and not v.strip.empty?
+                queries << { query: normalize_query(v), source: pattern[:source] }
+              end
             end
           end
         end
@@ -67,6 +71,10 @@ REFERER_PATTERNS = [
     rescue
     end
     queries
+  end
+  private
+  def normalize_query(str)
+    str.gsub(/　/, " ").gsub(/\s+/, " ").strip
   end
 end
 
