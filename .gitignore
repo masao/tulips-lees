@@ -5,6 +5,7 @@ sessions.*
 session-ids
 session-summary
 session-summary.*
+session-summary-query.*
 usage.db
 query.db
 ncid2bibid.db
